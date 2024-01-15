@@ -1,0 +1,145 @@
+{
+  "es": {
+    "auth": {
+      "general": {
+        "sendVerificationCodeSuccessfully": "El código de verificación se ha enviado con éxito",
+        "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres (caracteres especiales, números, mayúsculas y minúsculas)",
+        "strongPassword": "La contraseña debe contener de 8 a 10 caracteres alfanuméricos y al menos una mayúscula",
+        "inactiveUser": "En este momento no tiene permitido acceder. Contacte con un administrador",
+        "loginNotAllowedTitle": "Información",
+        "loginNotAllowedMessage": "En este momento no tiene permitido iniciar sesión en la aplicación.",
+        "loginNotAllowedAction": "OK"
+      },
+
+      "validateAccount": {
+        "title": "Validación de Cuenta",
+        "description": "Ingresa el código que enviamos al celular asociado a tu cuenta 315 xxxxxx8",
+        "wrongCode": "!Oops! El código que ingresaste no es válido",
+        "resendCode": "Reenviar código de verificación",
+        "newPassword": "Nueva Contraseña",
+        "confirmPassword": "Repite la contraseña",
+        "newPasswordPlaceholder": "Ingresa la contraseña",
+        "confirmPasswordPlaceholder": "Repite la contraseña",
+        "updatePassword": "Actualiza tu contraseña",
+        "dontMissMatchPasswords": "¡Ojo! Las contraseñas no coinciden",
+        "updatePasswordSuccessfully": "Tu contraseña se actualizó exitosamente",
+        "strongCode": "Debe tener 6 dígitos",
+        "invalidCode": "¡Ojo! Código de verificación inválido",
+        "unnecessaryValidation": "Esta cuenta no requiere validación",
+        "textBtn": "Verificar Cuenta",
+        "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario"
+      },
+      "updatePassword": {
+        "title": "Actualizar tu contraseña",
+        "titleRegisterAccount": "Resgistrando Cuenta",
+        "titleFailedRegisterAccount": "NO SE HA PODIDO COMPLETAR TU REGISTRO",
+        "textFailedRegisterAccount": "Este equipo, ya está asociado a la cuenta de otro usuario, contacta al administrador",
+        "description": "Para continuar, actualiza tu contraseña",
+        "newPassword": "Nueva contraseña *",
+        "confirmPassword": "Repetir Contraseña",
+        "newPasswordPlaceholder": "Ingresa tu nueva contraseña",
+        "confirmPasswordPlaceholder": "Cofirma tu nueva contraseña",
+        "updatePassword": "Actualizar contraseña",
+        "dontMissMatchPasswords": "¡Oops! Las contraseñas no coinciden",
+        "updatePasswordSuccessfully": "Tu contraseña se actualizó exitosamente",
+        "wrongCredentials": "El usuario y la contraseña no coinciden",
+        "passwordDontMatch": "¡Ojo! La contraseña no coincide",
+        "textUpdatePassword": "La contraseña debe al menos 8 caracteres, y que contenga 1 carácter especial, números, mayúscula y minúsculas",
+        "textBtnFailedRegisterAccount": "Volver al Inicio",
+        "titleSuccesFulConfigurationText": "Configuración Exitosa",
+        "textSuccesFulConfigurationText": "Genial! Estás listo para acceder a la plataforma.",
+        "textBtnStartApp": "Comencemos",
+        "secondTextDescription": "Debes actualizar tu contraseña para continuar",
+        "needHelpLoggingIn": "¿Necesitas ayuda para iniciar sesión?",
+        "selectTheRecoveryOption": "Selecciona la opción con la que te podemos asistir hoy",
+        "btnTextRecoveryUser": "RECUPERAR USUARIO",
+        "btnTextRecoveryPassword": "RECUPERAR CONTRASEÑA"
+      },
+      "screens": {
+        "validateAccount": "Valida tu cuenta",
+        "updatePassword": "Actualiza tu contraseña",
+        "signIn": "Inicio de sesión",
+        "otpCode": "otpCode",
+        "sendEmail": "sendEmail"
+      },
+      "updatePasswordModal": {
+        "title": "Restablecer contraseña",
+        "currentPassword": "Ingresa tu contraseña actual",
+        "currentPasswordPlaceholder": "Ingrese su Contraseña actual",
+        "newPassword": "Nueva Contraseña *",
+        "confirmPassword": "Repetir Contraseña *",
+        "newPasswordPlaceholder": "Ingrese nueva contraseña",
+        "confirmPasswordPlaceholder": "Confirma la contraseña",
+        "updatePassword": "Actualiza la contraseña",
+        "dontMissMatchPasswords": "¡Ojo! Las contraseñas no coinciden",
+        "updatePasswordSuccessfully": "Tu contraseña ha sido actualizada exitosamente",
+        "unnecessaryValidation": "Esta cuenta no requiere validación",
+        "invalidPassword": "La contraseña actual no es válida"
+      },
+      "signIn": {
+        "username": "Nombre de usuario",
+        "emptyEmail": "Introduce una dirección de correo electrónico",
+        "password": "Ingrese Contraseña",
+        "emptyPassword": "Introduce una contraseña",
+        "signIn": "Iniciar Sesión",
+        "problemsToSign": "Recuperar contraseña",
+        "passwordPlaceholder": "Ingresa una contraseña",
+        "title": "INICIO DE SESIÓN",
+        "userValitedFailure": "No hemos podido validar tu usuario",
+        "wrongCredentials": "El usuario y la contraseña no coinciden",
+        "wrongEmail": "Por favor, verifica que tu correo eletrónico esté escrito correctamente",
+        "btnHelp": "¿Necesitas ayuda?",
+        "textBtnLogin": "Iniciar Sesión",
+        "placeHolderPassword": "*******",
+        "placeHolderUser": "Ingrese correo o ID MacroPay."
+      },
+      "otpCode": {
+        "title": "RECUPERAR CONTRASEÑA",
+        "description": "Ingresa el código de verificación de identidad que se envió al correo electrónico que proporcionaste",
+        "wrongCode": "¡Oops! El código que ingresaste no es válido ",
+        "goBack": "Regresar",
+        "resendCode": "Reenviar el código de verificación",
+        "verificationCode": "Código de verificación *",
+        "newPassword": "Nueva Contraseña *",
+        "confirmPassword": "Confirmar contraseña",
+        "newPasswordPlaceholder": "Ingresa contraseña",
+        "confirmPasswordPlaceholder": "Repetir Contraseña",
+        "updatePassword": "Reestablecer contraseña",
+        "dontMissMatchPasswords": "¡Oops! Las contraseñas no coinciden",
+        "updatePasswordSuccessfully": "Tu contraseña ha sido actualizada exitosamente",
+        "mustHaveAtLeast": "Debe tener mínimo",
+        "characters": "caracteres",
+        "digits": "Dígitos",
+        "passwordDontMatch": "La contraseña no coincide",
+        "requiredCode": "Introduce el código de verificación",
+        "requiredPassword": "Introduce tu nueva contraseña",
+        "requiredPasswordConfirm": "Confirma tu nueva contraseña"
+      }
+    },
+    "registers": {
+      "registers": {
+        "titleCardIncidentials": "No hay incidencias pendientes",
+        "registerIncidentials": "Registro de Incidencias",
+        "averageEntryTime": "Hora promedio de ingreso",
+        "averageDepartureTime": "Hora promedio de salida",
+        "pendingQuestionnaires": "Cuestionarios pendientes",
+        "designatedQuestionnaires": "Cuestionarios Designados",
+        "assistRecord": "Record de Asistencias",
+        "btnViewLogs": "Ver Registros"
+      },
+      "attendanceRecord": {
+        "title": "Registro de Asistencias",
+        "income": "Entrada con retardo",
+        "outToEat": "Salida a comer",
+        "returnFromEating": "Regreso de comer",
+        "exit": "Salida",
+        "headerReturn": "Regresar",
+        "textIncident": "Incidencia"
+      }
+    },
+    "general": {
+      "shortDate": "d/MM/y",
+      "backButton": "Regresar"
+    }
+  }
+}
