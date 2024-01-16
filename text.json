@@ -77,7 +77,7 @@
         "invalidPassword": "La contraseña actual no es válida"
       },
       "signIn": {
-        "username": "Nombre de usuario",
+        "username": "Nombre de usuario From remote service",
         "emptyEmail": "Introduce una dirección de correo electrónico",
         "password": "Ingrese Contraseña",
         "emptyPassword": "Introduce una contraseña",
