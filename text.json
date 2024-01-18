@@ -9,6 +9,8 @@
         "loginNotAllowedTitle": "Información",
         "loginNotAllowedMessage": "En este momento no tiene permitido iniciar sesión en la aplicación.",
         "loginNotAllowedAction": "OK",
+        "wronPassword": "El usuario y la contraseña no coinciden",
+        "wronEmail": "El usuario y la contraseña no coinciden",
         "unknownError": "Se ha producido un error inesperado"
       },
 
@@ -78,6 +80,7 @@
         "invalidPassword": "La contraseña actual no es válida"
       },
       "signIn": {
+        "title": "INICIO DE SESIÓN",
         "username": "Nombre de usuario ",
         "password": "Ingrese Contraseña",
         "emptyEmail": "",
@@ -85,7 +88,6 @@
         "signIn": "Iniciar Sesión",
         "problemsToSign": "Recuperar contraseña",
         "passwordPlaceholder": "Ingresa una contraseña",
-        "title": "INICIO DE SESIÓN",
         "userValitedFailure": "No hemos podido validar tu usuario",
         "wrongCredentials": "El usuario y la contraseña no coinciden",
         "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
