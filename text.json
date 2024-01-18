@@ -8,7 +8,8 @@
         "inactiveUser": "En este momento no tiene permitido acceder. Contacte con un administrador",
         "loginNotAllowedTitle": "Información",
         "loginNotAllowedMessage": "En este momento no tiene permitido iniciar sesión en la aplicación.",
-        "loginNotAllowedAction": "OK"
+        "loginNotAllowedAction": "OK",
+        "unknownError": "Se ha producido un error inesperado"
       },
 
       "validateAccount": {
@@ -78,16 +79,17 @@
       },
       "signIn": {
         "username": "Nombre de usuario ",
-        "emptyEmail": "Introduce una dirección de correo electrónico",
         "password": "Ingrese Contraseña",
-        "emptyPassword": "Introduce una contraseña",
+        "emptyEmail": "",
+        "emptyPassword": "",
         "signIn": "Iniciar Sesión",
         "problemsToSign": "Recuperar contraseña",
         "passwordPlaceholder": "Ingresa una contraseña",
         "title": "INICIO DE SESIÓN",
         "userValitedFailure": "No hemos podido validar tu usuario",
         "wrongCredentials": "El usuario y la contraseña no coinciden",
-        "wrongEmail": " ",
+        "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
+        "wrongPassword": "La contraseña no es válida, debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)",
         "btnHelp": "¿Necesitas ayuda?",
         "textBtnLogin": "Iniciar Sesión",
         "placeHolderPassword": "*******",
