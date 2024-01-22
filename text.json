@@ -96,9 +96,9 @@
         "textBtnLogin": "Iniciar Sesión",
         "placeHolderPassword": "*******",
         "placeHolderUser": "Ingrese correo o ID MacroPay.",
-        "suspendedUser": "Usuario suspendido, no se puede iniciar sesión. Contacta al administrador.",
-        "userDisabled": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-        "userDoesNotExist": "No hemos encontrado ninguna cuenta asociada a estos datos."
+        "TheUserIsSuspend": "Usuario suspendido, no se puede iniciar sesión. Contacta al administrador.",
+        "TheUserIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "TheUserWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos."
       },
 
       "otpCode": {
