@@ -126,6 +126,16 @@
         "requiredPasswordConfirm": "Confirma tu nueva contraseña"
       }
     },
+    "registers": {
+      "titleCardIncidentials": "No hay incidencias pendientes",
+      "registerIncidentials": "Registro de Incidencias",
+      "averageEntryTime": "Hora promedio de ingreso",
+      "averageDepartureTime": "Hora promedio de salida",
+      "pendingQuestionnaires": "Cuestionarios pendientes",
+      "designatedQuestionnaires": "Cuestionarios Designados",
+      "assistRecord": "Record de Asistencias",
+      "btnViewLogs": "Ver Registros"
+    },
     "userIncidents": {
       "entrys": {
         "btnStart": "INICIAR",
@@ -153,16 +163,6 @@
         "subDescriptiOnCompleteDay": "Esperamos que hayas tenido una jornada productiva!",
         "independenceDay": "Día de la Independencia!",
         "vacationDateValidation": "Válido Hasta "
-      },
-      "registers": {
-        "titleCardIncidentials": "No hay incidencias pendientes",
-        "registerIncidentials": "Registro de Incidencias",
-        "averageEntryTime": "Hora promedio de ingreso",
-        "averageDepartureTime": "Hora promedio de salida",
-        "pendingQuestionnaires": "Cuestionarios pendientes",
-        "designatedQuestionnaires": "Cuestionarios Designados",
-        "assistRecord": "Record de Asistencias",
-        "btnViewLogs": "Ver Registros"
       },
       "attendanceRecord": {
         "title": "Registro de Asistencias",
