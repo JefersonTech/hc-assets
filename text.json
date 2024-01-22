@@ -175,7 +175,8 @@
       }
     },
     "general": {
-      "shortDate": "d/MM/y"
+      "shortDate": "d/MM/y",
+      "notFoundModule": "No se encontró el módulo {{-moduleName}}"
     }
   }
 }
