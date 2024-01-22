@@ -12,9 +12,7 @@
         "wronPassword": "El usuario y la contraseña no coinciden",
         "wronEmail": "El usuario y la contraseña no coinciden",
         "unknownError": "Se ha producido un error inesperado",
-        "wronIdUser": "El ID no cumple con las caracteristicas necesarias",
-        "shortDate": "d/MM/y",
-        "backButton": "Regresar"
+        "wronIdUser": "El ID no cumple con las caracteristicas necesarias"
       },
       "validateAccount": {
         "title": "Validación de Cuenta",
@@ -127,14 +125,25 @@
       }
     },
     "registers": {
-      "titleCardIncidentials": "No hay incidencias pendientes",
-      "registerIncidentials": "Registro de Incidencias",
-      "averageEntryTime": "Hora promedio de ingreso",
-      "averageDepartureTime": "Hora promedio de salida",
-      "pendingQuestionnaires": "Cuestionarios pendientes",
-      "designatedQuestionnaires": "Cuestionarios Designados",
-      "assistRecord": "Record de Asistencias",
-      "btnViewLogs": "Ver Registros"
+      "registers": {
+        "titleCardIncidentials": "No hay incidencias pendientes",
+        "registerIncidentials": "Registro de Incidencias",
+        "averageEntryTime": "Hora promedio de ingreso",
+        "averageDepartureTime": "Hora promedio de salida",
+        "pendingQuestionnaires": "Cuestionarios pendientes",
+        "designatedQuestionnaires": "Cuestionarios Designados",
+        "assistRecord": "Record de Asistencias",
+        "btnViewLogs": "Ver Registros"
+      },
+      "attendanceRecord": {
+        "title": "Registro de Asistencias",
+        "income": "Entrada con retardo",
+        "outToEat": "Salida a comer",
+        "returnFromEating": "Regreso de comer",
+        "exit": "Salida",
+        "headerReturn": "Regresar",
+        "textIncident": "Incidencia"
+      }
     },
     "userIncidents": {
       "entrys": {
@@ -163,16 +172,10 @@
         "subDescriptiOnCompleteDay": "Esperamos que hayas tenido una jornada productiva!",
         "independenceDay": "Día de la Independencia!",
         "vacationDateValidation": "Válido Hasta "
-      },
-      "attendanceRecord": {
-        "title": "Registro de Asistencias",
-        "income": "Entrada con retardo",
-        "outToEat": "Salida a comer",
-        "returnFromEating": "Regreso de comer",
-        "exit": "Salida",
-        "headerReturn": "Regresar",
-        "textIncident": "Incidencia"
       }
+    },
+    "general": {
+      "shortDate": "d/MM/y"
     }
   }
 }
