@@ -12,9 +12,10 @@
         "wronPassword": "El usuario y la contraseña no coinciden",
         "wronEmail": "El usuario y la contraseña no coinciden",
         "unknownError": "Se ha producido un error inesperado",
-        "wronIdUser": "El ID no cumple con las caracteristicas necesarias"
+        "wronIdUser": "El ID no cumple con las caracteristicas necesarias",
+        "shortDate": "d/MM/y",
+        "backButton": "Regresar"
       },
-
       "validateAccount": {
         "title": "Validación de Cuenta",
         "description": "Ingresa el código que enviamos al celular asociado a tu cuenta 315 xxxxxx8",
@@ -153,7 +154,6 @@
         "independenceDay": "Día de la Independencia!",
         "vacationDateValidation": "Válido Hasta "
       },
-    "registers": {
       "registers": {
         "titleCardIncidentials": "No hay incidencias pendientes",
         "registerIncidentials": "Registro de Incidencias",
@@ -173,11 +173,6 @@
         "headerReturn": "Regresar",
         "textIncident": "Incidencia"
       }
-    },
-
-    "general": {
-      "shortDate": "d/MM/y",
-      "backButton": "Regresar"
     }
   }
 }
