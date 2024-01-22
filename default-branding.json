@@ -3,7 +3,8 @@
   "text": "https://github.com/JefersonTech/hc-assets/blob/main/text.json?raw=true",
   "assets": {
     "appbar": "https://github.com/JefersonTech/hc-assets/blob/main/appbar.png?raw=true",
-    "artBoardCoco": "https://github.com/JefersonTech/hc-assets/blob/main/ArtBoardCoco.png?raw=true"
+    "artBoardCoco": "https://github.com/JefersonTech/hc-assets/blob/main/ArtBoardCoco.png?raw=true",
+    "ArtBoardCocoLogin": "https://github.com/JefersonTech/hc-assets/blob/main/ArtBoardCocoLogin.png?raw=true"
   },
   "palette": {
     "primary": "#000000",
