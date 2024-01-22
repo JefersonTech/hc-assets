@@ -98,7 +98,8 @@
         "placeHolderUser": "Ingrese correo o ID MacroPay.",
         "TheUserIsSuspend": "Usuario suspendido, no se puede iniciar sesión. Contacta al administrador.",
         "TheUserIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-        "TheUserWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos."
+        "TheUserWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "ThePasswordWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos."
       },
 
       "otpCode": {
