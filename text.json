@@ -100,6 +100,9 @@
         "TheUserIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
         "TheUserWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
         "ThePasswordWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "TheEmailWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "TheIdWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "TheNameWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
         "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador."
       },
 
