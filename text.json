@@ -52,11 +52,7 @@
         "titleSuccesFulConfigurationText": "Configuración Exitosa",
         "textSuccesFulConfigurationText": "Genial! Estás listo para acceder a la plataforma.",
         "textBtnStartApp": "Comencemos",
-        "secondTextDescription": "Debes actualizar tu contraseña para continuar",
-        "needHelpLoggingIn": "¿Necesitas ayuda para iniciar sesión?",
-        "selectTheRecoveryOption": "Selecciona la opción con la que te podemos asistir hoy",
-        "btnTextRecoveryUser": "RECUPERAR USUARIO",
-        "btnTextRecoveryPassword": "RECUPERAR CONTRASEÑA"
+        "secondTextDescription": "Debes actualizar tu contraseña para continuar"
       },
       "screens": {
         "validateAccount": "Valida tu cuenta",
@@ -79,6 +75,7 @@
         "unnecessaryValidation": "Esta cuenta no requiere validación",
         "invalidPassword": "La contraseña actual no es válida"
       },
+
       "signIn": {
         "title": "INICIO DE SESIÓN",
         "username": "Nombre de usuario ",
@@ -107,7 +104,13 @@
         "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
         "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador."
       },
-
+      "recoveryUserAndPassword": {
+        "btnTextRecoveryUser": "RECUPERAR USUARIO",
+        "btnTextRecoveryPassword": "RECUPERAR CONTRASEÑA",
+        "needHelpLoggingIn": "¿Necesitas ayuda para iniciar sesión?",
+        "selectTheRecoveryOption": "Selecciona la opción con la que te podemos asistir hoy",
+        "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos."
+      },
       "otpCode": {
         "title": "RECUPERAR CONTRASEÑA",
         "description": "Ingresa el código de verificación de identidad que se envió al correo electrónico que proporcionaste",
@@ -131,6 +134,7 @@
         "requiredPasswordConfirm": "Confirma tu nueva contraseña"
       }
     },
+
     "registers": {
       "registers": {
         "titleCardIncidentials": "No hay incidencias pendientes",
