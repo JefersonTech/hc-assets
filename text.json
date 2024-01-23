@@ -103,6 +103,8 @@
         "theEmailWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
         "theIdWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
         "theNameWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "theImeiIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
         "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador."
       },
 
