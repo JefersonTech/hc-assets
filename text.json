@@ -32,6 +32,11 @@
         "textBtn": "Verificar Cuenta",
         "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario"
       },
+      "verifyUserEmailOrImei": {
+        "emailOrImei": "Email o ID MacroPay",
+        "placeHolderEmailOrImei": "Ingrese su Email o ID MacroPay.",
+        "btnVerifyEmailOrImei": "Verificar"
+      },
       "updatePassword": {
         "title": "Actualizar tu contraseña",
         "titleRegisterAccount": "Resgistrando Cuenta",
@@ -59,7 +64,8 @@
         "updatePassword": "Actualiza tu contraseña",
         "signIn": "Inicio de sesión",
         "otpCode": "otpCode",
-        "sendEmail": "sendEmail"
+        "sendEmail": "sendEmail",
+        "verifyUserEmailOrImei": "Queremos verificar que eres tu"
       },
       "updatePasswordModal": {
         "title": "Restablecer contraseña",
