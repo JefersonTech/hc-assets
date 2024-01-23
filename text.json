@@ -106,10 +106,12 @@
       },
       "recoveryUserAndPassword": {
         "btnTextRecoveryUser": "RECUPERAR USUARIO",
+        "btnUnderstand": "ENTENDIDO",
         "btnTextRecoveryPassword": "RECUPERAR CONTRASEÑA",
         "needHelpLoggingIn": "¿Necesitas ayuda para iniciar sesión?",
         "selectTheRecoveryOption": "Selecciona la opción con la que te podemos asistir hoy",
-        "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos."
+        "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "textSuccessfulModal": "Se ha enviado un Correo y SMS al usuario registrado con este IMEI con terminación xxxxxario@dominio.xx"
       },
       "otpCode": {
         "title": "RECUPERAR CONTRASEÑA",
