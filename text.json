@@ -17,7 +17,7 @@
       "validateAccount": {
         "title": "Validación de Cuenta",
         "description": "Ingresa el código que enviamos al celular asociado a tu cuenta 315 xxxxxx8",
-        "wrongCode": "!Oops! El código que ingresaste no es válido",
+        "wrongCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo",
         "resendCode": "Reenviar código de verificación",
         "newPassword": "Nueva Contraseña",
         "confirmPassword": "Repite la contraseña",
@@ -30,7 +30,9 @@
         "invalidCode": "¡Ojo! Código de verificación inválido",
         "unnecessaryValidation": "Esta cuenta no requiere validación",
         "textBtn": "Verificar Cuenta",
-        "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario"
+        "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario",
+        "codeSendSuccessful": "Se ha enviado un codigo a tu telefono o correo electrónico",
+        "theUserIsBlocked": "La cuenta se ha bloqueado por motivos de seguridad, comuníquese con su administrador"
       },
       "verifyUserEmailOrImei": {
         "emailOrImei": "Email o ID MacroPay",
@@ -94,6 +96,7 @@
         "userValitedFailure": "No hemos podido validar tu usuario",
         "wrongCredentials": "El usuario y la contraseña no coinciden",
         "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
+        "wrongId": "ID no valido",
         "wrongPassword": "La contraseña no es válida, debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)",
         "btnHelp": "¿Necesitas ayuda?",
         "textBtnLogin": "Iniciar Sesión",
