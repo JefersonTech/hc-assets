@@ -60,7 +60,10 @@
         "titleSuccesFulConfigurationText": "Configuración Exitosa",
         "textSuccesFulConfigurationText": "Genial! Estás listo para acceder a la plataforma.",
         "textBtnStartApp": "Comencemos",
-        "secondTextDescription": "Debes actualizar tu contraseña para continuar"
+        "secondTextDescription": "Debes actualizar tu contraseña para continuar",
+        "titleModalPasswordUpdate": "Contraseña actualizada",
+        "descriptionModalPasswordUpdate": "Su contraseña se ha cambiado exitosamente",
+        "btnModalPasswordUpdate": "Inicio de sesión"
       },
       "screens": {
         "validateAccount": "Valida tu cuenta",
