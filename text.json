@@ -54,7 +54,7 @@
         "dontMissMatchPasswords": "¡Oops! Las contraseñas no coinciden",
         "updatePasswordSuccessfully": "Tu contraseña se actualizó exitosamente",
         "wrongCredentials": "El usuario y la contraseña no coinciden",
-        "passwordDontMatch": "¡Ojo! La contraseña no coincide",
+        "passwordDontMatch": "La contraseña no coincide",
         "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)",
         "textBtnFailedRegisterAccount": "Volver al Inicio",
         "titleSuccesFulConfigurationText": "Configuración Exitosa",
