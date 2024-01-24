@@ -3,7 +3,7 @@
     "auth": {
       "general": {
         "sendVerificationCodeSuccessfully": "El código de verificación se ha enviado con éxito",
-        "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres (caracteres especiales, números, mayúsculas y minúsculas)",
+        "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)",
         "strongPassword": "La contraseña debe contener de 8 a 10 caracteres alfanuméricos y al menos una mayúscula",
         "inactiveUser": "En este momento no tiene permitido acceder. Contacte con un administrador",
         "loginNotAllowedTitle": "Información",
@@ -54,7 +54,7 @@
         "updatePasswordSuccessfully": "Tu contraseña se actualizó exitosamente",
         "wrongCredentials": "El usuario y la contraseña no coinciden",
         "passwordDontMatch": "¡Ojo! La contraseña no coincide",
-        "textUpdatePassword": "La contraseña debe al menos 8 caracteres, y que contenga 1 carácter especial, números, mayúscula y minúsculas",
+        "textUpdatePassword": "Se debe mostrar el mensaje: “La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)",
         "textBtnFailedRegisterAccount": "Volver al Inicio",
         "titleSuccesFulConfigurationText": "Configuración Exitosa",
         "textSuccesFulConfigurationText": "Genial! Estás listo para acceder a la plataforma.",
