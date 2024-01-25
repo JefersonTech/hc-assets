@@ -13,7 +13,7 @@
         "wronEmail": "El usuario y la contraseña no coinciden",
         "unknownError": "Se ha producido un error inesperado",
         "wronIdUser": "El ID no cumple con las caracteristicas necesarias",
-        "BtnCancel": "cancelar"
+        "BtnCancel": "Cancelar"
       },
       "validateAccount": {
         "title": "Validación de Cuenta",
@@ -36,8 +36,8 @@
         "theUserIsBlocked": "La cuenta se ha bloqueado por motivos de seguridad, comuníquese con su administrador",
         "titleModalConfirmCancelProcess": "Estas seguro que quieres regresar.",
         "descriptionModalConfirmCancelProcess": "Al confirmar se cancelara el proceso de recupereacion de contraseña.",
-        "btnConfirmCancelProcess": "Confirmar",
-        "btnContinueWithTheProcess": "Cancelar"
+        "btnConfirmCancelProcess": "Si, Confirmar",
+        "btnContinueWithTheProcess": "Cerrar"
       },
       "verifyUserEmailOrImei": {
         "emailOrImei": "Email o ID MacroPay",
