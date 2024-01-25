@@ -28,7 +28,7 @@
         "dontMissMatchPasswords": "¡Ojo! Las contraseñas no coinciden",
         "updatePasswordSuccessfully": "Tu contraseña se actualizó exitosamente",
         "strongCode": "Debe tener 6 dígitos",
-        "invalidCode": "¡Ojo! Código de verificación inválido",
+        "invalidCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo",
         "unnecessaryValidation": "Esta cuenta no requiere validación",
         "textBtn": "Verificar Cuenta",
         "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario",
