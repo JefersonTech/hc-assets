@@ -2,7 +2,27 @@
   "id": 1,
   "text": "https://github.com/JefersonTech/hc-assets/blob/main/company/text.json?raw=true",
   "assets": {
-    "appbar": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/appbar.png?raw=true"
+    "appbar": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/appbar.png?raw=true",
+    "artBoarCocoError": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoarCocoError.png?raw=true",
+    "arttBoardCalendar": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/arttBoardCalendar.png?raw=true",
+    "artBoardCalendarRequest": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardCalendarRequest.png?raw=true",
+    "artBoardCocoInSight": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardCocoInSight.png?raw=true",
+    "artBoardCompleteDay": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardCompleteDay.png?raw=true",
+    "artBoardDelayJustification": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardDelayJustification.png?raw=true",
+    "artBoardDogLaunchView": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardDogLaunchView.png?raw=true",
+    "artBoardEarlyDeparture": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardEarlyDeparture.png?raw=true",
+    "artBoardEntryLate": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardEntryLate.png?raw=true",
+    "artBoardFaceBlue": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardFaceBlue.png?raw=true",
+    "artboardFaceYellow": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artboardFaceYellow.png?raw=true",
+    "artBoardFaceSadYellow": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardFaceSadYellow.png?raw=true",
+    "artBoardFlagMexico": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardFlagMexico.png?raw=true",
+    "artBoardInability": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardInability.png?raw=true",
+    "artBoardJustificationOfAbsence": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardJustificationOfAbsence.png?raw=true",
+    "artBoardOnRestView": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardOnRestView.png?raw=true",
+    "artBoardOnVacationOn": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/appbar.png?raw=true",
+    "artBoardOnVacationView": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardOnVacationView.png?raw=true",
+    "artBoardReturnLauchTime": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardReturnLauchTime.png?raw=true",
+    "artBoardSannesDog": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardSannesDog.png?raw=true"
   },
   "palette": {
     "primary": "#000000",

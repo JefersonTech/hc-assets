@@ -34,10 +34,10 @@
         "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario",
         "codeSendSuccessful": "Se ha enviado un codigo a tu telefono o correo electrónico",
         "theUserIsBlocked": "La cuenta se ha bloqueado por motivos de seguridad, comuníquese con su administrador",
-        "titleModalConfirmCancelProcess": "Estas seguro que Quieres Regresar.",
+        "titleModalConfirmCancelProcess": "Estas seguro que quieres regresar.",
         "descriptionModalConfirmCancelProcess": "Al confirmar se cancelara el proceso de recupereacion de contraseña.",
-        "btnConfirmCancelProcess": "cancelar",
-        "btnContinueWithTheProcess": "continuar"
+        "btnConfirmCancelProcess": "Confirmar",
+        "btnContinueWithTheProcess": "Cancelar"
       },
       "verifyUserEmailOrImei": {
         "emailOrImei": "Email o ID MacroPay",
