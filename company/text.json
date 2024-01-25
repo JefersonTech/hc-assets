@@ -1,0 +1,58 @@
+{
+  "es": {
+    "registers": {
+      "registers": {
+        "titleCardIncidentials": "No hay incidencias pendientes",
+        "registerIncidentials": "Registro de Incidencias",
+        "averageEntryTime": "Hora promedio de ingreso",
+        "averageDepartureTime": "Hora promedio de salida",
+        "pendingQuestionnaires": "Cuestionarios pendientes",
+        "designatedQuestionnaires": "Cuestionarios Designados",
+        "assistRecord": "Record de Asistencias",
+        "btnViewLogs": "Ver Registros"
+      },
+      "attendanceRecord": {
+        "title": "Registro de Asistencias",
+        "income": "Entrada con retardo",
+        "outToEat": "Salida a comer",
+        "returnFromEating": "Regreso de comer",
+        "exit": "Salida",
+        "headerReturn": "Regresar",
+        "textIncident": "Incidencia"
+      }
+    },
+    "userIncidents": {
+      "entrys": {
+        "btnStart": "INICIAR",
+        "btnUnderstand": "ENTENDIDO",
+        "btnJustify": "JUSTIFICAR",
+        "btnFinalizar": "FINALIZAR",
+        "descriptiOntime": "Empezaste con el pie derecho!",
+        "descriptiOnLateEntry": "llegaste un poco tarde!",
+        "descriptiOnLateEntries": "este es tu retraso # ",
+        "descriptiOnHoliday": "Hoy es festivo! ",
+        "descriptiOnVacation": "Disfruta tus vacaciones!",
+        "descriptiOnRest": "Hoy es tu día de descanso!",
+        "descriptiOnLaunchTime": "Ya es tu hora de comida!",
+        "descriptiOnReturnLaunchTime": "Regresaste justo a tiempo!",
+        "descriptiOnNotDetectLaunchTime": "No hemos detectado que hayas salido a comer!",
+        "descriptiOnCompleteDay": "Has finalizado tu jornada!",
+        "thisMounth": " este mes",
+        "subDescriptiOnLateEntry": "Recuerda que tres retrasos consecutivos pueden representar penalizaciones en tu remuneración directa.",
+        "subDescriptiOntime": "Vamos a comenzar una jornada de trabajo con mucha energía!",
+        "subDescriptiOnHoliday": "A disfrutar el merecido día de descanso por motivo de:",
+        "subDescriptiOnVacation": "A disfrutar el merecido día de descanso correspondiente a tus días de vacaciones.",
+        "subDescriptiOnRest": "Según nuestro calendario hoy es tu día de descanso, a reponer energías!!",
+        "subDescriptiOnLauchTime": "Respetar tus horas de alimentación es clave para tu salud!",
+        "subDescriptiOnNotDetectLaunchTime": "Recuerda que debes registrar cada dia tu salida a comer y regreso de tu comida. Cuidar de tu alimentación es fundamental para tu salud!",
+        "subDescriptiOnCompleteDay": "Esperamos que hayas tenido una jornada productiva!",
+        "independenceDay": "Día de la Independencia!",
+        "vacationDateValidation": "Válido Hasta "
+      }
+    },
+    "general": {
+      "shortDate": "d/MM/y",
+      "notFoundModule": "No se encontró el módulo {{-moduleName}}"
+    }
+  }
+}
