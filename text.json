@@ -35,7 +35,9 @@
         "codeSendSuccessful": "Se ha enviado un codigo a tu telefono o correo electrónico",
         "theUserIsBlocked": "La cuenta se ha bloqueado por motivos de seguridad, comuníquese con su administrador",
         "titleModalConfirmCancelProcess": "Estas seguro que Quieres Regresar.",
-        "descriptionModalConfirmCancelProcess": "Al confirmar se cancelara el proceso de recupereacion de contraseña."
+        "descriptionModalConfirmCancelProcess": "Al confirmar se cancelara el proceso de recupereacion de contraseña.",
+        "btnConfirmCancelProcess": "cancelar",
+        "btnContinueWithTheProcess": "continuar"
       },
       "verifyUserEmailOrImei": {
         "emailOrImei": "Email o ID MacroPay",
