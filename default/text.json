@@ -33,12 +33,13 @@
         "unnecessaryValidation": "Esta cuenta no requiere validación",
         "textBtn": "Verificar Cuenta",
         "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario",
-        "codeSendSuccessful": "Se ha enviado un codigo a tu telefono o correo electrónico",
+        "codeSendSuccessful": "Se ha enviado un codigo a tu telefono.",
         "theUserIsBlocked": "La cuenta se ha bloqueado por motivos de seguridad, comuníquese con su administrador",
         "titleModalConfirmCancelProcess": "Estas seguro que quieres regresar.",
         "descriptionModalConfirmCancelProcess": "Al confirmar se cancelara el proceso de recupereacion de contraseña.",
         "btnConfirmCancelProcess": "Si, Confirmar",
-        "btnContinueWithTheProcess": "Cerrar"
+        "btnContinueWithTheProcess": "Cerrar",
+        "btnSnackResendCode": "Cerrar"
       },
       "verifyUserEmailOrImei": {
         "emailOrImei": "Email o ID MacroPay",
@@ -68,7 +69,7 @@
         "secondTextDescription": "Debes actualizar tu contraseña para continuar",
         "titleModalPasswordUpdate": "Contraseña actualizada",
         "descriptionModalPasswordUpdate": "Su contraseña se ha cambiado exitosamente",
-        "btnModalPasswordUpdate": "Inicio de sesión"
+        "btnModalPasswordUpdate": "ENTENDIDO"
       },
       "screens": {
         "validateAccount": "Valida tu cuenta",
