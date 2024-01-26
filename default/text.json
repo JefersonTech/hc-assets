@@ -33,7 +33,7 @@
         "unnecessaryValidation": "Esta cuenta no requiere validación",
         "textBtn": "Verificar Cuenta",
         "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario",
-        "codeSendSuccessful": "Se ha enviado un codigo a tu telefono o correo electrónico",
+        "codeSendSuccessful": "Se ha enviado un codigo a tu telefono.",
         "theUserIsBlocked": "La cuenta se ha bloqueado por motivos de seguridad, comuníquese con su administrador",
         "titleModalConfirmCancelProcess": "Estas seguro que quieres regresar.",
         "descriptionModalConfirmCancelProcess": "Al confirmar se cancelara el proceso de recupereacion de contraseña.",
