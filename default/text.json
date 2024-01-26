@@ -38,7 +38,8 @@
         "titleModalConfirmCancelProcess": "Estas seguro que quieres regresar.",
         "descriptionModalConfirmCancelProcess": "Al confirmar se cancelara el proceso de recupereacion de contraseña.",
         "btnConfirmCancelProcess": "Si, Confirmar",
-        "btnContinueWithTheProcess": "Cerrar"
+        "btnContinueWithTheProcess": "Cerrar",
+        "btnSnackResendCode": "Cerrar"
       },
       "verifyUserEmailOrImei": {
         "emailOrImei": "Email o ID MacroPay",
