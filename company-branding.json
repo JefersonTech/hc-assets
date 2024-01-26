@@ -22,7 +22,9 @@
     "artBoardOnVacationOn": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/appbar.png?raw=true",
     "artBoardOnVacationView": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardOnVacationView.png?raw=true",
     "artBoardReturnLauchTime": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardReturnLauchTime.png?raw=true",
-    "artBoardSannesDog": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardSannesDog.png?raw=true"
+    "artBoardSannesDog": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/artBoardSannesDog.png?raw=true",
+    "menuBg": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/menu-bg.jpeg?raw=true",
+    "userProfile": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/user-profile-menu.png?raw=true"
   },
   "palette": {
     "primary": "#000000",
@@ -31,6 +33,7 @@
     "error": "#000000",
     "info": "#000000",
     "success": "#000000",
-    "warning": "#000000"
+    "warning": "#000000",
+    "appbarBackground": "#0038AE"
   }
 }
