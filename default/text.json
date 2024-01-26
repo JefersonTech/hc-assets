@@ -13,7 +13,8 @@
         "wronEmail": "El usuario y la contraseña no coinciden",
         "unknownError": "Se ha producido un error inesperado",
         "wronIdUser": "El ID no cumple con las caracteristicas necesarias",
-        "BtnCancel": "Cancelar"
+        "BtnCancel": "Cancelar",
+        "btnGoback": "regresar"
       },
       "validateAccount": {
         "title": "Validación de Cuenta",
