@@ -69,7 +69,7 @@
         "secondTextDescription": "Debes actualizar tu contraseña para continuar",
         "titleModalPasswordUpdate": "Contraseña actualizada",
         "descriptionModalPasswordUpdate": "Su contraseña se ha cambiado exitosamente",
-        "btnModalPasswordUpdate": "Inicio de sesión"
+        "btnModalPasswordUpdate": "ENTENDIDO"
       },
       "screens": {
         "validateAccount": "Valida tu cuenta",
