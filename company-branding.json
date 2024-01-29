@@ -26,7 +26,9 @@
     "artBoardCocoSsitting": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/ArtBoardCocoSsitting.png?raw=true",
     "menuBg": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/menu-bg.jpeg?raw=true",
     "userProfile": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/user-profile-menu.png?raw=true",
-    "blank": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/blank.png?raw=true"
+    "blank": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/blank.png?raw=true",
+    "startMedium": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/start-empty.png?raw=true",
+    "startEmpty": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/start-medium.png?raw=true"
   },
   "palette": {
     "primary": "#000000",

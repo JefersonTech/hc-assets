@@ -18,7 +18,9 @@
         "returnFromEating": "Regreso de comer",
         "exit": "Salida",
         "headerReturn": "Regresar",
-        "textIncident": "Incidencia"
+        "textIncident": "Incidencia",
+        "btnJustify": "Justificar",
+        "untilDate": "Hasta"
       }
     },
     "userIncidents": {
