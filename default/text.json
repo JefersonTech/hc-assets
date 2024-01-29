@@ -85,12 +85,6 @@
           "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
           "textSuccessfulModal": "Se ha enviado un Correo y SMS al usuario registrado con este IMEI con terminación xxxxxario@dominio.xx"
         },
-        "recoveryUser": {
-          "title": "Queremos verificar que eres tu",
-          "emailOrImei": "Email o ID MacroPay",
-          "placeHolderEmailOrImei": "Ingrese su Email o ID MacroPay.",
-          "btnVerifyEmailOrImei": "Verificar"
-        },
         "validateAccount": {
           "title": "Validación de Cuenta",
           "description": "Ingresa el código de verificación de identidad que se envió al correo electrónico que proporcionaste",
@@ -132,6 +126,12 @@
           "descriptionModalPasswordUpdate": "Su contraseña se ha cambiado exitosamente",
           "btnModalPasswordUpdate": "ENTENDIDO"
         },
+        "verifyUserOrId": {
+          "title": "Queremos verificar que eres tu",
+          "emailOrImei": "Email o ID MacroPay",
+          "placeHolderEmailOrImei": "Ingrese su Email o ID MacroPay.",
+          "btnVerifyEmailOrImei": "Verificar"
+        },
         "general": {
           "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres (caracteres especiales, números, mayúsculas y minúsculas)",
           "strongPassword": "La contraseña debe contener de 8 a 10 caracteres alfanuméricos y al menos una mayúscula",
@@ -144,7 +144,8 @@
           "wronIdUser": "El ID no cumple con las caracteristicas necesarias",
           "BtnCancel": "Cancelar",
           "btnGoback": "regresar",
-          "sendVerificationCodeSuccessfully": "El código de verificación se ha enviado con éxito"
+          "sendVerificationCodeSuccessfully": "El código de verificación se ha enviado con éxito",
+          "unKnowError": "Ha sucedido un error inesperado"
         }
       }
     }
