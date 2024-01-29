@@ -107,7 +107,8 @@
           "requiredPassword": "Introduce tu nueva contraseña",
           "requiredPasswordConfirm": "Confirma tu nueva contraseña",
           "codeSendSuccessful": "Hemos enviado un codigo a tu numero de telefono",
-          "btnSnackResendCode": "Cerrar"
+          "btnSnackResendCode": "Cerrar",
+          "verifyAccount": "Verificar"
         },
         "updatePassword": {
           "title": "Actualizar tu contraseña",
@@ -127,8 +128,7 @@
           "descriptionModalPasswordUpdate": "Su contraseña se ha cambiado exitosamente",
           "btnModalPasswordUpdate": "ENTENDIDO",
           "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
-          "invalidCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo",
-          "verifyAccount": "Verificar"
+          "invalidCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo"
         },
         "verifyUserOrId": {
           "title": "Queremos verificar que eres tu",
