@@ -122,13 +122,13 @@
           "updatePasswordSuccessfully": "Tu contraseña se actualizó exitosamente",
           "wrongCredentials": "El usuario y la contraseña no coinciden",
           "passwordDontMatch": "La contraseña no coincide",
-          "textBtnFailedRegisterAccount": "Volver al Inicio",
           "secondTextDescription": "Debes actualizar tu contraseña para continuar",
           "titleModalPasswordUpdate": "Contraseña actualizada",
           "descriptionModalPasswordUpdate": "Su contraseña se ha cambiado exitosamente",
           "btnModalPasswordUpdate": "ENTENDIDO",
           "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
-          "invalidCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo"
+          "invalidCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo",
+          "verifyAccount": "Verificar"
         },
         "verifyUserOrId": {
           "title": "Queremos verificar que eres tu",
