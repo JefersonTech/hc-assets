@@ -149,7 +149,10 @@
           "BtnCancel": "Cancelar",
           "btnGoback": "regresar",
           "sendVerificationCodeSuccessfully": "El código de verificación se ha enviado con éxito",
-          "unKnowError": "Ha sucedido un error inesperado"
+          "unKnowError": "Ha sucedido un error inesperado",
+          "btnConfirmCancelProcess": "Si, Confirmar",
+          "btnContinueWithTheProcess": "Cerrar",
+          "btnSnackResendCode": "Cerrar"
         }
       }
     }
