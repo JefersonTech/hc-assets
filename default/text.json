@@ -105,7 +105,9 @@
           "passwordDontMatch": "La contraseña no coincide",
           "requiredCode": "Introduce el código de verificación",
           "requiredPassword": "Introduce tu nueva contraseña",
-          "requiredPasswordConfirm": "Confirma tu nueva contraseña"
+          "requiredPasswordConfirm": "Confirma tu nueva contraseña",
+          "codeSendSuccessful": "Hemos enviado un codigo a tu numero de telefono",
+          "btnSnackResendCode": "Cerrar"
         },
         "updatePassword": {
           "title": "Actualizar tu contraseña",
@@ -124,7 +126,9 @@
           "secondTextDescription": "Debes actualizar tu contraseña para continuar",
           "titleModalPasswordUpdate": "Contraseña actualizada",
           "descriptionModalPasswordUpdate": "Su contraseña se ha cambiado exitosamente",
-          "btnModalPasswordUpdate": "ENTENDIDO"
+          "btnModalPasswordUpdate": "ENTENDIDO",
+          "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
+          "invalidCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo"
         },
         "verifyUserOrId": {
           "title": "Queremos verificar que eres tu",
