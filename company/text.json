@@ -20,7 +20,8 @@
         "headerReturn": "Regresar",
         "textIncident": "Incidencia",
         "btnJustify": "Justificar",
-        "untilDate": "Hasta"
+        "untilDate": "Hasta",
+        "dateTextTitle": "FECHA"
       }
     },
     "userIncidents": {

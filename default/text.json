@@ -25,14 +25,12 @@
         "confirmPassword": "Repite la contraseña",
         "newPasswordPlaceholder": "Ingresa la contraseña",
         "confirmPasswordPlaceholder": "Repite la contraseña",
-        "updatePassword": "Actualiza tu contraseña",
         "dontMissMatchPasswords": "¡Ojo! Las contraseñas no coinciden",
         "updatePasswordSuccessfully": "Tu contraseña se actualizó exitosamente",
         "strongCode": "Debe tener 6 dígitos",
         "invalidCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo",
         "unnecessaryValidation": "Esta cuenta no requiere validación",
         "textBtn": "Verificar Cuenta",
-        "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario",
         "codeSendSuccessful": "Se ha enviado un codigo a tu telefono.",
         "theUserIsBlocked": "La cuenta se ha bloqueado por motivos de seguridad, comuníquese con su administrador",
         "titleModalConfirmCancelProcess": "Estas seguro que quieres regresar.",
@@ -48,9 +46,7 @@
       },
       "updatePassword": {
         "title": "Actualizar tu contraseña",
-        "titleRegisterAccount": "Resgistrando Cuenta",
         "titleFailedRegisterAccount": "NO SE HA PODIDO COMPLETAR TU REGISTRO",
-        "textFailedRegisterAccount": "Este equipo, ya está asociado a la cuenta de otro usuario, contacta al administrador",
         "description": "Para continuar, actualiza tu contraseña",
         "newPassword": "Nueva contraseña *",
         "confirmPassword": "Repetir Contraseña",
@@ -61,11 +57,7 @@
         "updatePasswordSuccessfully": "Tu contraseña se actualizó exitosamente",
         "wrongCredentials": "El usuario y la contraseña no coinciden",
         "passwordDontMatch": "La contraseña no coincide",
-        "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)",
         "textBtnFailedRegisterAccount": "Volver al Inicio",
-        "titleSuccesFulConfigurationText": "Configuración Exitosa",
-        "textSuccesFulConfigurationText": "Genial! Estás listo para acceder a la plataforma.",
-        "textBtnStartApp": "Comencemos",
         "secondTextDescription": "Debes actualizar tu contraseña para continuar",
         "titleModalPasswordUpdate": "Contraseña actualizada",
         "descriptionModalPasswordUpdate": "Su contraseña se ha cambiado exitosamente",
@@ -95,6 +87,36 @@
       },
 
       "signIn": {
+        "title": "INICIO DE SESIÓN",
+        "username": "Nombre de usuario ",
+        "password": "Ingrese Contraseña",
+        "emptyEmail": "el Email o Id es requerido",
+        "emptyPassword": "La contraseña es requerida",
+        "signIn": "Iniciar Sesión",
+        "problemsToSign": "Recuperar contraseña",
+        "passwordPlaceholder": "Ingresa una contraseña",
+        "userValitedFailure": "No hemos podido validar tu usuario",
+        "wrongCredentials": "El usuario y la contraseña no coinciden",
+        "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
+        "wrongId": "ID no valido",
+        "wrongPassword": "La contraseña no es válida, debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)",
+        "btnHelp": "¿Necesitas ayuda?",
+        "textBtnLogin": "Iniciar Sesión",
+        "placeHolderPassword": "*******",
+        "placeHolderUser": "Ingrese correo o ID MacroPay.",
+        "theUserIsSuspend": "Usuario suspendido, no se puede iniciar sesión. Contacta al administrador.",
+        "theUserIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "theUserWasNotFound": " No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "thePasswordWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "theEmailWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "theIdWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "theNameWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "theImeiIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador."
+      },
+
+      "signUp": {
         "title": "INICIO DE SESIÓN",
         "username": "Nombre de usuario ",
         "password": "Ingrese Contraseña",
@@ -153,6 +175,27 @@
         "requiredCode": "Introduce el código de verificación",
         "requiredPassword": "Introduce tu nueva contraseña",
         "requiredPasswordConfirm": "Confirma tu nueva contraseña"
+      },
+      "settingPassword": {
+        "title": "Actualizar tu contraseña",
+        "placeHolderPassword": "*******",
+        "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)",
+        "password": "Ingrese Contraseña",
+        "updatePassword": "Actualiza tu contraseña"
+      },
+      "registerAccount": {
+        "titleRegisterAccount": "Resgistrando Cuenta",
+        "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario"
+      },
+      "successfulConfiguration": {
+        "titleSuccesFulConfigurationText": "Configuración Exitosa",
+        "textSuccesFulConfigurationText": "Genial! Estás listo para acceder a la plataforma.",
+        "textBtnStartApp": "Comencemos"
+      },
+      "failedAccountRegister": {
+        "updatePassword": "Actualiza tu contraseña",
+        "textFailedRegisterAccount": "Este equipo, ya está asociado a la cuenta de otro usuario, contacta al administrador",
+        "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)"
       }
     }
   }
