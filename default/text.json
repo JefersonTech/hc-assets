@@ -114,10 +114,7 @@
           "title": "Actualizar tu contraseña",
           "titleFailedRegisterAccount": "NO SE HA PODIDO COMPLETAR TU REGISTRO",
           "description": "Para continuar, actualiza tu contraseña",
-          "newPassword": "Nueva contraseña *",
           "confirmPassword": "Repetir Contraseña",
-          "newPasswordPlaceholder": "Ingresa tu nueva contraseña",
-          "confirmPasswordPlaceholder": "Cofirma tu nueva contraseña",
           "updatePassword": "Actualizar contraseña",
           "dontMissMatchPasswords": "¡Oops! Las contraseñas no coinciden",
           "updatePasswordSuccessfully": "Tu contraseña se actualizó exitosamente",
@@ -128,7 +125,12 @@
           "descriptionModalPasswordUpdate": "Su contraseña se ha cambiado exitosamente",
           "btnModalPasswordUpdate": "ENTENDIDO",
           "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
-          "invalidCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo"
+          "invalidCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo",
+          "placeHolderPassword": "*******",
+          "newPassword": "Nueva Contraseña *",
+          "newPasswordPlaceholder": "Ingresa contraseña",
+          "confirmPasswordPlaceholder": "Repetir Contraseña",
+          "btnGoback": "regresar"
         },
         "verifyUserOrId": {
           "title": "Queremos verificar que eres tu",
@@ -152,7 +154,9 @@
           "unKnowError": "Ha sucedido un error inesperado",
           "btnConfirmCancelProcess": "Si, Confirmar",
           "btnContinueWithTheProcess": "Cerrar",
-          "btnSnackResendCode": "Cerrar"
+          "btnSnackResendCode": "Cerrar",
+          "titleModalConfirmCancelProcess": "Estas seguro que quieres regresar.",
+          "descriptionModalConfirmCancelProcess": "Al confirmar se cancelara el proceso de recupereacion de contraseña."
         }
       }
     }
