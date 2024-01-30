@@ -88,7 +88,7 @@
         "validateAccount": {
           "title": "Validación de Cuenta",
           "description": "Ingresa el código de verificación de identidad que se envió al correo electrónico que proporcionaste",
-          "wrongCode": "¡Oops! El código que ingresaste no es válido ",
+          "wrongCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo",
           "goBack": "Regresar",
           "resendCode": "Reenviar el código de verificación",
           "verificationCode": "Código de verificación *",
