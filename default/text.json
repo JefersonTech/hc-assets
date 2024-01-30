@@ -138,7 +138,9 @@
           "title": "Queremos verificar que eres tu",
           "emailOrImei": "Email o ID MacroPay",
           "placeHolderEmailOrImei": "Ingrese su Email o ID MacroPay.",
-          "btnVerifyEmailOrImei": "Verificar"
+          "btnVerifyEmailOrImei": "Verificar",
+          "emptyEmail": "el Email o Id es requerido",
+          "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx"
         },
         "general": {
           "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres (caracteres especiales, números, mayúsculas y minúsculas)",
