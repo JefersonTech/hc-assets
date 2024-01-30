@@ -114,6 +114,7 @@
           "title": "Actualizar tu contraseña",
           "titleFailedRegisterAccount": "NO SE HA PODIDO COMPLETAR TU REGISTRO",
           "description": "Para continuar, actualiza tu contraseña",
+          "emptyPassword": "La contraseña es requerida",
           "confirmPassword": "Repetir Contraseña",
           "updatePassword": "Actualizar contraseña",
           "dontMissMatchPasswords": "¡Oops! Las contraseñas no coinciden",
@@ -130,7 +131,8 @@
           "newPassword": "Nueva Contraseña *",
           "newPasswordPlaceholder": "Ingresa contraseña",
           "confirmPasswordPlaceholder": "Repetir Contraseña",
-          "btnGoback": "regresar"
+          "btnGoback": "regresar",
+          "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)"
         },
         "verifyUserOrId": {
           "title": "Queremos verificar que eres tu",
