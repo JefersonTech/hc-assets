@@ -72,7 +72,10 @@
           "textBtnStartApp": "Comencemos",
           "textFailedRegisterAccount": "Este equipo, ya está asociado a la cuenta de otro usuario, contacta al administrador",
           "titleRegisterAccount": "Resgistrando Cuenta",
-          "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario"
+          "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario",
+          "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres (caracteres especiales, números, mayúsculas y minúsculas)",
+          "passwordDontMatch": "La contraseña no coincide",
+          "requiredPasswordConfirm": "Confirma tu nueva contraseña"
         }
       },
       "recovery": {
@@ -152,7 +155,7 @@
           "loginNotAllowedAction": "OK",
           "wronPassword": "El usuario y la contraseña no coinciden",
           "wronEmail": "El usuario y la contraseña no coinciden",
-          "wronIdUser": "El ID no cumple con las caracteristicas necesarias",
+          "wronIdUser": "El ID no cumple con las caracteristicas  necesarias",
           "BtnCancel": "Cancelar",
           "btnGoback": "regresar",
           "sendVerificationCodeSuccessfully": "El código de verificación se ha enviado con éxito",
