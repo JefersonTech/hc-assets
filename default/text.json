@@ -33,7 +33,7 @@
 
       "signUp": {
         "signUp": {
-          "title": "INICIO DE SESIÓN",
+          "title": "Inicio de Sesión",
           "username": "Nombre de usuario ",
           "password": "Ingrese Contraseña",
           "emptyEmail": "el Email o Id es requerido",
