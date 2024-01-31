@@ -75,7 +75,8 @@
           "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario",
           "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres (caracteres especiales, números, mayúsculas y minúsculas)",
           "passwordDontMatch": "La contraseña no coincide",
-          "requiredPasswordConfirm": "Confirma tu nueva contraseña"
+          "requiredPasswordConfirm": "Confirma tu nueva contraseña",
+          "textBtnFailedRegisterAccount": "Volver al Inicio"
         }
       },
       "recovery": {
