@@ -33,7 +33,8 @@
         "labelIdBranch": "ID Sucursal o Nombre de la Sucursalo",
         "labelDepartment": "Departamento",
         "labelPosition": "Puesto",
-        "labelRequests": "Solicitudes pendientes de revisión"
+        "labelRequests": "Solicitudes pendientes de revisión",
+        "searchBtn": "BUSCAR"
       }
     },
     "userIncidents": {
