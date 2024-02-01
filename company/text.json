@@ -9,7 +9,11 @@
         "pendingQuestionnaires": "Cuestionarios pendientes",
         "designatedQuestionnaires": "Cuestionarios Designados",
         "assistRecord": "Record de Asistencias",
-        "btnViewLogs": "Ver Registros"
+        "btnViewLogs": "Ver Registros",
+        "titlefirstSquareCard": "",
+        "titleSecondSquareCard": "Stats",
+        "descriptionfirstSquareCard": "Colaboradores",
+        "descriptionSecondSquareCard": "Resumen"
       },
       "attendanceRecord": {
         "title": "Registro de Asistencias",
