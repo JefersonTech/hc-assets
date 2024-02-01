@@ -57,7 +57,10 @@
       "shortDate": "d/MM/y",
       "normalDate": "d 'de' MMMM",
       "shortHour": "HH:mmaaa",
-      "notFoundModule": "No se encontró el módulo {{-moduleName}}"
+      "notFoundModule": "No se encontró el módulo {{-moduleName}}",
+      "btnConfirmSignOut": "Si, cancelar",
+      "btnCancelSignOut": "No, regresar",
+      "textSignOut": "Seguro que quieres cerrar session?"
     }
   }
 }
