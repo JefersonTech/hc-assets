@@ -26,15 +26,6 @@
         "btnJustify": "Justificar",
         "untilDate": "Hasta",
         "dateTextTitle": "FECHA"
-      },
-      "searchCollaborators": {
-        "title": "Buscar colaboradores",
-        "labelIdUser": "ID MacroPay o Nombre del Usuario",
-        "labelIdBranch": "ID Sucursal o Nombre de la Sucursalo",
-        "labelDepartment": "Departamento",
-        "labelPosition": "Puesto",
-        "labelRequests": "Solicitudes pendientes de revisión",
-        "searchBtn": "BUSCAR"
       }
     },
     "userIncidents": {
@@ -65,6 +56,15 @@
         "independenceDay": "Día de la Independencia!",
         "vacationDateValidation": "Válido Hasta "
       }
+    },
+    "searchCollaborators": {
+      "title": "Buscar colaboradores",
+      "labelIdUser": "ID MacroPay o Nombre del Usuario",
+      "labelIdBranch": "ID Sucursal o Nombre de la Sucursalo",
+      "labelDepartment": "Departamento",
+      "labelPosition": "Puesto",
+      "labelRequests": "Solicitudes pendientes de revisión",
+      "searchBtn": "BUSCAR"
     },
     "general": {
       "shortDate": "d/MM/y",
