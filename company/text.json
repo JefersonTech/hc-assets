@@ -64,7 +64,8 @@
       "labelDepartment": "Departamento",
       "labelPosition": "Puesto",
       "labelRequests": "Solicitudes pendientes de revisión",
-      "searchBtn": "BUSCAR"
+      "searchBtn": "BUSCAR",
+      "requestItemUserSearch": "Solicitud activa"
     },
     "general": {
       "shortDate": "d/MM/y",
