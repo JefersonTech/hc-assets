@@ -30,7 +30,8 @@
     "blank": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/blank.png?raw=true",
     "startMedium": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/start-empty.png?raw=true",
     "startEmpty": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/start-medium.png?raw=true",
-    "userQr": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/start-medium.png?raw=true"
+    "userQr": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/start-medium.png?raw=true",
+    "iconUser": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/iconUser.png?raw=true"
   },
   "palette": {
     "primary": "#000000",
