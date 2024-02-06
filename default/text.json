@@ -56,7 +56,7 @@
           "placeHolderPassword": "*******",
           "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)",
           "password": "Ingrese Contraseña",
-          "updatePassword": "Actualiza tu contraseña",
+          "updatePassword": "Reestablecer contraseña",
           "titleSuccesFulConfigurationText": "Configuración Exitosa",
           "textSuccesFulConfigurationText": "Genial! Estás listo para acceder a la plataforma.",
           "textBtnStartApp": "Comencemos",
