@@ -50,16 +50,6 @@
           "textBtnLogin": "Iniciar Sesión",
           "placeHolderPassword": "*******",
           "placeHolderUser": "Ingrese correo o ID MacroPay.",
-          "theUserIsSuspend": "Usuario suspendido, no se puede iniciar sesión. Contacta al administrador.",
-          "theUserIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-          "theUserWasNotFound": " No hemos encontrado ninguna cuenta asociada a estos datos.",
-          "thePasswordWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-          "theEmailWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-          "theIdWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-          "theNameWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-          "theImeiIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-          "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-          "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador."
         },
         "settingPassword": {
           "title": "Actualizar tu contraseña",
@@ -78,6 +68,20 @@
           "requiredPasswordConfirm": "Confirma tu nueva contraseña",
           "textBtnFailedRegisterAccount": "Volver al Inicio",
           "requiredPassword": "Introduce tu nueva contraseña"
+        },
+        "general":{
+          "unknownError": "Ha ocurrido un error inesperado ",
+          "theUserIsSuspend": "Usuario suspendido, no se puede iniciar sesión. Contacta al administrador.",
+          "theUserIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+          "theUserWasNotFound": " No hemos encontrado ninguna cuenta asociada a estos datos.",
+          "thePasswordWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+          "theEmailWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+          "theIdWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+          "theNameWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+          "theImeiIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+          "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+          "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador."
+        }
         }
       },
       "recovery": {
