@@ -72,6 +72,16 @@
       "workingDay": "Jornada de Trabajo",
       "shift": "Turno "
     },
+    "requestManagement": {
+      "awaitingRequests": {
+        "titlePartOne": "Solicitudes",
+        "titlePartTwo": "Pendientes",
+        "btnPendingRequest": "PENDIENTE",
+        "sendRequestText": "Enviada ",
+        "textFilter": "Filtrar por ",
+        "textOrder": "Ordenar por "
+      }
+    },
     "general": {
       "shortDate": "d/MM/y",
       "normalDate": "d 'de' MMMM",
