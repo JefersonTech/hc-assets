@@ -67,7 +67,10 @@
       "searchBtn": "BUSCAR",
       "requestItemUserSearch": "Solicitud activa",
       "btnFilter": "Filtrar pro",
-      "btnOrderfor": "Ordenar por"
+      "btnOrderfor": "Ordenar por",
+      "registerOfRequests": "Registro de Solicitudes",
+      "workingDay": "Jornada de Trabajo",
+      "shift": "Turno "
     },
     "general": {
       "shortDate": "d/MM/y",
