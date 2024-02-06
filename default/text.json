@@ -80,7 +80,8 @@
           "theNameWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
           "theImeiIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
           "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-          "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador."
+          "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
+          "theUserCannotRegisterMore": "Los usuarios no pueden registrar imei más de 3 veces."
         }
       },
       "recovery": {
