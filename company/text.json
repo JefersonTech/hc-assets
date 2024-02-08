@@ -85,6 +85,10 @@
       "awaitingMyRequests": {
         "title": "Mis Solicitudes",
         "sendRequestText": "Enviada "
+      },
+      "approbationRequest": {
+        "btnAprobationText": "Confirmar Aprobación",
+        "labelTextAreaInputAddComments": "Agregar comentarios"
       }
     },
 
