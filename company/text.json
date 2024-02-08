@@ -91,9 +91,7 @@
         "labelTextAreaInputAddComments": "Agregar comentarios",
         "titleModalConfirmation": "Confirmación Requerida",
         "textTypeRequest": "aprobar",
-        "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
-        "textBtnConfirmAction": "CONFIRMAR",
-        "textBtnCancelAction": "CANCELAR"
+        "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado."
       },
       "rejectionRequests": {
         "title": "Rechazo de Solicitud",
@@ -102,7 +100,9 @@
       },
       "general": {
         "descriptionModalConfirmPartOne": "¿Está seguro que desea",
-        "descriptionModalConfirmPartTwo": "esta solicitud?"
+        "descriptionModalConfirmPartTwo": "esta solicitud?",
+        "textBtnConfirmAction": "CONFIRMAR",
+        "textBtnCancelAction": "CANCELAR"
       }
     },
 
