@@ -89,8 +89,7 @@
       "approbationRequest": {
         "btnAprobationText": "Confirmar Aprobación",
         "labelTextAreaInputAddComments": "Agregar comentarios",
-        "textTypeRequest": "aprobar",
-        "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado."
+        "textTypeRequest": "aprobar"
       },
       "rejectionRequests": {
         "title": "Rechazo de Solicitud",
@@ -102,7 +101,8 @@
         "descriptionModalConfirmPartTwo": "esta solicitud?",
         "textBtnConfirmAction": "CONFIRMAR",
         "textBtnCancelAction": "CANCELAR",
-        "titleModalConfirmation": "Confirmación Requerida"
+        "titleModalConfirmation": "Confirmación Requerida",
+        "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado."
       }
     },
 
