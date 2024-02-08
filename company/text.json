@@ -81,6 +81,10 @@
         "textFilter": "Filtrar por ",
         "textOrder": "Ordenar por ",
         "btnNewRequest": "Nueva Solicitud"
+      },
+      "awaitingMyRequests": {
+        "title": "Mis Solicitudes",
+        "sendRequestText": "Enviada "
       }
     },
 
