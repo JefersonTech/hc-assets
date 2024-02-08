@@ -93,7 +93,9 @@
         "descriptionModalConfirmPartOne": "¿Está seguro que desea",
         "textTypeRequest": "aprobar",
         "descriptionModalConfirmPartTwo": "esta solicitud?",
-        "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado."
+        "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
+        "textBtnConfirmAction": "CONFIRMAR",
+        "textBtnCancelAction": "CANCELAR"
       }
     },
 
