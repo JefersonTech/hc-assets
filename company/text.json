@@ -96,6 +96,13 @@
         "textBtnRejection": "Confirmar Rechazo",
         "textTypeRequest": "rechazar"
       },
+      "delegateRequest": {
+        "title": "Delegar Solicitud",
+        "description": "De acuerdo con nuestros flujos de trabajo puedes delegar esta solicitud en las siguientes personas",
+        "labelInputSelect": "Seleccionar persona",
+        "textBtnDelegate": "Delegar",
+        "textTypeRequest": "Delegar"
+      },
       "general": {
         "descriptionModalConfirmPartOne": "¿Está seguro que desea",
         "descriptionModalConfirmPartTwo": "esta solicitud?",
