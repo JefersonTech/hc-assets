@@ -96,6 +96,10 @@
         "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
         "textBtnConfirmAction": "CONFIRMAR",
         "textBtnCancelAction": "CANCELAR"
+      },
+      "rejectionRequests": {
+        "title": "Rechazo de Solicitud",
+        "textBtnRejection": "Confirmar Rechazo"
       }
     },
 
