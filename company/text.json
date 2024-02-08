@@ -88,7 +88,12 @@
       },
       "approbationRequest": {
         "btnAprobationText": "Confirmar Aprobación",
-        "labelTextAreaInputAddComments": "Agregar comentarios"
+        "labelTextAreaInputAddComments": "Agregar comentarios",
+        "titleModalConfirmation": "Confirmación Requerida",
+        "descriptionModalConfirmPartOne": "¿Está seguro que desea",
+        "textTypeRequest": "aprobar",
+        "descriptionModalConfirmPartTwo": "esta solicitud?",
+        "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado."
       }
     },
 
