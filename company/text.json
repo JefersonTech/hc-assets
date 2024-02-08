@@ -79,9 +79,11 @@
         "btnPendingRequest": "PENDIENTE",
         "sendRequestText": "Enviada ",
         "textFilter": "Filtrar por ",
-        "textOrder": "Ordenar por "
+        "textOrder": "Ordenar por ",
+        "btnNewRequest": "Nueva Solicitud"
       }
     },
+
     "general": {
       "shortDate": "d/MM/y",
       "normalDate": "d 'de' MMMM",
