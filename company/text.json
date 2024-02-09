@@ -109,7 +109,9 @@
         "textBtnConfirmAction": "CONFIRMAR",
         "textBtnCancelAction": "CANCELAR",
         "titleModalConfirmation": "Confirmación Requerida",
-        "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado."
+        "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
+        "TextValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
+        "TextRequiredValidate": "Este campo es requerido"
       }
     },
 
