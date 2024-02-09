@@ -152,7 +152,13 @@
       "general": {
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
         "textRequiredValidate": "Este campo es requerido",
-        "textRequest": "Solicitud "
+        "textRequest": "Solicitud ",
+        "goToRecuestDetails": {
+          "title": "Solicitud respondida",
+          "descriptionModalDetailsPartOne": "Tu Solicitud de",
+          "descriptionModalDetailsPartTwo": "ha sido aprobada",
+          "btnText": "VER DETALLE"
+        }
       }
     },
 
