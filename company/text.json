@@ -89,19 +89,22 @@
       "approbationRequest": {
         "btnAprobationText": "Confirmar Aprobación",
         "labelTextAreaInputAddComments": "Agregar comentarios",
-        "textTypeRequest": "aprobar"
+        "textTypeRequest": "aprobar",
+        "textSuccessfullAction": "La solicitud fue aprobada con éxito"
       },
       "rejectionRequests": {
         "title": "Rechazo de Solicitud",
         "textBtnRejection": "Confirmar Rechazo",
-        "textTypeRequest": "rechazar"
+        "textTypeRequest": "rechazar",
+        "textSuccessfullAction": "La solicitud fue rechazada con éxito"
       },
       "delegateRequest": {
         "title": "Delegar Solicitud",
         "description": "De acuerdo con nuestros flujos de trabajo puedes delegar esta solicitud en las siguientes personas",
         "labelInputSelect": "Seleccionar persona",
         "textBtnDelegate": "Delegar",
-        "textTypeRequest": "Delegar"
+        "textTypeRequest": "Delegar",
+        "textSuccessfullAction": "La solicitud fue delegada con éxito"
       },
       "general": {
         "descriptionModalConfirmPartOne": "¿Está seguro que desea",
@@ -112,7 +115,8 @@
         "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
         "textRequiredValidate": "Este campo es requerido",
-        "textRequest": "Solicitud "
+        "textRequest": "Solicitud ",
+        "textModalSuccessfull": "ENTENDIDO"
       }
     },
 
