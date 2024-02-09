@@ -89,34 +89,48 @@
       "approbationRequest": {
         "btnAprobationText": "Confirmar Aprobación",
         "labelTextAreaInputAddComments": "Agregar comentarios",
-        "textTypeRequest": "aprobar",
-        "textSuccessfullAction": "La solicitud fue aprobada con éxito"
+        "textSuccessfullAction": "La solicitud fue aprobada con éxito",
+        "modalConfirmation": {
+          "descriptionModalConfirmPartOne": "¿Está seguro que desea",
+          "descriptionModalConfirmPartTwo": "esta solicitud?",
+          "textTypeRequest": "aprobar",
+          "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
+          "textModalSuccessfull": "ENTENDIDO"
+        }
       },
       "rejectionRequests": {
         "title": "Rechazo de Solicitud",
         "textBtnRejection": "Confirmar Rechazo",
-        "textTypeRequest": "rechazar",
-        "textSuccessfullAction": "La solicitud fue rechazada con éxito"
+        "textSuccessfullAction": "La solicitud fue rechazada con éxito",
+        "modalConfirmation": {
+          "descriptionModalConfirmPartOne": "¿Está seguro que desea",
+          "descriptionModalConfirmPartTwo": "esta solicitud?",
+          "textTypeRequest": "rechazar",
+          "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
+          "textModalSuccessfull": "ENTENDIDO"
+        }
       },
       "delegateRequest": {
         "title": "Delegar Solicitud",
         "description": "De acuerdo con nuestros flujos de trabajo puedes delegar esta solicitud en las siguientes personas",
         "labelInputSelect": "Seleccionar persona",
         "textBtnDelegate": "Delegar",
-        "textTypeRequest": "Delegar",
-        "textSuccessfullAction": "La solicitud fue delegada con éxito"
+        "textSuccessfullAction": "La solicitud fue delegada con éxito",
+        "modalConfirmation": {
+          "descriptionModalConfirmPartOne": "¿Está seguro que desea",
+          "descriptionModalConfirmPartTwo": "esta solicitud?",
+          "textTypeRequest": "Delegar",
+          "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
+          "textModalSuccessfull": "ENTENDIDO"
+        }
       },
       "general": {
-        "descriptionModalConfirmPartOne": "¿Está seguro que desea",
-        "descriptionModalConfirmPartTwo": "esta solicitud?",
         "textBtnConfirmAction": "CONFIRMAR",
         "textBtnCancelAction": "CANCELAR",
         "titleModalConfirmation": "Confirmación Requerida",
-        "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
         "textRequiredValidate": "Este campo es requerido",
-        "textRequest": "Solicitud ",
-        "textModalSuccessfull": "ENTENDIDO"
+        "textRequest": "Solicitud "
       }
     },
 
