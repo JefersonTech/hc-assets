@@ -132,6 +132,7 @@
         "labelInputSelect": "Seleccionar persona",
         "textBtnDelegate": "Delegar",
         "textSuccessfullAction": "La solicitud fue delegada con éxito",
+        "labelInput": "Seleccionar persona",
         "modalConfirmation": {
           "titleModalConfirmation": "Confirmación Requerida",
           "descriptionModalConfirmPartOne": "¿Está seguro que desea",
