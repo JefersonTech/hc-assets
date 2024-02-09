@@ -91,11 +91,14 @@
         "labelTextAreaInputAddComments": "Agregar comentarios",
         "textSuccessfullAction": "La solicitud fue aprobada con éxito",
         "modalConfirmation": {
+          "titleModalConfirmation": "Confirmación Requerida",
           "descriptionModalConfirmPartOne": "¿Está seguro que desea",
           "descriptionModalConfirmPartTwo": "esta solicitud?",
           "textTypeRequest": "aprobar",
           "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
-          "textModalSuccessfull": "ENTENDIDO"
+          "textModalSuccessfull": "ENTENDIDO",
+          "textBtnConfirmAction": "CONFIRMAR",
+          "textBtnCancelAction": "CANCELAR"
         }
       },
       "rejectionRequests": {
@@ -103,11 +106,14 @@
         "textBtnRejection": "Confirmar Rechazo",
         "textSuccessfullAction": "La solicitud fue rechazada con éxito",
         "modalConfirmation": {
+          "titleModalConfirmation": "Confirmación Requerida",
           "descriptionModalConfirmPartOne": "¿Está seguro que desea",
           "descriptionModalConfirmPartTwo": "esta solicitud?",
           "textTypeRequest": "rechazar",
           "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
-          "textModalSuccessfull": "ENTENDIDO"
+          "textModalSuccessfull": "ENTENDIDO",
+          "textBtnConfirmAction": "CONFIRMAR",
+          "textBtnCancelAction": "CANCELAR"
         }
       },
       "delegateRequest": {
@@ -117,17 +123,17 @@
         "textBtnDelegate": "Delegar",
         "textSuccessfullAction": "La solicitud fue delegada con éxito",
         "modalConfirmation": {
+          "titleModalConfirmation": "Confirmación Requerida",
           "descriptionModalConfirmPartOne": "¿Está seguro que desea",
           "descriptionModalConfirmPartTwo": "esta solicitud?",
           "textTypeRequest": "Delegar",
           "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
-          "textModalSuccessfull": "ENTENDIDO"
+          "textModalSuccessfull": "ENTENDIDO",
+          "textBtnConfirmAction": "CONFIRMAR",
+          "textBtnCancelAction": "CANCELAR"
         }
       },
       "general": {
-        "textBtnConfirmAction": "CONFIRMAR",
-        "textBtnCancelAction": "CANCELAR",
-        "titleModalConfirmation": "Confirmación Requerida",
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
         "textRequiredValidate": "Este campo es requerido",
         "textRequest": "Solicitud "
