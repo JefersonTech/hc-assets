@@ -99,6 +99,11 @@
           "textModalSuccessfull": "ENTENDIDO",
           "textBtnConfirmAction": "CONFIRMAR",
           "textBtnCancelAction": "CANCELAR"
+        },
+        "modalSuccessfull": {
+          "titleModal": "Solicitud aprobada",
+          "descriptionModal": "La solicitud fue aprobada con éxito",
+          "textBtnModal": "ENTENDIDO"
         }
       },
       "rejectionRequests": {
@@ -114,6 +119,11 @@
           "textModalSuccessfull": "ENTENDIDO",
           "textBtnConfirmAction": "CONFIRMAR",
           "textBtnCancelAction": "CANCELAR"
+        },
+        "modalSuccessfull": {
+          "titleModal": "Solicitud rechazada",
+          "descriptionModal": "La solicitud fue rechazada con éxito",
+          "textBtnModal": "ENTENDIDO"
         }
       },
       "delegateRequest": {
@@ -131,6 +141,11 @@
           "textModalSuccessfull": "ENTENDIDO",
           "textBtnConfirmAction": "CONFIRMAR",
           "textBtnCancelAction": "CANCELAR"
+        },
+        "modalSuccessfull": {
+          "titleModal": "Solicitud delegada",
+          "descriptionModal": "La solicitud fue delegada con éxito",
+          "textBtnModal": "ENTENDIDO"
         }
       },
       "general": {
