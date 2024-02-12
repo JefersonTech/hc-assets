@@ -3,7 +3,7 @@
     "registers": {
       "registers": {
         "titleCardIncidentials": "(0)[No hay solicitudes pendientes];(1)[Solicitud pendiente de revisión];(2-inf)[Solicitudes pendientes de revisión]",
-        "registerIncidentials": "Registro de Incidencias",
+        "registerIncidentials": "Registro de Solicitudes",
         "averageEntryTime": "Hora promedio de ingreso",
         "averageDepartureTime": "Hora promedio de salida",
         "pendingQuestionnaires": "Cuestionarios pendientes",
