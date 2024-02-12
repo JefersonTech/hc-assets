@@ -149,6 +149,14 @@
           "textBtnModal": "ENTENDIDO"
         }
       },
+      "details": {
+        "textBtnDelegate": "Delegar",
+        "textBtnReject": "Rechazar",
+        "textBtnApprove": "Aprobar",
+        "textRequestDelegate": "Solicitud delegada",
+        "textRequestReject": "Solicitud rechazada",
+        "textRequestApproved": "Solicitud aprobada"
+      },
       "general": {
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
         "textRequiredValidate": "Este campo es requerido",
@@ -161,7 +169,6 @@
         }
       }
     },
-
     "general": {
       "shortDate": "d/MM/y",
       "normalDate": "d 'de' MMMM",
