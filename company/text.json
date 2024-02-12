@@ -161,6 +161,7 @@
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
         "textRequiredValidate": "Este campo es requerido",
         "textRequest": "Solicitud ",
+        "titleCardIncidentials": "(1)[APROBADO];(2)[RECHAZADA];(3)[Delegada]",
         "goToRecuestDetails": {
           "title": "Solicitud respondida",
           "descriptionModalDetailsPartOne": "Tu Solicitud de",
