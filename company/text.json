@@ -153,15 +153,13 @@
         "textBtnDelegate": "Delegar",
         "textBtnReject": "Rechazar",
         "textBtnApprove": "Aprobar",
-        "textRequestDelegate": "Solicitud delegada",
-        "textRequestReject": "Solicitud rechazada",
-        "textRequestApproved": "Solicitud aprobada"
+        "titleCardIncidentials": "(1)[Solicitud delegada];(2)[Solicitud rechazada];(3)[Solicitud aprobada]"
       },
       "general": {
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
         "textRequiredValidate": "Este campo es requerido",
         "textRequest": "Solicitud ",
-        "titleCardIncidentials": "(1)[APROBADA];(2)[RECHAZADA];(3)[Delegada]",
+        "titleCardIncidentials": "(4)[PENDIENTE];(2)[RECHAZADA];(3)[APROBADA]",
         "goToRecuestDetails": {
           "title": "Solicitud respondida",
           "descriptionModalDetailsPartOne": "Tu Solicitud de",
