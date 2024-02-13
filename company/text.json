@@ -181,7 +181,11 @@
         "labelFromTime": "Desde",
         "labelEarlyDay": "Jornada anticipada",
         "textBtnSave": "GUARDAR",
-        "textBtnChange": "CAMBIAR"
+        "textBtnChange": "CAMBIAR",
+        "inputSelectPartTime": "Tiempo Parcial",
+        "inputSelectfrom": "Desde",
+        "inputSelectUntil": "Hasta",
+        "inputSelectEarlyDay": "Jornada anticipada"
       }
     },
     "general": {
