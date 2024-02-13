@@ -169,7 +169,7 @@
         }
       }
     },
-    "ChangeOfDay": {
+    "changeOfDay": {
       "formChangeOfDay": {
         "title": "Jornada de Trabajo",
         "turn": "Turno",
