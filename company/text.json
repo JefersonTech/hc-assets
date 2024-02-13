@@ -153,7 +153,8 @@
         "textBtnDelegate": "Delegar",
         "textBtnReject": "Rechazar",
         "textBtnApprove": "Aprobar",
-        "titleCardIncidentials": "(1)[Solicitud delegada];(2)[Solicitud rechazada];(3)[Solicitud aprobada]"
+        "titleCardIncidentials": "(1)[Solicitud delegada];(2)[Solicitud rechazada];(3)[Solicitud aprobada]",
+        "textFor": "Por"
       },
       "general": {
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
