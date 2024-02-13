@@ -169,6 +169,20 @@
         }
       }
     },
+    "ChangeOfDay": {
+      "formChangeOfDay": {
+        "title": "Jornada de Trabajo",
+        "turn": "Turno",
+        "UpdateWorkDay": "Actualizar Jornada de Trabajo",
+        "labelUndefinedTime": "Tiempo Indefinido",
+        "fromTime": "Desde",
+        "labelPartTime": "Tiempo Parcial",
+        "labelUntil": "Hasta",
+        "labelFromTime": "Desde",
+        "labelEarlyDay": "Jornada anticipada",
+        "textBtnSave": "GUARDAR"
+      }
+    },
     "general": {
       "shortDate": "d/MM/y",
       "normalDate": "d 'de' MMMM",
