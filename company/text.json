@@ -180,7 +180,8 @@
         "labelUntil": "Hasta",
         "labelFromTime": "Desde",
         "labelEarlyDay": "Jornada anticipada",
-        "textBtnSave": "GUARDAR"
+        "textBtnSave": "GUARDAR",
+        "textBtnChange": "CAMBIAR"
       }
     },
     "general": {
