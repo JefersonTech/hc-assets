@@ -172,7 +172,7 @@
     "changeOfDay": {
       "formChangeOfDay": {
         "title": "Jornada de Trabajo",
-        "turn": "Turno",
+        "turn": "Turno {{}}",
         "UpdateWorkDay": "Actualizar Jornada de Trabajo",
         "labelUndefinedTime": "Tiempo Indefinido",
         "fromTime": "Desde",
