@@ -15,7 +15,7 @@
         "descriptionfirstSquareCard": "Colaboradores",
         "descriptionSecondSquareCard": "Resumen",
         "textCardChangeDay": "Cambiará en",
-        "textCardChangeDaysNumber": "(2-inf)[{{days}} día];(1)[{{days}} días];"
+        "textCardChangeDaysNumber": "(1)[{{count}} día];(2-inf)[{{count}} días]"
       },
       "attendanceRecord": {
         "title": "Registro de Asistencias",
