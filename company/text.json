@@ -209,12 +209,13 @@
         },
         "modalEmployerChangeDay": {
           "title": "Actualización de Jornada",
-          "description": "Tu Jornada de Trabajo ha sido actualizada a partir de {{-date}}",
+          "description": "Recuerda que en {{-count}} días se actualiza la jornada de Trabajo de {{name}}",
           "textBtn": "ENTENDIDO"
         },
         "modalEmployeeChangeDay": {
           "title": "Actualización de Jornada",
-          "description": "Recuerda que en {{-count}} días se actualiza la jornada de Trabajo de {{name}}",
+
+          "description": "Tu Jornada de Trabajo ha sido actualizada a partir de {{-date}}",
           "textBtn": "ENTENDIDO"
         },
         "modalEmployeeIndefiniteTime": {
