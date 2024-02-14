@@ -185,7 +185,12 @@
         "inputSelectPartTime": "Tiempo Parcial",
         "inputSelectfrom": "Desde",
         "inputSelectUntil": "Hasta",
-        "inputSelectEarlyDay": "Jornada anticipada"
+        "inputSelectEarlyDay": "Jornada anticipada",
+        "modalSuccessFul": {
+          "title": "Jornada Actualizada",
+          "description": "El cambio de jornada fue realizado con éxito",
+          "textBtn": "ENTENDIDO"
+        }
       }
     },
     "general": {
@@ -195,7 +200,35 @@
       "notFoundModule": "No se encontró el módulo {{-moduleName}}",
       "btnConfirmSignOut": "Si, cerrar",
       "btnCancelSignOut": "No, regresar",
-      "textSignOut": "Seguro que quieres cerrar session?"
+      "textSignOut": "Seguro que quieres cerrar session?",
+      "modalNotifications": {
+        "modalSuccessFulChangeDay": {
+          "title": "Jornada Actualizada",
+          "description": "El cambio de jornada fue realizado con éxito",
+          "textBtn": "ENTENDIDO"
+        },
+        "modalEmployerChangeDay": {
+          "title": "Actualización de Jornada",
+          "description": "Tu Jornada de Trabajo ha sido actualizada a partir de",
+          "textBtn": "ENTENDIDO"
+        },
+        "modalEmployeeChangeDay": {
+          "title": "Actualización de Jornada",
+          "description": "Recuerda que en {{count}} días se actualiza la jornada de Trabajo de {{name}}",
+          "textBtn": "ENTENDIDO"
+        },
+        "modalEmployeeIndefiniteTime": {
+          "title": "Actualización de Jornada",
+          "description": "Tu Jornada de Trabajo ha sido actualizada a partir de",
+          "textBtn": "ENTENDIDO"
+        },
+        "modalEmployeeDefiniteTime": {
+          "title": "Actualización de Jornada",
+          "description": "Tu Jornada de Trabajo ha sido actualizada. Los cambios aplicarán del",
+          "dateDefinite": "{{date1}} al {{date2}}",
+          "textBtn": "ENTENDIDO"
+        }
+      }
     }
   }
 }
