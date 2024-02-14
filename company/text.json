@@ -224,7 +224,7 @@
         },
         "modalEmployeeDefiniteTime": {
           "title": "Actualización de Jornada",
-          "description": "Tu Jornada de Trabajo ha sido actualizada. Los cambios aplicarán del {{date}}",
+          "description": "Tu Jornada de Trabajo ha sido actualizada. Los cambios aplicarán del",
           "dateDefinite": "{{-date1}} al {{-date2}}",
           "textBtn": "ENTENDIDO"
         }
