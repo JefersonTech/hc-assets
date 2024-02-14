@@ -13,7 +13,9 @@
         "titlefirstSquareCard": "",
         "titleSecondSquareCard": "Stats",
         "descriptionfirstSquareCard": "Colaboradores",
-        "descriptionSecondSquareCard": "Resumen"
+        "descriptionSecondSquareCard": "Resumen",
+        "textCardChangeDay": "Cambiará en",
+        "textCardChangeDaysNumber": "(0)[{{days}} día];(1)[{{days}} días];"
       },
       "attendanceRecord": {
         "title": "Registro de Asistencias",
