@@ -209,7 +209,7 @@
         },
         "modalEmployerChangeDay": {
           "title": "Actualización de Jornada",
-          "description": "Tu Jornada de Trabajo ha sido actualizada a partir de",
+          "description": "Tu Jornada de Trabajo ha sido actualizada a partir de {{date}}",
           "textBtn": "ENTENDIDO"
         },
         "modalEmployeeChangeDay": {
