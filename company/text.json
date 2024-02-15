@@ -178,7 +178,7 @@
         },
         "delayedForm": {
           "title": "Ingreso con retardo",
-          "titleDate": "{{date}} - {{hour}}",
+          "titleDate": "{{-date}} - {{-hour}}",
           "labelInput": "Seleccione el motivo",
           "descriptionTextInput": "Describa la justificación del caso *",
           "btnSubmit": "ACEPTAR"
