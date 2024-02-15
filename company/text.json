@@ -169,7 +169,7 @@
           "textCardDelayJustification": "Justificación de Retardo"
         },
         "creationRequest": {
-          "title": "Solicitud de ",
+          "title": "Solicitud de {{request}} ",
           "labelInputMotive": "Seleccione el motivo",
           "labelInputDate": "Seleccione la fecha",
           "labelInputHour": "Indique la hora",
