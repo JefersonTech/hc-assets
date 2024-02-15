@@ -159,14 +159,17 @@
         "textFor": "Por"
       },
       "creationRequest": {
-        "title": "Cómo podemos ayudarte?",
-        "textCardPermitRequest": "Solicitud de Permiso",
-        "textCardInability": "Incapacidad",
-        "textCardJustificationOfAbsence": "Justificación de falta",
-        "textCardEarlyDeparture": "Salida Anticipada",
-        "textCardVacationRequest": "Solicitud de Vacaciones",
-        "textCardDelayJustification": "Justificación de Retardo",
-        "formCreationRequestEvidencens": {
+        "selectRequest": {
+          "title": "Cómo podemos ayudarte?",
+          "textCardPermitRequest": "Solicitud de Permiso",
+          "textCardInability": "Incapacidad",
+          "textCardJustificationOfAbsence": "Justificación de falta",
+          "textCardEarlyDeparture": "Salida Anticipada",
+          "textCardVacationRequest": "Solicitud de Vacaciones",
+          "textCardDelayJustification": "Justificación de Retardo"
+        },
+        "creationRequest": {
+          "title": "Solicitud de ",
           "labelInputMotive": "Seleccione el motivo",
           "labelInputDate": "Seleccione la fecha",
           "labelInputHour": "Indique la hora",
@@ -183,7 +186,8 @@
           "title": "Solicitud respondida",
           "descriptionModalDetailsPartOne": "Tu Solicitud de",
           "descriptionModalDetailsPartTwo": "ha sido aprobada",
-          "btnText": "VER DETALLE"
+          "btnText": "VER DETALLE",
+          "formHour": "HH:mm"
         }
       }
     },
