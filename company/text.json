@@ -175,6 +175,12 @@
           "labelInputHour": "Indique la hora",
           "descriptionTextInput": "Describa la justificación del caso *",
           "btnSubmit": "ACEPTAR"
+        },
+        "delayedForm": {
+          "title": "Ingreso con retardo",
+          "labelInput": "Seleccione el motivo",
+          "descriptionTextInput": "Describa la justificación del caso *",
+          "btnSubmit": "ACEPTAR"
         }
       },
       "general": {
@@ -219,6 +225,7 @@
       "shortDate": "d/MM/y",
       "normalDate": "d 'de' MMMM",
       "shortHour": "HH:mmaaa",
+      "hourNoneIndicators": "KK:mm",
       "notFoundModule": "No se encontró el módulo {{-moduleName}}",
       "btnConfirmSignOut": "Si, cerrar",
       "btnCancelSignOut": "No, regresar",
