@@ -158,6 +158,22 @@
         "titleCardIncidentials": "(1)[Solicitud delegada];(2)[Solicitud rechazada];(3)[Solicitud aprobada]",
         "textFor": "Por"
       },
+      "creationRequest": {
+        "title": "Cómo podemos ayudarte?",
+        "textCardPermitRequest": "Solicitud de Permiso",
+        "textCardInability": "Incapacidad",
+        "textCardJustificationOfAbsence": "Justificación de falta",
+        "textCardEarlyDeparture": "Salida Anticipada",
+        "textCardVacationRequest": "Solicitud de Vacaciones",
+        "textCardDelayJustification": "Justificación de Retardo",
+        "formCreationRequestEvidencens": {
+          "labelInputMotive": "Seleccione el motivo",
+          "labelInputDate": "Seleccione la fecha",
+          "labelInputHour": "Indique la hora",
+          "descriptionTextInput": "Describa la justificación del caso *",
+          "btnSubmit": "ACEPTAR"
+        }
+      },
       "general": {
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
         "textRequiredValidate": "Este campo es requerido",
