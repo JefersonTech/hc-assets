@@ -257,6 +257,14 @@
           "description": "Tu Jornada de Trabajo ha sido actualizada. Los cambios aplicarán del",
           "dateDefinite": "{{-date1}} al {{-date2}}",
           "textBtn": "ENTENDIDO"
+        },
+        "modalDeyedEntryRequest": {
+          "title": "Se ha enviado tu informe",
+          "textBtn": "ENTENDIDO"
+        },
+        "modalCreateRequestSuccessFul": {
+          "title": "Se ha enviado tu Solicitud",
+          "textBtn": "ENTENDIDO"
         }
       }
     }
