@@ -72,7 +72,15 @@
       "btnOrderfor": "Ordenar por",
       "registerOfRequests": "Registro de Solicitudes",
       "workingDay": "Jornada de Trabajo",
-      "shift": "Turno "
+      "shift": "Turno ",
+      "modalFilters": {
+        "title": "filtros",
+        "labelIdUser": "ID MacroPay o Nombre del Usuario",
+        "labelIdBranch": "ID Sucursal o Nombre de la Sucursalo",
+        "labelDepartment": "Departamento",
+        "labelPosition": "Puesto",
+        "labelRequests": "Solicitudes pendientes de revisión"
+      }
     },
     "requestManagement": {
       "awaitingRequests": {
