@@ -62,7 +62,7 @@
     "searchCollaborators": {
       "title": "Buscar colaboradores",
       "labelIdUser": "ID MacroPay o Nombre del Usuario",
-      "labelIdBranch": "ID Sucursal o Nombre de la Sucursalo",
+      "labelIdBranch": "ID Sucursal o Nombre de la Sucursal",
       "labelDepartment": "Departamento",
       "labelPosition": "Puesto",
       "labelRequests": "Solicitudes pendientes de revisión",
