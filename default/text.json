@@ -185,6 +185,10 @@
           "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
           "unknownError": "Ha ocurrido un error inesperado "
         }
+      },
+      "general": {
+        "theIdWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "requiredImei": "Se requiere imei"
       }
     }
   }
