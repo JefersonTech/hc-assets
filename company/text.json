@@ -73,6 +73,7 @@
       "registerOfRequests": "Registro de Solicitudes",
       "workingDay": "Jornada de Trabajo",
       "shift": "Turno ",
+      "btnFilters": "Aplicar Filtros",
       "modalFilters": {
         "title": "filtros",
         "labelIdUser": "ID MacroPay o Nombre del Usuario",
