@@ -52,7 +52,7 @@
           "placeHolderUser": "Ingrese correo o ID MacroPay."
         },
         "settingPassword": {
-          "title": "Actualizar tu contraseña",
+          "title": "Actualizar Contraseña",
           "placeHolderPassword": "*******",
           "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas).",
           "password": "Ingrese Contraseña.",
@@ -106,7 +106,7 @@
           "confirmPassword": "Confirmar contraseña",
           "newPasswordPlaceholder": "Ingresa contraseña",
           "confirmPasswordPlaceholder": "Repetir Contraseña",
-          "updatePassword": "Reestablecer contraseña",
+          "updatePassword": "  Contraseña",
           "dontMissMatchPasswords": "¡Oops! Las contraseñas no coinciden",
           "updatePasswordSuccessfully": "Tu contraseña ha sido actualizada exitosamente",
           "mustHaveAtLeast": "Debe tener mínimo",
