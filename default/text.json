@@ -5,16 +5,16 @@
         "title": "Inicio de Sesión",
         "username": "Nombre de usuario ",
         "password": "Ingrese Contraseña",
-        "emptyEmail": "el Email o Id es requerido",
+        "emptyEmail": "El Email o Id es requerido",
         "emptyPassword": "La contraseña es requerida",
-        "signIn": "Iniciar Sesión",
+        "signIn": "Iniciar sesión",
         "problemsToSign": "Recuperar contraseña",
         "passwordPlaceholder": "Ingresa una contraseña",
         "userValitedFailure": "No hemos podido validar tu usuario",
         "wrongCredentials": "El usuario y la contraseña no coinciden",
         "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
         "wrongId": "ID no valido",
-        "wrongPassword": "La contraseña no es válida, debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)",
+        "wrongPassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas).",
         "btnHelp": "¿Necesitas ayuda?",
         "textBtnLogin": "Iniciar Sesión",
         "placeHolderPassword": "*******",
@@ -33,41 +33,41 @@
 
       "signUp": {
         "signUp": {
-          "title": "Inicio de Sesión.",
-          "username": "Nombre de usuario. ",
-          "password": "Ingrese Contraseña.",
-          "emptyEmail": "el Email o Id es requerido.",
+          "title": "Inicio de Sesión",
+          "username": "Nombre de usuario ",
+          "password": "Ingrese Contraseña",
+          "emptyEmail": "El Email o ID es requerido.",
           "emptyPassword": "La contraseña es requerida.",
-          "signIn": "Iniciar Sesión.",
+          "signIn": "Iniciar sesión",
           "problemsToSign": "Recuperar contraseña",
-          "passwordPlaceholder": "Ingresa una contraseña.",
-          "userValitedFailure": "No hemos podido validar tu usuario.",
-          "wrongCredentials": "El usuario y la contraseña no coinciden.",
+          "passwordPlaceholder": "Ingresa una contraseña",
+          "userValitedFailure": "No hemos podido validar tu usuario",
+          "wrongCredentials": "El usuario y la contraseña no coinciden",
           "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
-          "wrongId": "ID no valido.",
+          "wrongId": "ID no valido",
           "wrongPassword": "La contraseña no es válida, debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas).",
           "btnHelp": "¿Necesitas ayuda?",
-          "textBtnLogin": "Iniciar Sesión.",
+          "textBtnLogin": "Iniciar sesión",
           "placeHolderPassword": "*******",
-          "placeHolderUser": "Ingrese correo o ID MacroPay."
+          "placeHolderUser": "Ingrese correo o ID MacroPay"
         },
         "settingPassword": {
           "title": "Actualizar Contraseña",
           "placeHolderPassword": "*******",
           "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas).",
-          "password": "Ingrese Contraseña.",
-          "updatePassword": "Reestablecer contraseña.",
-          "titleSuccesFulConfigurationText": "Configuración Exitosa.",
-          "textSuccesFulConfigurationText": "Genial! Estás listo para acceder a la plataforma.",
+          "password": "Ingrese Contraseña",
+          "updatePassword": "Reestablecer contraseña",
+          "titleSuccesFulConfigurationText": "Configuración Exitosa",
+          "textSuccesFulConfigurationText": "¡Genial! Estás listo para acceder a la plataforma.",
           "textBtnStartApp": "Comencemos",
           "textFailedRegisterAccount": "Este equipo, ya está asociado a la cuenta de otro usuario, contacta al administrador.",
           "titleRegisterAccount": "Registrando Cuenta.",
           "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario.",
           "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres (caracteres especiales, números, mayúsculas y minúsculas).",
-          "passwordDontMatch": "La contraseña no coincide.",
-          "requiredPasswordConfirm": "Confirma tu nueva contraseña.",
-          "textBtnFailedRegisterAccount": "Volver al Inicio.",
-          "requiredPassword": "Introduce tu nueva contraseña."
+          "passwordDontMatch": "La contraseña no coincide",
+          "requiredPasswordConfirm": "Confirma tu nueva contraseña",
+          "textBtnFailedRegisterAccount": "Volver al Inicio",
+          "requiredPassword": "Introduce tu nueva contraseña"
         },
         "general": {
           "unknownError": "Ha ocurrido un error inesperado ",
@@ -81,34 +81,34 @@
           "theImeiIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
           "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
           "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
-          "theUserCannotRegisterMore": "Los usuarios no pueden registrar imei más de 3 veces."
+          "theUserCannotRegisterMore": "Los usuarios no pueden registrar Imei más de 3 veces."
         }
       },
       "recovery": {
         "selectOptionsRecovery": {
           "title": "¿Necesitas ayuda para iniciar sesión?",
-          "btnTextRecoveryUser": "RECUPERAR USUARIO.",
-          "btnUnderstand": "ENTENDIDO.",
-          "btnTextRecoveryPassword": "RECUPERAR CONTRASEÑA.",
+          "btnTextRecoveryUser": "RECUPERAR USUARIO",
+          "btnUnderstand": "ENTENDIDO",
+          "btnTextRecoveryPassword": "RECUPERAR CONTRASEÑA",
           "needHelpLoggingIn": "¿Necesitas ayuda para iniciar sesión?",
           "selectTheRecoveryOption": "Selecciona la opción con la que te podemos asistir hoy.",
           "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
           "textSuccessfulModal": "Se ha enviado un Correo y SMS al usuario registrado con este IMEI con terminación xxxxxario@dominio.xx"
         },
         "validateAccount": {
-          "title": "Validación de Cuenta.",
-          "description": "Ingresa el código de verificación de identidad que se envió al correo electrónico que proporcionaste",
-          "wrongCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo",
+          "title": "Validación de Cuenta",
+          "description": "Ingresa el código de verificación que enviamos al celular asociado a tu cuenta",
+          "wrongCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo.",
           "goBack": "Regresar",
-          "resendCode": "Reenviar el código de verificación",
+          "resendCode": "Reenviar el código de verificación.",
           "verificationCode": "Código de verificación *",
           "newPassword": "Nueva Contraseña *",
           "confirmPassword": "Confirmar contraseña",
           "newPasswordPlaceholder": "Ingresa contraseña",
           "confirmPasswordPlaceholder": "Repetir Contraseña",
           "updatePassword": "  Contraseña",
-          "dontMissMatchPasswords": "¡Oops! Las contraseñas no coinciden",
-          "updatePasswordSuccessfully": "Tu contraseña ha sido actualizada exitosamente",
+          "dontMissMatchPasswords": "¡Oops! Las contraseñas no coinciden.",
+          "updatePasswordSuccessfully": "Tu contraseña ha sido actualizada exitosamente.",
           "mustHaveAtLeast": "Debe tener mínimo",
           "characters": "caracteres",
           "digits": "Dígitos",
@@ -116,10 +116,10 @@
           "requiredCode": "Introduce el código de verificación",
           "requiredPassword": "Introduce tu nueva contraseña",
           "requiredPasswordConfirm": "Confirma tu nueva contraseña",
-          "codeSendSuccessful": "Hemos enviado un codigo a tu numero de telefono",
+          "codeSendSuccessful": "Hemos enviado un código a tu número de teléfono",
           "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
           "btnSnackResendCode": "Cerrar",
-          "verifyAccount": "Verificar"
+          "verifyAccount": "Verificar Cuenta"
         },
         "updatePassword": {
           "title": "Actualizar tu contraseña",
@@ -142,15 +142,15 @@
           "newPassword": "Nueva Contraseña *",
           "newPasswordPlaceholder": "Ingresa contraseña",
           "confirmPasswordPlaceholder": "Repetir Contraseña",
-          "btnGoback": "regresar",
+          "btnGoback": "Regresar",
           "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)"
         },
         "verifyUserOrId": {
           "title": "Queremos verificar que eres tu",
           "emailOrImei": "Email o ID MacroPay",
           "placeHolderEmailOrImei": "Ingrese su Email o ID MacroPay.",
-          "btnVerifyEmailOrImei": "Verificar",
-          "emptyEmail": "el Email o Id es requerido",
+          "btnVerifyEmailOrImei": "Verificar Cuenta",
+          "emptyEmail": "El Email o ID es requerido",
           "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx"
         },
         "general": {
@@ -165,7 +165,7 @@
           "wronIdUser": "El ID no cumple con las caracteristicas  necesarias",
           "wrongCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo",
           "BtnCancel": "Cancelar",
-          "btnGoback": "regresar",
+          "btnGoback": "Regresar",
           "sendVerificationCodeSuccessfully": "El código de verificación se ha enviado con éxito",
           "unKnowError": "Ha sucedido un error inesperado",
           "btnConfirmCancelProcess": "Sí, cancelar",
@@ -188,7 +188,7 @@
       },
       "general": {
         "theIdWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-        "requiredImei": "Se requiere imei"
+        "requiredImei": "Se requiere IMEI"
       }
     }
   }
