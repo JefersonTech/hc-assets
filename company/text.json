@@ -7,7 +7,7 @@
         "averageEntryTime": "Hora promedio de ingreso",
         "averageDepartureTime": "Hora promedio de salida",
         "pendingQuestionnaires": "Cuestionarios pendientes",
-        "designatedQuestionnaires": "Cuestionarios Designados",
+        "designatedQuestionnaires": "Cuestionarios Asignados",
         "assistRecord": "Record de Asistencias",
         "btnViewLogs": "Ver Registros",
         "titlefirstSquareCard": "",
@@ -59,6 +59,16 @@
         "vacationDateValidation": "Válido Hasta "
       }
     },
+    "drawer": {
+      "home": "home",
+      "profile": "Perfil",
+      "personalRecord": "Registro personal",
+      "attendanceRecord": "Registro de asistencia",
+      "incidentManagement": "Administracion de incidente",
+      "questionnaireManagement": "Gestión de cuestionarios",
+      "calendar": "Chequeador",
+      "myIncidentsStack": "myIncidentsStack"
+    },
     "searchCollaborators": {
       "title": "Buscar colaboradores",
       "labelIdUser": "ID MacroPay o Nombre del Usuario",
@@ -77,7 +87,7 @@
       "modalFilters": {
         "title": "filtros",
         "labelIdUser": "ID MacroPay o Nombre del Usuario",
-        "labelIdBranch": "ID Sucursal o Nombre de la Sucursalo",
+        "labelIdBranch": "ID Sucursal o Nombre de la Sucursal",
         "labelDepartment": "Departamento",
         "labelPosition": "Puesto",
         "labelRequests": "Solicitudes pendientes de revisión"
@@ -230,16 +240,6 @@
           "textBtn": "ENTENDIDO"
         }
       }
-    },
-    "drawer": {
-      "home": "home",
-      "profile": "Perfil",
-      "personalRecord": "Registro personal",
-      "attendanceRecord": "Registro de asistencia",
-      "incidentManagement": "Administracion de incidente",
-      "questionnaireManagement": "Gestión de cuestionarios",
-      "calendar": "Chequeador",
-      "myIncidentsStack": "myIncidentsStack"
     },
     "general": {
       "shortDate": "d/MM/y",
