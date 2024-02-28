@@ -231,6 +231,16 @@
         }
       }
     },
+    "drawer": {
+      "home": "home",
+      "profile": "Perfil",
+      "personalRecord": "Registro personal",
+      "attendanceRecord": "Registro de asistencia",
+      "incidentManagement": "Administracion de incidente",
+      "questionnaireManagement": "Gestión de cuestionarios",
+      "calendar": "Chequeador",
+      "myIncidentsStack": "myIncidentsStack"
+    },
     "general": {
       "shortDate": "d/MM/y",
       "normalDate": "d 'de' MMMM",
