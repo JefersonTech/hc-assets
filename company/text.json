@@ -247,9 +247,9 @@
       "shortHour": "HH:mmaaa",
       "hourNoneIndicators": "KK:mm",
       "notFoundModule": "No se encontró el módulo {{-moduleName}}",
-      "btnConfirmSignOut": "Si, cerrar",
+      "btnConfirmSignOut": "Sí, cerrar",
       "btnCancelSignOut": "No, regresar",
-      "textSignOut": "Seguro que quieres cerrar sesión?",
+      "textSignOut": "¿Seguro que quieres cerrar sesión?",
       "modalNotifications": {
         "modalSuccessFulChangeDay": {
           "title": "Jornada Actualizada",
