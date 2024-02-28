@@ -60,11 +60,11 @@
       }
     },
     "drawer": {
-      "home": "home",
+      "home": "Inicio",
       "profile": "Perfil",
       "personalRecord": "Registro personal",
       "attendanceRecord": "Registro de asistencia",
-      "incidentManagement": "Administracion de incidente",
+      "incidentManagement": "Administración de incidente",
       "questionnaireManagement": "Gestión de cuestionarios",
       "calendar": "Chequeador",
       "myIncidentsStack": "myIncidentsStack"
