@@ -151,7 +151,8 @@
           "placeHolderEmailOrImei": "Ingrese su Email o ID MacroPay",
           "btnVerifyEmailOrImei": "Verificar Cuenta",
           "emptyEmail": "El Email o ID es requerido",
-          "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx"
+          "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
+          "wrongId": "ID no valido"
         },
         "general": {
           "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres (caracteres especiales, números, mayúsculas y minúsculas)",
