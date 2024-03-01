@@ -85,7 +85,7 @@
       "shift": "Turno ",
       "btnFilters": "Aplicar Filtros",
       "modalFilters": {
-        "title": "filtros",
+        "title": "filtrar por",
         "labelIdUser": "ID MacroPay o Nombre del Usuario",
         "labelIdBranch": "ID Sucursal o Nombre de la Sucursal",
         "labelDepartment": "Departamento",
