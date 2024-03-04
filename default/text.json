@@ -13,7 +13,7 @@
         "userValitedFailure": "No hemos podido validar tu usuario",
         "wrongCredentials": "El usuario y la contraseña no coinciden",
         "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
-        "wrongId": "ID no valido",
+        "wrongId": "El ID no cumple con las caracteristicas  necesarias",
         "wrongPassword": "“La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
         "btnHelp": "¿Necesitas ayuda?",
         "textBtnLogin": "Iniciar Sesión",
@@ -31,7 +31,6 @@
         "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
         "theImeiIsRequired": "Se requiere el imei"
       },
-
       "signUp": {
         "signUp": {
           "title": "Inicio de Sesión",
@@ -45,7 +44,7 @@
           "userValitedFailure": "No hemos podido validar tu usuario",
           "wrongCredentials": "El usuario y la contraseña no coinciden",
           "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
-          "wrongId": "ID no valido",
+          "wrongId": "El ID no cumple con las caracteristicas  necesarias",
           "wrongPassword": "“La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
           "btnHelp": "¿Necesitas ayuda?",
           "textBtnLogin": "Iniciar sesión",
@@ -64,7 +63,7 @@
           "textFailedRegisterAccount": "Este equipo, ya está asociado a la cuenta de otro usuario, contacta al administrador.",
           "titleRegisterAccount": "Registrando Cuenta",
           "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario.",
-          "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres (caracteres especiales, números, mayúsculas y minúsculas).",
+          "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
           "passwordDontMatch": "La contraseña no coincide",
           "requiredPasswordConfirm": "Confirma tu nueva contraseña",
           "textBtnFailedRegisterAccount": "Volver al Inicio",
@@ -144,7 +143,7 @@
           "newPasswordPlaceholder": "Ingresa contraseña",
           "confirmPasswordPlaceholder": "Repetir Contraseña",
           "btnGoback": "Regresar",
-          "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)"
+          "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)"
         },
         "verifyUserOrId": {
           "title": "¡Queremos verificar que eres tú!",
@@ -153,7 +152,7 @@
           "btnVerifyEmailOrImei": "Verificar Cuenta",
           "emptyEmail": "El Email o ID es requerido",
           "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
-          "wrongId": "ID no valido"
+          "wrongId": "El ID no cumple con las caracteristicas  necesarias"
         },
         "general": {
           "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres (caracteres especiales, números, mayúsculas y minúsculas)",
