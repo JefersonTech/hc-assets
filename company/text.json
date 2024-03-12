@@ -76,7 +76,7 @@
       "labelDepartment": "Departamento",
       "labelPosition": "Puesto",
       "labelRequests": "Solicitudes pendientes de revisión",
-      "searchBtn": "BUSCAR",
+      "searchBtn": "Buscar",
       "requestItemUserSearch": "Solicitud activa",
       "btnFilter": "Filtrar por",
       "btnOrderfor": "Ordenar por",
@@ -180,7 +180,7 @@
       "creationRequest": {
         "selectRequest": {
           "title": "Cómo podemos ayudarte?",
-          "textCardPermitRequest": "Solicitud de Permiso",
+          "textCardPermitRequest": "Permiso",
           "textCardInability": "Incapacidad",
           "textCardJustificationOfAbsence": "Justificación de falta",
           "textCardEarlyDeparture": "Salida Anticipada",
