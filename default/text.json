@@ -91,7 +91,7 @@
           "btnUnderstand": "ENTENDIDO",
           "btnTextRecoveryPassword": "RECUPERAR CONTRASEÑA",
           "needHelpLoggingIn": "¿Necesitas ayuda para iniciar sesión?",
-          "selectTheRecoveryOption": "Selecciona la opción con la que te podemos asistir hoy.",
+          "selectTheRecoveryOption": "",
           "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
           "textSuccessfulModal": "Se ha enviado un Correo y SMS al usuario registrado en este dispositivo"
         },
