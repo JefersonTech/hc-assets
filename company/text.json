@@ -180,7 +180,7 @@
       "creationRequest": {
         "selectRequest": {
           "title": "Cómo podemos ayudarte?",
-          "textCardPermitRequest": "Permiso",
+          "textCardPermitRequest": "Solicitud Permiso",
           "textCardInability": "Incapacidad",
           "textCardJustificationOfAbsence": "Justificación de falta",
           "textCardEarlyDeparture": "Salida Anticipada",
