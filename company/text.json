@@ -285,7 +285,8 @@
           "title": "Se ha enviado tu Solicitud",
           "textBtn": "ENTENDIDO"
         }
-      }
+      },
+      "textAreatMaxLength":"Cantidad máxima de caracteres: {{count}}"
     }
   }
 }
