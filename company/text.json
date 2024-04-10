@@ -250,6 +250,7 @@
       "btnConfirmSignOut": "Sí, cerrar",
       "btnCancelSignOut": "No, regresar",
       "textSignOut": "¿Seguro que quieres cerrar sesión?",
+      "loggoutButton":"Cerrar Sesión",
       "modalNotifications": {
         "modalSuccessFulChangeDay": {
           "title": "Jornada Actualizada",
