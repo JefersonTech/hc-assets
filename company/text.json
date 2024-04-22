@@ -185,7 +185,9 @@
           "textCardJustificationOfAbsence": "Justificación de falta",
           "textCardEarlyDeparture": "Salida Anticipada",
           "textCardVacationRequest": "Solicitud de Vacaciones",
-          "textCardDelayJustification": "Justificación de Retardo"
+          "textCardDelayJustification": "Justificación de Retardo",
+          "checking":"Entrada",
+          "checkout":"Salida"
         },
         "creationRequest": {
           "title": "Solicitud de {{request}} ",
