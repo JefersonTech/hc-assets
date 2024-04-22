@@ -34,7 +34,8 @@
     "userQr": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/QR.png?raw=true",
     "iconUser": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/IconUser.png?raw=true",
     "backgroundUser": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/backgroundUser.png?raw=true",
-    "clipPaper": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/clipPaper.png?raw=true"
+    "clipPaper": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/clipPaper.png?raw=true",
+    "departureRequest": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/departureRequest.png?raw=true"
   },
   "palette": {
     "primary": "#000000",
