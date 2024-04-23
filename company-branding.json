@@ -37,7 +37,7 @@
     "clipPaper": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/clipPaper.png?raw=true",
     "departureRequest": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/departureRequest.png?raw=true"
   },
-  "palette": {
+  "colors": {
     "primary": "#000000",
     "secondary": "#ffffff",
     "accent": "#000000",

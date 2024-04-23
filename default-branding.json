@@ -6,7 +6,7 @@
     "artBoardCocoLogin": "https://github.com/JefersonTech/hc-assets/blob/main/default/assets/ArtBoardCocoLogin.png?raw=true",
     "artBoardCocoSsitting": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/ArtBoardCocoSsitting.png?raw=true"
   },
-  "palette": {
+  "colors": {
     "primary": "#000000",
     "secondary": "#ffffff",
     "accent": "#000000",
