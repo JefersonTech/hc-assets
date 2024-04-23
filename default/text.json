@@ -192,6 +192,9 @@
         "requiredImei": "Se requiere IMEI",
         "imeiRegisterReached": "Un usuario no puede registrar un IMEI más de tres veces, no se puede iniciar sesión. Contacta al administrador."
       }
+    },
+    "general":{
+      "headerReturn": "Regresar"
     }
   }
 }
