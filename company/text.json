@@ -292,6 +292,7 @@
       "textAreatMaxLength":"Cantidad máxima de caracteres: {{count}}",
       "solicitudStatus": "(1)[Pendiente];(2)[Rechazada];(3)[Aprobada]",
       "searchPlaceholder": "Buscar",
+      "headerReturn": "Regresar",
       "status":{
         "pending": "PENDIENTE",
         "rejected": "RECHAZADA",
