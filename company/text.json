@@ -203,7 +203,8 @@
           "lack":"Justificación de falta",
           "worked_rest_day": "Descanso trabajado",
           "justified_delay": "Retardo justificado",
-          "exit_early":"Salida anticipada"
+          "exit_early":"Salida anticipada",
+          "delays":"Justificacion de Retardos"
         },
         "delayedForm": {
           "title": "Ingreso con retardo",
