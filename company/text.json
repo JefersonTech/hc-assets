@@ -195,7 +195,8 @@
           "labelInputDate": "Seleccione la fecha",
           "labelInputHour": "Indique la hora",
           "descriptionTextInput": "Describa la justificación del caso *",
-          "btnSubmit": "ACEPTAR"
+          "btnSubmit": "ACEPTAR",
+          "vacationRequest": "Solicitud de Vacaciones"
         },
         "delayedForm": {
           "title": "Ingreso con retardo",
