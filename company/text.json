@@ -196,7 +196,8 @@
           "labelInputHour": "Indique la hora",
           "descriptionTextInput": "Describa la justificación del caso *",
           "btnSubmit": "ACEPTAR",
-          "vacationRequest": "Solicitud de Vacaciones"
+          "vacationRequest": "Solicitud de Vacaciones",
+          "remainingDays":"(0)[Dias disponibles {{count}}];(1)[Dias disponibles {{count}}];(2-inf)[Dias disponibles {{count}}]"
         },
         "delayedForm": {
           "title": "Ingreso con retardo",
