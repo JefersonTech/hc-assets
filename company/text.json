@@ -201,7 +201,8 @@
           "permission_request":"Solicitud de permiso",
           "inability":"Solicitud de incapacidad",
           "lack":"Justificación de falta",
-          "worked_rest_day": "Descanso trabajado"
+          "worked_rest_day": "Descanso trabajado",
+          "justified_delay": "Retardo justificado"
         },
         "delayedForm": {
           "title": "Ingreso con retardo",
