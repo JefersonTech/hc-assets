@@ -200,7 +200,8 @@
           "remainingDays":"(0)[Dias disponibles: {{count}}];(1)[Dias disponibles: {{count}}];(2-inf)[Dias disponibles: {{count}}]",
           "permission_request":"Solicitud de permiso",
           "inability":"Solicitud de incapacidad",
-          "lack":"Justificación de falta"
+          "lack":"Justificación de falta",
+          "worked_rest_day": "Descanso trabajado"
         },
         "delayedForm": {
           "title": "Ingreso con retardo",
