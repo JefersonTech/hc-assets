@@ -206,6 +206,15 @@
           "exit_early":"Salida anticipada",
           "delays":"Justificacion de Retardos"
         },
+        "inabilityRequest":{
+          "folio":"Número de Folio",
+          "dateFrom":"Desde",
+          "numberOfDays":"Número de días",
+          "insuranceBranch":"Ramo del seguro",
+          "typeOccupationalRisk":"Tipo de Riesgo",
+          "typeInability":"Tipo de Incapacidad",
+          "dateIssued":"Fecha de expedición"
+        },
         "delayedForm": {
           "title": "Ingreso con retardo",
           "titleDate": "{{-date}} - {{-hour}}",
