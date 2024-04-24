@@ -77,7 +77,7 @@
       "labelPosition": "Puesto",
       "labelRequests": "Solicitudes pendientes de revisión",
       "searchBtn": "Buscar",
-      "requestItemUserSearch": "Solicitud activa",
+      "requestItemUserSearch": "(0)[{{count}} Solicitudes activas];(1)[{{count}} Solicitud activa];(2-inf)[{{count}} Solicitudes activas]",
       "btnFilter": "Filtrar por",
       "btnOrderfor": "Ordenar por",
       "registerOfRequests": "Registro de Solicitudes",
