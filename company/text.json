@@ -204,7 +204,9 @@
           "worked_rest_day": "Descanso trabajado",
           "justified_delay": "Retardo justificado",
           "exit_early":"Salida anticipada",
-          "delays":"Justificacion de Retardos"
+          "delays":"Justificacion de Retardos",
+          "checkin": "Entrada",
+          "checkout": "Salida"
         },
         "inabilityRequest":{
           "folio":"Número de Folio",
