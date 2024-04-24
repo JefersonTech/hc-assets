@@ -202,7 +202,8 @@
           "inability":"Solicitud de incapacidad",
           "lack":"Justificación de falta",
           "worked_rest_day": "Descanso trabajado",
-          "justified_delay": "Retardo justificado"
+          "justified_delay": "Retardo justificado",
+          "exit_early":"Salida anticipada"
         },
         "delayedForm": {
           "title": "Ingreso con retardo",
