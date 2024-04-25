@@ -207,7 +207,8 @@
           "exit_early":"Salida anticipada",
           "delays":"Justificacion de Retardos",
           "checkin": "Entrada",
-          "checkout": "Salida"
+          "checkout": "Salida",
+          "delay": "Retardo"
         },
         "inabilityRequest":{
           "folio":"Número de Folio",
