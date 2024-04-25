@@ -29,7 +29,8 @@
         "theImeiIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
         "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
         "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
-        "theImeiIsRequired": "Se requiere el imei"
+        "theImeiIsRequired": "Se requiere el imei",
+        "TheimeiAssignedToAnotherUser": "El imei ya esta asignado a otro usuario"
       },
       "signUp": {
         "signUp": {
