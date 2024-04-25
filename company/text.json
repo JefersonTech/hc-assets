@@ -208,7 +208,8 @@
           "delays":"Justificacion de Retardos",
           "checkin": "Entrada",
           "checkout": "Salida",
-          "delay": "Retardo"
+          "delay": "Retardo",
+          "exit_aarly":"Salida Anticipada "
         },
         "inabilityRequest":{
           "folio":"Número de Folio",
