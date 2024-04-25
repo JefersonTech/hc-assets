@@ -76,8 +76,8 @@
       "labelDepartment": "Departamento",
       "labelPosition": "Puesto",
       "labelRequests": "Solicitudes pendientes de revisión",
-      "searchBtn": "BUSCAR",
-      "requestItemUserSearch": "Solicitud activa",
+      "searchBtn": "Buscar",
+      "requestItemUserSearch": "(0)[{{count}} Solicitudes activas];(1)[{{count}} Solicitud activa];(2-inf)[{{count}} Solicitudes activas]",
       "btnFilter": "Filtrar por",
       "btnOrderfor": "Ordenar por",
       "registerOfRequests": "Registro de Solicitudes",
@@ -180,12 +180,14 @@
       "creationRequest": {
         "selectRequest": {
           "title": "Cómo podemos ayudarte?",
-          "textCardPermitRequest": "Solicitud de Permiso",
+          "textCardPermitRequest": "Solicitud Permiso",
           "textCardInability": "Incapacidad",
           "textCardJustificationOfAbsence": "Justificación de falta",
           "textCardEarlyDeparture": "Salida Anticipada",
           "textCardVacationRequest": "Solicitud de Vacaciones",
-          "textCardDelayJustification": "Justificación de Retardo"
+          "textCardDelayJustification": "Justificación de Retardo",
+          "checking":"Entrada",
+          "checkout":"Salida"
         },
         "creationRequest": {
           "title": "Solicitud de {{request}} ",
@@ -193,7 +195,28 @@
           "labelInputDate": "Seleccione la fecha",
           "labelInputHour": "Indique la hora",
           "descriptionTextInput": "Describa la justificación del caso *",
-          "btnSubmit": "ACEPTAR"
+          "btnSubmit": "ACEPTAR",
+          "vacationRequest": "Solicitud de vacaciones",
+          "vacation": "Solicitud de vacaciones",
+          "remainingDays":"(0)[Dias disponibles: {{count}}];(1)[Dias disponibles: {{count}}];(2-inf)[Dias disponibles: {{count}}]",
+          "permission_request":"Solicitud de permiso",
+          "inability":"Solicitud de incapacidad",
+          "lack":"Justificación de falta",
+          "worked_rest_day": "Descanso trabajado",
+          "justified_delay": "Retardo justificado",
+          "exit_early":"Salida anticipada",
+          "delays":"Justificacion de Retardos",
+          "checkin": "Entrada",
+          "checkout": "Salida"
+        },
+        "inabilityRequest":{
+          "folio":"Número de Folio",
+          "dateFrom":"Desde",
+          "numberOfDays":"Número de días",
+          "insuranceBranch":"Ramo del seguro",
+          "typeOccupationalRisk":"Tipo de Riesgo",
+          "typeInability":"Tipo de Incapacidad",
+          "dateIssued":"Fecha de expedición"
         },
         "delayedForm": {
           "title": "Ingreso con retardo",
@@ -250,6 +273,7 @@
       "btnConfirmSignOut": "Sí, cerrar",
       "btnCancelSignOut": "No, regresar",
       "textSignOut": "¿Seguro que quieres cerrar sesión?",
+      "loggoutButton":"Cerrar Sesión",
       "modalNotifications": {
         "modalSuccessFulChangeDay": {
           "title": "Jornada Actualizada",
@@ -284,8 +308,27 @@
         "modalCreateRequestSuccessFul": {
           "title": "Se ha enviado tu Solicitud",
           "textBtn": "ENTENDIDO"
+        },
+        "checkin": {
+          "title": "Haz hecho checkin",
+          "textBtn": "ENTENDIDO"
+        },
+        "checkout": {
+          "title": "Haz hecho checkout",
+          "textBtn": "ENTENDIDO"
         }
-      }
+      },
+      "textAreatMaxLength":"Cantidad máxima de caracteres: {{count}}",
+      "solicitudStatus": "(1)[Pendiente];(2)[Rechazada];(3)[Aprobada]",
+      "searchPlaceholder": "Buscar",
+      "headerReturn": "Regresar",
+      "status":{
+        "pending": "PENDIENTE",
+        "rejected": "RECHAZADA",
+        "approved": "APROBADA"
+      },
+      "dateFrom":"Desde",
+          "dateTo":"Hasta"
     }
   }
 }
