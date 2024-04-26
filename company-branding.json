@@ -36,7 +36,8 @@
     "backgroundUser": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/backgroundUser.png?raw=true",
     "clipPaper": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/clipPaper.png?raw=true",
     "departureRequest": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/departureRequest.png?raw=true",
-    "profilePlaceholcer": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/profile_placeholder.png?raw=true"
+    "profilePlaceholcer": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/profile_placeholder.png?raw=true",
+    "iconMessageWarning": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/iconMessageWarning.png?raw=true"
   },
   "colors": {
     "primary": "#0038AE",
