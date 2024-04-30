@@ -365,7 +365,18 @@
         "permissionsModal": {
           "title": "Advertencia",
           "description": "Debes conceder los siguientes permisos al aplicativo para continuar con el proceso."
-        }
+        },
+        "evidencesTypes": {
+          "camera": "Cámara",
+          "image": "Imagen",
+          "video": "Video",
+          "videoFromCamera": "Grabar",
+          "sign": "Firma",
+          "comment": "Comentario",
+          "document": "Documento",
+          "seeMore": "Ver más",
+          "seeAttachments": "Ver adjuntos"
+        },
       }
     }
   }
