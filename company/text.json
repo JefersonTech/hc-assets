@@ -332,7 +332,41 @@
         "approved": "APROBADA"
       },
       "dateFrom": "Desde",
-      "dateTo": "Hasta"
+      "dateTo": "Hasta",
+      "attachments": {
+        "validations": {
+          "someFileIsUploadingYet": "Las evidencias adjuntas no se han terminado de guardar, por favor espera unos segundos",
+          "someEvidenceIsRequired": "Se requieren evidencias de tipo {{type}}",
+          "exceededTheAllowedSizeLimit": "Algún archivo de tipo {{type}} cargado ha superado el límite de tamaño permitido",
+          "uploadedFilesHasExceededTheAllowedLimit": "El número de archivos de tipo {{type}} cargados ha superado el límite permitido",
+          "exceedsCharacters": "Cantidad máxima de caracteres: {{count}}",
+          "errDescriptionMin": "El comentario debe tener almenos 3 caracteres",
+          "allowedFormats": "Formatos de archivo admitidos: {{formats}}",
+          "someOfTheUploadedFormatsAreNotPermitted": "Algun formato de archivo de tipo {{type}} no esta permitido"
+        },
+        "types": {
+          "camera": "cámara",
+          "image": "imagen",
+          "video": "video",
+          "sign": "firma",
+          "comment": "comentario",
+          "document": "documento",
+          "videosFromGallery": "video de galería"
+        },
+        "general": {
+          "title": "LISTADO DE ADJUNTOS",
+          "anyValidFileToAttach": "No se han encontrado archivos válidos para adjuntar",
+          "amounts": "(0)[Cant: {{current}}/{{count}}];(1)[Cant: {{current}}/{{count}}]; (2-inf)[Cant: {{current}}/{{count}}]"
+        },
+        "errModal": {
+          "title": "Errores encontrados",
+          "close": "Cerrar"
+        },
+        "permissionsModal": {
+          "title": "Advertencia",
+          "description": "Debes conceder los siguientes permisos al aplicativo para continuar con el proceso."
+        }
+      }
     }
   }
 }
