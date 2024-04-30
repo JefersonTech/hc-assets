@@ -356,7 +356,9 @@
         "general": {
           "title": "LISTADO DE ADJUNTOS",
           "anyValidFileToAttach": "No se han encontrado archivos válidos para adjuntar",
-          "amounts": "(0)[Cant: {{current}}/{{count}}];(1)[Cant: {{current}}/{{count}}]; (2-inf)[Cant: {{current}}/{{count}}]"
+          "amounts": "(0)[Cant: {{current}}/{{count}}];(1)[Cant: {{current}}/{{count}}]; (2-inf)[Cant: {{current}}/{{count}}]",
+          "attachedTitle": "LISTADO DE ADJUNTOS",
+          "maxSize": "Max: {{size}} mb"
         },
         "errModal": {
           "title": "Errores encontrados",
