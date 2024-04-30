@@ -28,7 +28,8 @@
         "btnJustify": "Justificar",
         "untilDate": "Hasta",
         "dateTextTitle": "FECHA"
-      }
+      },
+      "anyRecordForToday": "No has registrado tu entrada hoy"
     },
     "userIncidents": {
       "entrys": {
