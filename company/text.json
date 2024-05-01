@@ -378,6 +378,30 @@
           "document": "Documento",
           "seeMore": "Ver más",
           "seeAttachments": "Ver adjuntos"
+        },
+        "categories": {
+          "imagesFromCamera": {
+            "title": "Imágenes de la cámara"
+          },
+          "imagesFromGallery": {
+            "title": "Imágenes de la galería"
+          },
+          "videosFromCamera": {
+            "title": "Videos de la cámara"
+          },
+          "videosFromGallery": {
+            "title": "Videos de la galería"
+          },
+          "documents": {
+            "title": "Documentos"
+          },
+          "comments": {
+            "title": "Comentarios",
+            "description": "Ingresa un comentario acerca de el cuestionario"
+          },
+          "signatures": {
+            "title": "Firmas"
+          }
         }
       }
     }
