@@ -403,7 +403,11 @@
             "title": "Firmas"
           }
         }
-      }
+      },
+      "noAssignment": {
+            "title": "¡Genial!",
+            "description": "No tienes asignaciones pendientes"
+          }
     }
   }
 }
