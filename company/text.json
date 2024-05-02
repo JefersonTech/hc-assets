@@ -176,8 +176,7 @@
         "textBtnReject": "Rechazar",
         "textBtnApprove": "Aprobar",
         "titleCardIncidentials": "(1)[Solicitud delegada];(2)[Solicitud rechazada];(3)[Solicitud aprobada]",
-        "textFor": "Por",
-        "justify": "Justificar"
+        "textFor": "Por"
       },
       "creationRequest": {
         "selectRequest": {
@@ -238,9 +237,9 @@
            "title":"Confirmación Requerida",
            "description":"¿Está seguro que desea enviar justificación?",
            "textModalSuccessfull":"ENTENDIDO",
-           "textBtnConfirmAction":"CONFIRMAR",
-           "textBtnCancelAction":"CANCELAR"
-        }
+           "textBtnConfirmAction":"CONFIRMAR"
+        },
+        "justificationSubmitted": "Justificación enviada"
      },
       "general": {
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
