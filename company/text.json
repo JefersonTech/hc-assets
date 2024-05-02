@@ -332,7 +332,7 @@
         "approved": "APROBADA"
       },
       "workPeriod": {
-        "Workingtime": "Laboral"
+        "de": "Laboral"
       },
       "dateFrom": "Desde",
       "dateTo": "Hasta",
@@ -410,7 +410,8 @@
       "noAssignment": {
             "title": "¡Genial!",
             "description": "No tienes asignaciones pendientes"
-          }
+          },
+          "noEstablishedWorkday": "No hay jornada establecida"
     }
   }
 }
