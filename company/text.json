@@ -229,7 +229,8 @@
           "labelInput": "Seleccione el motivo",
           "descriptionTextInput": "Describa la justificación del caso *",
           "btnSubmit": "ACEPTAR"
-        }
+        },
+        "submitJustificationBtn":"Enviar Justificación"
       },
       "general": {
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
