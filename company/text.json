@@ -411,7 +411,8 @@
             "title": "¡Genial!",
             "description": "No tienes asignaciones pendientes"
           },
-          "noEstablishedWorkday": "No hay jornada establecida"
+          "noEstablishedWorkday": "No hay jornada establecida",
+          "userNoAssignment":"No tienes asignaciones"
     }
   }
 }
