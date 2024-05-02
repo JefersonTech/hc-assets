@@ -329,7 +329,8 @@
       "status": {
         "pending": "PENDIENTE",
         "rejected": "RECHAZADA",
-        "approved": "APROBADA"
+        "approved": "APROBADA",
+        "open": "ABIERTA"
       },
       "workPeriod": {
         "Workingtime": "Laboral"
