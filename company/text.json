@@ -230,7 +230,16 @@
           "descriptionTextInput": "Describa la justificación del caso *",
           "btnSubmit": "ACEPTAR"
         },
-        "submitJustificationBtn":"Enviar Justificación"
+        "submitJustificationBtn":"Enviar Justificación",
+          "justify":{
+             "confirm":{
+                "title":"Confirmación Requerida",
+                "description":"¿Está seguro que desea enviar justificación?",
+                "textModalSuccessfull":"ENTENDIDO",
+                "textBtnConfirmAction":"CONFIRMAR",
+                "textBtnCancelAction":"CANCELAR"
+             }
+          }
       },
       "general": {
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
