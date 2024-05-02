@@ -331,6 +331,9 @@
         "rejected": "RECHAZADA",
         "approved": "APROBADA"
       },
+      "workPeriod": {
+        "Workingtime": "Laboral"
+      },
       "dateFrom": "Desde",
       "dateTo": "Hasta",
       "attachments": {
