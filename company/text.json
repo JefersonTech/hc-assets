@@ -332,7 +332,7 @@
         "approved": "APROBADA"
       },
       "workPeriod": {
-        "de": "Laboral"
+        "Workingtime": "Laboral"
       },
       "dateFrom": "Desde",
       "dateTo": "Hasta",
