@@ -210,7 +210,8 @@
           "checkin": "Entrada",
           "checkout": "Salida",
           "delay": "Retardo",
-          "exit_aarly": "Salida Anticipada ",
+          "exit_aarly": "Salida Anticipada",
+          "extra_entry_hours": "Horas extra",
           "omission_checkin": "Omisión de registro de entrada"
         },
         "inabilityRequest": {
