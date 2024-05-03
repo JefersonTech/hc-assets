@@ -240,7 +240,8 @@
            "textModalSuccessfull":"ENTENDIDO",
            "textBtnConfirmAction":"CONFIRMAR"
         },
-        "justificationSubmitted": "Justificación enviada"
+        "justificationSubmitted": "Justificación enviada",
+        "reason": "Motivo"
      },
       "general": {
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
