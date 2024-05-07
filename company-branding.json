@@ -39,7 +39,17 @@
     "clipPaper": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/clipPaper.png?raw=true",
     "departureRequest": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/departureRequest.png?raw=true",
     "profilePlaceholcer": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/profile_placeholder.png?raw=true",
-    "iconMessageWarning": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/iconMessageWarning.png?raw=true"
+    "iconMessageWarning": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/iconMessageWarning.png?raw=true",
+    "checkinDisabled": "https://github.com/JeferonTech/hc-assets/blob/main/company/assets/checkin-disabled.png?raw=true",
+    "checkoutDisabled": "https://github.com/JeferonTech/hc-assets/blob/main/company/assets/checkout-disabled.png?raw=true",
+    "permissionRequestDisabled": "https://github.com/JeferonTech/hc-assets/blob/main/company/assets/permission_request.png?raw=true",
+    "inabilityDisabled": "https://github.com/JeferonTech/hc-assets/blob/main/company/assets/inability-disabled.png?raw=true",
+    "lackDisabled": "https://github.com/JeferonTech/hc-assets/blob/main/company/assets/lack_disabled.png?raw=true",
+    "exitEarlyDisabled": "https://github.com/JeferonTech/hc-assets/blob/main/company/assets/exit_early_disabled.png?raw=true",
+    "vacationDisabled": "https://github.com/JeferonTech/hc-assets/blob/main/company/assets/vacation_disabled.png?raw=true",
+    "delaysDisabled": "https://github.com/JeferonTech/hc-assets/blob/main/company/assets/delays_disabled.png?raw=true",
+    "checkinIncomeDisabled": "https://github.com/JeferonTech/hc-assets/blob/main/company/assets/checkin_income_disabled.png?raw=true",
+    "checkoutOutputDisabled": "https://github.com/JeferonTech/hc-assets/blob/main/company/assets/checkout_output_disabled.png?raw=true"
   },
   "colors": {
     "primary": "#0038AE",
