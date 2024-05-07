@@ -58,6 +58,9 @@
         "subDescriptiOnCompleteDay": "Esperamos que hayas tenido una jornada productiva!",
         "independenceDay": "Día de la Independencia!",
         "vacationDateValidation": "Válido Hasta "
+      },
+      "confirmCheckin": {
+        "confirmButton": "Iniciar"
       }
     },
     "drawer": {
@@ -230,19 +233,18 @@
           "descriptionTextInput": "Describa la justificación del caso *",
           "btnSubmit": "ACEPTAR"
         },
-        "submitJustificationBtn":"Enviar Justificación"
-          
+        "submitJustificationBtn": "Enviar Justificación"
       },
-      "justify":{
-        "confirm":{
-           "title":"Confirmación Requerida",
-           "description":"¿Está seguro que desea enviar justificación?",
-           "textModalSuccessfull":"ENTENDIDO",
-           "textBtnConfirmAction":"CONFIRMAR"
+      "justify": {
+        "confirm": {
+          "title": "Confirmación Requerida",
+          "description": "¿Está seguro que desea enviar justificación?",
+          "textModalSuccessfull": "ENTENDIDO",
+          "textBtnConfirmAction": "CONFIRMAR"
         },
         "justificationSubmitted": "Justificación enviada",
         "reason": "Motivo"
-     },
+      },
       "general": {
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
         "textRequiredValidate": "Este campo es requerido",
@@ -422,11 +424,11 @@
         }
       },
       "noAssignment": {
-            "title": "¡Genial!",
-            "description": "No tienes asignaciones pendientes"
-          },
-          "noEstablishedWorkday": "No hay jornada establecida",
-          "userNoAssignment":"No tienes asignaciones"
+        "title": "¡Genial!",
+        "description": "No tienes asignaciones pendientes"
+      },
+      "noEstablishedWorkday": "No hay jornada establecida",
+      "userNoAssignment": "No tienes asignaciones"
     }
   }
 }
