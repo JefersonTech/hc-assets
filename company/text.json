@@ -310,6 +310,7 @@
       }
     },
     "general": {
+      "date": "d/MM/y hh:mmaaa",
       "shortDate": "d/MM/y",
       "normalDate": "d 'de' MMMM",
       "shortHour": "hh:mmaaa",
