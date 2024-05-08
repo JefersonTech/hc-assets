@@ -72,6 +72,11 @@
         "addJustification": "Deseas justificar tu salida?",
         "btnJustify": "Justificar",
         "confirmButton": "Iniciar"
+      },
+      "extraDepartureHours": {
+        "username": "{{-username}},",
+        "description": "Bienvenido de vuelta!\n¿Deseas continuar con tu jornada?",
+        "confirmButton": "Continuar"
       }
     },
     "drawer": {
