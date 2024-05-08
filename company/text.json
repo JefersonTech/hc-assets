@@ -60,6 +60,7 @@
         "vacationDateValidation": "Válido Hasta "
       },
       "confirmCheckin": {
+        "description": "¿Listo para iniciar tu jornada de trabajo con toda la energía?",
         "confirmButton": "Iniciar"
       },
       "exitEarly": {
