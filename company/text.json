@@ -64,8 +64,9 @@
         "confirmButton": "Iniciar"
       },
       "confirmCheckout": {
-        "description": "¿Listo para iniciar tu jornada de trabajo con toda la energía?",
-        "confirmButton": "Iniciar"
+        "description": "Estas a punto de finalizar tu jornada",
+        "feedback": "¿Estás seguro?",
+        "confirmButton": "Finalizar"
       },
       "exitEarly": {
         "username": "{{-username}},",
