@@ -63,6 +63,10 @@
         "description": "¿Listo para iniciar tu jornada de trabajo con toda la energía?",
         "confirmButton": "Iniciar"
       },
+      "confirmCheckout": {
+        "description": "¿Listo para iniciar tu jornada de trabajo con toda la energía?",
+        "confirmButton": "Iniciar"
+      },
       "exitEarly": {
         "description": "Tu jornada aun no ha terminado.",
         "addJustification": "Deseas justificar tu salida?",
