@@ -197,7 +197,8 @@
         "textBtnReject": "Rechazar",
         "textBtnApprove": "Aprobar",
         "titleCardIncidentials": "(1)[Solicitud delegada];(2)[Solicitud rechazada];(3)[Solicitud aprobada]",
-        "textFor": "Por"
+        "textFor": "Por",
+        "motive": "Motivo"
       },
       "creationRequest": {
         "selectRequest": {
