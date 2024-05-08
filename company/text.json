@@ -33,10 +33,10 @@
     },
     "userIncidents": {
       "entrys": {
-        "btnStart": "INICIAR",
-        "btnUnderstand": "ENTENDIDO",
-        "btnJustify": "JUSTIFICAR",
-        "btnFinalizar": "FINALIZAR",
+        "btnStart": "Iniciar",
+        "btnUnderstand": "Entendido",
+        "btnJustify": "Justificar",
+        "btnFinalizar": "Finalizar",
         "descriptiOntime": "Empezaste con el pie derecho!",
         "descriptiOnLateEntry": "llegaste un poco tarde!",
         "descriptiOnLateEntries": "este es tu retraso # ",
@@ -72,11 +72,12 @@
         "description": "Tu jornada aun no ha terminado.",
         "addJustification": "Deseas justificar tu salida?",
         "btnJustify": "Justificar",
-        "confirmButton": "Iniciar"
+        "confirmButton": "Salir"
       },
       "extraDepartureHours": {
         "username": "{{-username}},",
-        "description": "Bienvenido de vuelta!\n¿Deseas continuar con tu jornada?",
+        "description": "Bienvenido de vuelta!",
+        "continueJourney": "¿Deseas continuar con tu jornada?",
         "confirmButton": "Continuar"
       }
     },
