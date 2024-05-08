@@ -61,6 +61,11 @@
       },
       "confirmCheckin": {
         "confirmButton": "Iniciar"
+      },
+      "exitEarly": {
+        "description": "Tu jornada aun no ha terminado.",
+        "addJustification": "Deseas justificar tu salida?",
+        "btnJustify": "Justificar"
       }
     },
     "drawer": {
