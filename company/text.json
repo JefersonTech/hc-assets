@@ -453,7 +453,7 @@
       },
       "noAssignment": {
         "title": "¡Genial!",
-        "description": "No tienes asignaciones pendientes"
+        "description": "No tienes asignaciones"
       },
       "noEstablishedWorkday": "No hay jornada establecida",
       "userNoAssignment": "No tienes asignaciones"
