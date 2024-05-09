@@ -456,7 +456,21 @@
         "description": "No tienes asignaciones"
       },
       "noEstablishedWorkday": "No hay jornada establecida",
-      "userNoAssignment": "No tienes asignaciones"
+      "userNoAssignment": "No tienes asignaciones",
+      "parameters": {
+        "work_turns_type": {
+          "name": "Tipo de turno"
+        },
+        "insurance_branch": {
+          "name": "Ramo del seguro"
+        },
+        "type_occupational_risk": {
+          "name": "Tipo de riesgo"
+        },
+        "type_inability": {
+          "name": "Tipo de incapacidad"
+        }
+      }
     }
   }
 }
