@@ -192,7 +192,8 @@
       "general": {
         "theIdWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
         "requiredImei": "Se requiere IMEI",
-        "imeiRegisterReached": "Un usuario no puede registrar un IMEI más de tres veces, no se puede iniciar sesión. Contacta al administrador."
+        "imeiRegisterReached": "Un usuario no puede registrar un IMEI más de tres veces, no se puede iniciar sesión. Contacta al administrador.",
+        "notAvailableImei":"El imei aún no está disponible para su reasignación"
       }
     },
     "general": {
