@@ -470,6 +470,14 @@
         "type_inability": {
           "name": "Tipo de incapacidad"
         }
+      },
+      "errors":{
+        "CHK02":"El registro ya existe para el período de trabajo.",
+        "CHK03":"La comprobación ya existe para el período de trabajo.",
+        "WPD02":"El período de trabajo ha finalizado.",
+        "WPD05":"El período de trabajo no ha comenzado.",
+        "WPD01":"Período de trabajo no válido para el día actual.",
+        "WPD03":"Periodo trabajo usuario no encontrado."
       }
     }
   }
