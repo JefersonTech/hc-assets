@@ -478,7 +478,8 @@
         "WPD05":"El período de trabajo no ha comenzado.",
         "WPD01":"Período de trabajo no válido para el día actual.",
         "WPD03":"Periodo trabajo usuario no encontrado."
-      }
+      },
+      "closeSnackbar": "Cerrar"
     }
   }
 }
