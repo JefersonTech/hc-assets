@@ -405,7 +405,9 @@
           "anyValidFileToAttach": "No se han encontrado archivos válidos para adjuntar",
           "amounts": "(0)[Cant: {{current}}/{{count}}];(1)[Cant: {{current}}/{{count}}]; (2-inf)[Cant: {{current}}/{{count}}]",
           "attachedTitle": "LISTADO DE ADJUNTOS",
-          "maxSize": "Max: {{size}} mb"
+          "maxSize": "Max: {{size}} mb",
+          "uploaded":"Evidencias cargadas con éxito!",
+          "uploading":"Subiendo evidencias"
         },
         "errModal": {
           "title": "Errores encontrados",
