@@ -31,7 +31,7 @@
         "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
         "theImeiIsRequired": "Se requiere el imei",
         "TheimeiAssignedToAnotherUser": "El imei ya esta asignado a otro usuario",
-        "imeiNotAvailable": "The imei is not yet available for reassignment"
+        "imeiNotAvailable": "El imei aún no está disponible para su reasignación"
       },
       "signUp": {
         "signUp": {
