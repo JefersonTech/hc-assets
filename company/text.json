@@ -407,7 +407,9 @@
           "attachedTitle": "LISTADO DE ADJUNTOS",
           "maxSize": "Max: {{size}} mb",
           "uploaded":"Evidencias cargadas con éxito!",
-          "uploading":"Subiendo evidencias"
+          "uploading":"Subiendo evidencias",
+          "cameraPermission":"Necesitamos su permiso para mostrar la cámara",
+          "grantPermission":"conceder permiso"
         },
         "errModal": {
           "title": "Errores encontrados",
