@@ -225,7 +225,7 @@
           "labelInputDate": "Seleccione la fecha",
           "labelInputHour": "Indique la hora",
           "descriptionTextInput": "Describa la justificación del caso *",
-          "btnSubmit": "ACEPTAR",
+          "btnSubmit": "Enviar",
           "vacationRequest": "Solicitud de vacaciones",
           "vacation": "Solicitud de vacaciones",
           "remainingDays": "(0)[Dias disponibles: {{count}}];(1)[Dias disponibles: {{count}}];(2-inf)[Dias disponibles: {{count}}]",
