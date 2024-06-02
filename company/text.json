@@ -244,7 +244,9 @@
           "omission_checkin": "Omisión de registro de entrada",
           "extra_departure_hours": "Horas de salida extra",
           "omission_checkout": "Omisión de salida",
-          "missed_shift" : "Turno perdido"
+          "missed_shift" : "Ausencia de turno",
+          "prompt_exit":"Solicitud de salida anticipada",
+          "checkout_omission":"Omisión de registro de salida"
         },
         "inabilityRequest": {
           "folio": "Folio de Incapacidad",
