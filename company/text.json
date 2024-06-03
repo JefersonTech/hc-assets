@@ -485,7 +485,8 @@
         "WPD02":"El período de trabajo ha finalizado.",
         "WPD05":"El período de trabajo no ha comenzado.",
         "WPD01":"Período de trabajo no válido para el día actual.",
-        "WPD03":"Periodo trabajo usuario no encontrado."
+        "WPD03":"Periodo trabajo usuario no encontrado.",
+        "ERR_BAD_RESPONSE":"Servicio no disponible"
       },
       "closeSnackbar": "Cerrar"
     }
