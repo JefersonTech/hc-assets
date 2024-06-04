@@ -51,7 +51,9 @@
     "checkinIncomeDisabled": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/checkin_income_disabled.png?raw=true",
     "checkoutOutputDisabled": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/checkout_output_disabled.png?raw=true",
     "exitEarly": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/exit_early.png?raw=true",
-    "extraDepartureHours": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/extra_departure_hours.png?raw=true"
+    "extraDepartureHours": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/extra_departure_hours.png?raw=true",
+    "missedShift": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/missed_shift.png?raw=true",
+    "checkoutOmission": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/checkout_omission.png?raw=true"
   },
   "colors": {
     "primary": "#0038AE",
