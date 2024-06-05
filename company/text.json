@@ -490,7 +490,8 @@
         "WPD05":"El período de trabajo no ha comenzado.",
         "WPD01":"Período de trabajo no válido para el día actual.",
         "WPD03":"Periodo trabajo usuario no encontrado.",
-        "ERR_BAD_RESPONSE":"Servicio no disponible"
+        "ERR_BAD_RESPONSE":"Servicio no disponible",
+        "REQ06":"Las fechas facilitadas se solapan con una solicitud existente."
       },
       "closeSnackbar": "Cerrar"
     }
