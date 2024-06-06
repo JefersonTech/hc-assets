@@ -14,7 +14,7 @@
         "wrongCredentials": "El usuario y la contraseña no coinciden",
         "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
         "wrongId": "El ID no cumple con las caracteristicas  necesarias",
-        "wrongPassword": "“La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
+        "wrongPassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
         "btnHelp": "¿Necesitas ayuda?",
         "textBtnLogin": "Iniciar Sesión",
         "placeHolderPassword": "*******",
@@ -47,7 +47,7 @@
           "wrongCredentials": "El usuario y la contraseña no coinciden",
           "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
           "wrongId": "El ID no cumple con las caracteristicas  necesarias",
-          "wrongPassword": "“La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
+          "wrongPassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
           "btnHelp": "¿Necesitas ayuda?",
           "textBtnLogin": "Iniciar sesión",
           "placeHolderPassword": "*******",
@@ -193,7 +193,7 @@
         "theIdWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
         "requiredImei": "Se requiere IMEI",
         "imeiRegisterReached": "Un usuario no puede registrar un IMEI más de tres veces, no se puede iniciar sesión. Contacta al administrador.",
-        "notAvailableImei":"El imei aún no está disponible para su reasignación"
+        "notAvailableImei": "El imei aún no está disponible para su reasignación"
       }
     },
     "general": {

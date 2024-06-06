@@ -1,0 +1,502 @@
+{
+  "en-US": {
+    "registers": {
+      "registers": {
+        "titleCardIncidentials": "(0)[No hay solicitudes pendientes];(1)[Solicitud pendiente de revisión];(2-inf)[Solicitudes pendientes de revisión]",
+        "registerIncidentials": "Registro de Solicitudes",
+        "averageEntryTime": "Hora promedio de ingreso",
+        "averageDepartureTime": "Hora promedio de salida",
+        "pendingQuestionnaires": "Cuestionarios pendientes",
+        "designatedQuestionnaires": "Cuestionarios Asignados",
+        "assistRecord": "Record de Asistencias",
+        "btnViewLogs": "Ver Registros",
+        "titlefirstSquareCard": "",
+        "titleSecondSquareCard": "Stats",
+        "descriptionfirstSquareCard": "Colaboradores",
+        "descriptionSecondSquareCard": "Resumen",
+        "textCardChangeDay": "Cambiará en",
+        "textCardChangeDaysNumber": "(1)[{{count}} día];(2-inf)[{{count}} días]"
+      },
+      "attendanceRecord": {
+        "title": "Registro de Asistencias",
+        "income": "Entrada con retardo",
+        "outToEat": "Salida a comer",
+        "returnFromEating": "Regreso de comer",
+        "exit": "Salida",
+        "headerReturn": "Regresar",
+        "textIncident": "Incidencia",
+        "btnJustify": "Justificar",
+        "untilDate": "Hasta",
+        "dateTextTitle": "FECHA"
+      },
+      "anyRecordForToday": "No has registrado tu entrada hoy"
+    },
+    "userIncidents": {
+      "entrys": {
+        "btnStart": "Iniciar",
+        "btnUnderstand": "Entendido",
+        "btnJustify": "Justificar",
+        "btnFinalizar": "Finalizar",
+        "descriptiOntime": "Empezaste con el pie derecho!",
+        "descriptiOnLateEntry": "llegaste un poco tarde!",
+        "descriptiOnLateEntries": "este es tu retraso # ",
+        "descriptiOnHoliday": "Hoy es festivo! ",
+        "descriptiOnVacation": "Disfruta tus vacaciones!",
+        "descriptiOnRest": "Hoy es tu día de descanso!",
+        "descriptiOnLaunchTime": "Ya es tu hora de comida!",
+        "descriptiOnReturnLaunchTime": "Regresaste justo a tiempo!",
+        "descriptiOnNotDetectLaunchTime": "No hemos detectado que hayas salido a comer!",
+        "descriptiOnCompleteDay": "Has finalizado tu jornada!",
+        "thisMounth": " este mes",
+        "subDescriptiOnLateEntry": "Recuerda que tres retrasos consecutivos pueden representar penalizaciones en tu remuneración directa.",
+        "subDescriptiOntime": "Vamos a comenzar una jornada de trabajo con mucha energía!",
+        "subDescriptiOnHoliday": "A disfrutar el merecido día de descanso por motivo de:",
+        "subDescriptiOnVacation": "A disfrutar el merecido día de descanso correspondiente a tus días de vacaciones.",
+        "subDescriptiOnRest": "Según nuestro calendario hoy es tu día de descanso, a reponer energías!!",
+        "subDescriptiOnLauchTime": "Respetar tus horas de alimentación es clave para tu salud!",
+        "subDescriptiOnNotDetectLaunchTime": "Recuerda que debes registrar cada dia tu salida a comer y regreso de tu comida. Cuidar de tu alimentación es fundamental para tu salud!",
+        "subDescriptiOnCompleteDay": "Esperamos que hayas tenido una jornada productiva!",
+        "independenceDay": "Día de la Independencia!",
+        "vacationDateValidation": "Válido Hasta "
+      },
+      "confirmCheckin": {
+        "description": "¿Listo para iniciar tu jornada de trabajo con toda la energía?",
+        "confirmButton": "Iniciar"
+      },
+      "confirmCheckout": {
+        "description": "Estas a punto de finalizar tu jornada",
+        "feedback": "¿Estás seguro?",
+        "confirmButton": "Finalizar"
+      },
+      "exitEarly": {
+        "username": "{{-username}},",
+        "description": "Tu jornada aun no ha terminado.",
+        "addJustification": "Deseas justificar tu salida?",
+        "btnJustify": "Justificar",
+        "confirmButton": "Salir"
+      },
+      "extraDepartureHours": {
+        "username": "{{-username}},",
+        "description": "Bienvenido de vuelta!",
+        "continueJourney": "¿Deseas continuar con tu jornada?",
+        "confirmButton": "Continuar"
+      }
+    },
+    "drawer": {
+      "home": "Inicio",
+      "profile": "Perfil",
+      "personalRecord": "Registro personal",
+      "attendanceRecord": "Registro de asistencia",
+      "incidentManagement": "Administración de incidente",
+      "questionnaireManagement": "Gestión de cuestionarios",
+      "calendar": "Chequeador",
+      "myIncidentsStack": "myIncidentsStack"
+    },
+    "searchCollaborators": {
+      "title": "Buscar colaboradores",
+      "labelIdUser": "ID MacroPay o Nombre del Usuario",
+      "labelIdBranch": "ID Sucursal o Nombre de la Sucursal",
+      "labelDepartment": "Departamento",
+      "labelPosition": "Puesto",
+      "labelRequests": "Solicitudes pendientes de revisión",
+      "searchBtn": "Buscar",
+      "requestItemUserSearch": "(0)[{{count}} Solicitudes activas];(1)[{{count}} Solicitud activa];(2-inf)[{{count}} Solicitudes activas]",
+      "btnFilter": "Filtrar por",
+      "btnOrderfor": "Ordenar por",
+      "registerOfRequests": "Registro de Solicitudes",
+      "workingDay": "Jornada de Trabajo",
+      "shift": "Turno ",
+      "btnFilters": "Aplicar Filtros",
+      "modalFilters": {
+        "title": "Filtrar por",
+        "labelIdUser": "ID MacroPay o Nombre del Usuario",
+        "labelIdBranch": "ID Sucursal o Nombre de la Sucursal",
+        "labelDepartment": "Departamento",
+        "labelPosition": "Puesto",
+        "labelRequests": "Solicitudes pendientes de revisión"
+      }
+    },
+    "requestManagement": {
+      "awaitingRequests": {
+        "titlePartOne": "Solicitudes",
+        "titlePartTwo": "Pendientes",
+        "btnPendingRequest": "PENDIENTE",
+        "sendRequestText": "Enviada ",
+        "textFilter": "Filtrar por ",
+        "textOrder": "Ordenar por ",
+        "btnNewRequest": "Nueva Solicitud"
+      },
+      "awaitingMyRequests": {
+        "title": "Mis Solicitudes",
+        "sendRequestText": "Enviada "
+      },
+      "approbationRequest": {
+        "btnAprobationText": "Confirmar Aprobación",
+        "labelTextAreaInputAddComments": "Agregar comentarios",
+        "textSuccessfullAction": "La solicitud fue aprobada con éxito",
+        "modalConfirmation": {
+          "titleModalConfirmation": "Confirmación Requerida",
+          "descriptionModalConfirmPartOne": "¿Está seguro que desea",
+          "descriptionModalConfirmPartTwo": "esta solicitud?",
+          "textTypeRequest": "aprobar",
+          "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
+          "textModalSuccessfull": "ENTENDIDO",
+          "textBtnConfirmAction": "CONFIRMAR",
+          "textBtnCancelAction": "CANCELAR"
+        },
+        "modalSuccessfull": {
+          "titleModal": "Solicitud aprobada",
+          "descriptionModal": "La solicitud fue aprobada con éxito",
+          "textBtnModal": "ENTENDIDO"
+        }
+      },
+      "rejectionRequests": {
+        "title": "Rechazo de Solicitud",
+        "textBtnRejection": "Confirmar Rechazo",
+        "textSuccessfullAction": "La solicitud fue rechazada con éxito",
+        "modalConfirmation": {
+          "titleModalConfirmation": "Confirmación Requerida",
+          "descriptionModalConfirmPartOne": "¿Está seguro que desea",
+          "descriptionModalConfirmPartTwo": "esta solicitud?",
+          "textTypeRequest": "rechazar",
+          "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
+          "textModalSuccessfull": "ENTENDIDO",
+          "textBtnConfirmAction": "CONFIRMAR",
+          "textBtnCancelAction": "CANCELAR"
+        },
+        "modalSuccessfull": {
+          "titleModal": "Solicitud rechazada",
+          "descriptionModal": "La solicitud fue rechazada con éxito",
+          "textBtnModal": "ENTENDIDO"
+        }
+      },
+      "delegateRequest": {
+        "title": "Delegar Solicitud",
+        "description": "De acuerdo con nuestros flujos de trabajo puedes delegar esta solicitud en las siguientes personas",
+        "labelInputSelect": "Seleccionar persona",
+        "textBtnDelegate": "Delegar",
+        "textSuccessfullAction": "La solicitud fue delegada con éxito",
+        "labelInput": "Seleccionar persona",
+        "modalConfirmation": {
+          "titleModalConfirmation": "Confirmación Requerida",
+          "descriptionModalConfirmPartOne": "¿Está seguro que desea",
+          "descriptionModalConfirmPartTwo": "esta solicitud?",
+          "textTypeRequest": "Delegar",
+          "textWarningOption": "Al hacerlo, se enviará una notificación al solicitante con el cambio de estado.",
+          "textModalSuccessfull": "ENTENDIDO",
+          "textBtnConfirmAction": "CONFIRMAR",
+          "textBtnCancelAction": "CANCELAR"
+        },
+        "modalSuccessfull": {
+          "titleModal": "Solicitud delegada",
+          "descriptionModal": "La solicitud fue delegada con éxito",
+          "textBtnModal": "ENTENDIDO"
+        }
+      },
+      "details": {
+        "textBtnDelegate": "Delegar",
+        "textBtnReject": "Rechazar",
+        "textBtnApprove": "Aprobar",
+        "titleCardIncidentials": "(1)[Solicitud delegada];(2)[Solicitud rechazada];(3)[Solicitud aprobada]",
+        "textFor": "Por",
+        "motive": "Motivo",
+        "statusCard": {
+          "title": {
+            "rejected": "Solicitud rechazada",
+            "approved": "Solicitud aprobada"
+          }
+        }
+      },
+      "creationRequest": {
+        "selectRequest": {
+          "title": "Cómo podemos ayudarte?",
+          "textCardPermitRequest": "Solicitud Permiso",
+          "textCardInability": "Incapacidad",
+          "textCardJustificationOfAbsence": "Justificación de falta",
+          "textCardEarlyDeparture": "Salida Anticipada",
+          "textCardVacationRequest": "Solicitud de Vacaciones",
+          "textCardDelayJustification": "Justificación de Retardo",
+          "checking": "Entrada",
+          "checkout": "Salida"
+        },
+        "creationRequest": {
+          "title": "Solicitud de {{request}} ",
+          "labelInputMotive": "Seleccione el motivo",
+          "labelInputDate": "Seleccione la fecha",
+          "labelInputHour": "Indique la hora",
+          "descriptionTextInput": "Describa la justificación del caso *",
+          "btnSubmit": "Enviar",
+          "vacationRequest": "Solicitud de vacaciones",
+          "vacation": "Solicitud de vacaciones",
+          "remainingDays": "(0)[Dias disponibles: {{count}}];(1)[Dias disponibles: {{count}}];(2-inf)[Dias disponibles: {{count}}]",
+          "permission_request": "Solicitud de permiso",
+          "inability": "Solicitud de incapacidad",
+          "lack": "Justificación de falta",
+          "worked_rest_day": "Descanso trabajado",
+          "justified_delay": "Retardo justificado",
+          "exit_early": "Salida anticipada",
+          "delays": "Justificacion de Retardos",
+          "checkin": "Entrada",
+          "checkout": "Salida",
+          "delay": "Retardo",
+          "exit_aarly": "Salida Anticipada",
+          "extra_entry_hours": "Horas de entrada extra",
+          "omission_checkin": "Omisión de registro de entrada",
+          "extra_departure_hours": "Horas de salida extra",
+          "omission_checkout": "Omisión de salida",
+          "missed_shift": "Ausencia de turno",
+          "prompt_exit": "Solicitud de salida anticipada",
+          "checkout_omission": "Omisión de registro de salida"
+        },
+        "inabilityRequest": {
+          "folio": "Folio de Incapacidad",
+          "dateFrom": "Desde",
+          "numberOfDays": "Número de días",
+          "insuranceBranch": "Ramo del seguro",
+          "typeInability": "Tipo de Incapacidad",
+          "dateIssued": "Fecha de expedición"
+        },
+        "delayedForm": {
+          "title": "Ingreso con retardo",
+          "titleDate": "{{-date}} - {{-hour}}",
+          "labelInput": "Seleccione el motivo",
+          "descriptionTextInput": "Describa la justificación del caso *",
+          "btnSubmit": "ACEPTAR"
+        },
+        "submitJustificationBtn": "Enviar Justificación"
+      },
+      "justify": {
+        "confirm": {
+          "title": "Confirmación Requerida",
+          "description": "¿Está seguro que desea enviar justificación?",
+          "textModalSuccessfull": "ENTENDIDO",
+          "textBtnConfirmAction": "CONFIRMAR"
+        },
+        "justificationSubmitted": "Justificación enviada",
+        "reason": "Motivo"
+      },
+      "general": {
+        "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
+        "textRequiredValidate": "Este campo es requerido",
+        "textRequest": "Solicitud ",
+        "titleCardIncidentials": "(4)[PENDIENTE];(2)[RECHAZADA];(3)[APROBADA]",
+        "goToRecuestDetails": {
+          "title": "Solicitud respondida",
+          "descriptionModalDetailsPartOne": "Tu Solicitud de",
+          "descriptionModalDetailsPartTwo": "ha sido aprobada",
+          "btnText": "VER DETALLE",
+          "formHour": "HH:mm"
+        }
+      },
+      "filter": {
+        "dateFrom": "Desde",
+        "dateTo": "Hasta"
+      }
+    },
+    "changeOfDay": {
+      "formChangeOfDay": {
+        "title": "Jornada de Trabajo",
+        "turn": "Turno {{mode}}",
+        "UpdateWorkDay": "Actualizar Jornada de Trabajo",
+        "labelUndefinedTime": "Tiempo Indefinido",
+        "fromTime": "Desde",
+        "labelPartTime": "Tiempo Parcial",
+        "labelUntil": "Hasta",
+        "labelFromTime": "Desde",
+        "labelEarlyDay": "Jornada anticipada",
+        "textBtnSave": "GUARDAR",
+        "textBtnChange": "CAMBIAR",
+        "inputSelectPartTime": "Tiempo Parcial",
+        "inputSelectfrom": "Desde",
+        "inputSelectUntil": "Hasta",
+        "inputSelectEarlyDay": "Jornada anticipada",
+        "modalSuccessFul": {
+          "title": "Jornada Actualizada",
+          "description": "El cambio de jornada fue realizado con éxito",
+          "textBtn": "ENTENDIDO"
+        }
+      }
+    },
+    "general": {
+      "date": "d/MM/y hh:mmaaa",
+      "shortDate": "d/MM/y",
+      "normalDate": "d 'de' MMMM",
+      "shortHour": "hh:mmaaa",
+      "hourNoneIndicators": "KK:mm",
+      "notFoundModule": "No se encontró el módulo {{-moduleName}}",
+      "btnConfirmSignOut": "Sí, cerrar",
+      "btnCancelSignOut": "No, regresar",
+      "textSignOut": "¿Seguro que quieres cerrar sesión?",
+      "loggoutButton": "Cerrar Sesión",
+      "modalNotifications": {
+        "modalSuccessFulChangeDay": {
+          "title": "Jornada Actualizada",
+          "description": "El cambio de jornada fue realizado con éxito",
+          "textBtn": "ENTENDIDO"
+        },
+        "modalEmployerChangeDay": {
+          "title": "Actualización de Jornada",
+          "description": "Recuerda que en {{-count}} días se actualiza la jornada de Trabajo de {{name}}",
+          "textBtn": "ENTENDIDO"
+        },
+        "modalEmployeeChangeDay": {
+          "title": "Actualización de Jornada",
+          "description": "Tu Jornada de Trabajo ha sido actualizada a partir de {{-date}}",
+          "textBtn": "ENTENDIDO"
+        },
+        "modalEmployeeRememberChangeDay": {
+          "title": "Actualización de Jornada",
+          "description": "Recuerda que en {{count}} días se actualiza el horario de tu jornada de trabajo!",
+          "textBtn": "ENTENDIDO"
+        },
+        "modalEmployeeDefiniteTime": {
+          "title": "Actualización de Jornada",
+          "description": "Tu Jornada de Trabajo ha sido actualizada. Los cambios aplicarán del",
+          "dateDefinite": "{{-date1}} al {{-date2}}",
+          "textBtn": "ENTENDIDO"
+        },
+        "modalDeyedEntryRequest": {
+          "title": "Se ha enviado tu informe",
+          "textBtn": "ENTENDIDO"
+        },
+        "modalCreateRequestSuccessFul": {
+          "title": "Se ha enviado tu solicitud",
+          "textBtn": "ENTENDIDO"
+        },
+        "checkin": {
+          "title": "Haz hecho checkin",
+          "textBtn": "ENTENDIDO"
+        },
+        "checkout": {
+          "title": "Haz hecho checkout",
+          "textBtn": "ENTENDIDO"
+        }
+      },
+      "textAreatMaxLength": "Cantidad máxima de caracteres: {{count}}",
+      "textAreatMinLength": "Cantidad minima de caracteres: {{count}}",
+      "textAreatLength": "Cantidad requerida de caracteres: {{count}}",
+      "solicitudStatus": "(1)[Pendiente];(2)[Rechazada];(3)[Aprobada]",
+      "searchPlaceholder": "Buscar",
+      "headerReturn": "Regresar",
+      "status": {
+        "pending": "PENDIENTE",
+        "rejected": "RECHAZADA",
+        "approved": "APROBADA",
+        "open": "ABIERTA"
+      },
+      "workPeriod": {
+        "Workingtime": "Laboral"
+      },
+      "dateFrom": "Desde",
+      "dateTo": "Hasta",
+      "attachments": {
+        "validations": {
+          "someFileIsUploadingYet": "Las evidencias adjuntas no se han terminado de guardar, por favor espera unos segundos",
+          "someEvidenceIsRequired": "Se requieren evidencias de tipo {{type}}",
+          "exceededTheAllowedSizeLimit": "Algún archivo de tipo {{type}} cargado ha superado el límite de tamaño permitido",
+          "uploadedFilesHasExceededTheAllowedLimit": "El número de archivos de tipo {{type}} cargados ha superado el límite permitido",
+          "exceedsCharacters": "Cantidad máxima de caracteres: {{count}}",
+          "errDescriptionMin": "El comentario debe tener almenos 3 caracteres",
+          "allowedFormats": "Formatos de archivo admitidos: {{formats}}",
+          "someOfTheUploadedFormatsAreNotPermitted": "Algun formato de archivo de tipo {{type}} no esta permitido"
+        },
+        "types": {
+          "camera": "cámara",
+          "image": "imagen",
+          "video": "video",
+          "sign": "firma",
+          "comment": "comentario",
+          "document": "documento",
+          "videosFromGallery": "video de galería"
+        },
+        "general": {
+          "title": "LISTADO DE ADJUNTOS",
+          "anyValidFileToAttach": "No se han encontrado archivos válidos para adjuntar",
+          "amounts": "(0)[Cant: {{current}}/{{count}}];(1)[Cant: {{current}}/{{count}}]; (2-inf)[Cant: {{current}}/{{count}}]",
+          "attachedTitle": "LISTADO DE ADJUNTOS",
+          "maxSize": "Max: {{size}} mb",
+          "uploaded": "Evidencias cargadas con éxito!",
+          "uploading": "Subiendo evidencias",
+          "cameraPermission": "Necesitamos su permiso para mostrar la cámara",
+          "grantPermission": "conceder permiso"
+        },
+        "errModal": {
+          "title": "Errores encontrados",
+          "close": "Cerrar"
+        },
+        "permissionsModal": {
+          "title": "Advertencia",
+          "description": "Debes conceder los siguientes permisos al aplicativo para continuar con el proceso."
+        },
+        "evidencesTypes": {
+          "camera": "Cámara",
+          "image": "Imagen",
+          "video": "Video",
+          "videoFromCamera": "Grabar",
+          "sign": "Firma",
+          "comment": "Comentario",
+          "document": "Documento",
+          "seeMore": "Ver más",
+          "seeAttachments": "Ver adjuntos"
+        },
+        "categories": {
+          "imagesFromCamera": {
+            "title": "Imágenes de la cámara"
+          },
+          "imagesFromGallery": {
+            "title": "Imágenes de la galería"
+          },
+          "videosFromCamera": {
+            "title": "Videos de la cámara"
+          },
+          "videosFromGallery": {
+            "title": "Videos de la galería"
+          },
+          "documents": {
+            "title": "Documentos"
+          },
+          "comments": {
+            "title": "Comentarios",
+            "description": "Ingresa un comentario acerca de el cuestionario"
+          },
+          "signatures": {
+            "title": "Firmas"
+          }
+        }
+      },
+      "noAssignment": {
+        "title": "¡Genial!",
+        "description": "No tienes asignaciones"
+      },
+      "noEstablishedWorkday": "No hay jornada establecida",
+      "userNoAssignment": "No tienes asignaciones",
+      "parameters": {
+        "work_turns_type": {
+          "name": "Tipo de turno"
+        },
+        "insurance_branch": {
+          "name": "Ramo del seguro"
+        },
+        "type_occupational_risk": {
+          "name": "Tipo de riesgo"
+        },
+        "type_inability": {
+          "name": "Tipo de incapacidad"
+        }
+      },
+      "errors": {
+        "CHK02": "El registro ya existe para el período de trabajo.",
+        "CHK03": "La comprobación ya existe para el período de trabajo.",
+        "WPD02": "El período de trabajo ha finalizado.",
+        "WPD05": "El período de trabajo no ha comenzado.",
+        "WPD01": "Período de trabajo no válido para el día actual.",
+        "WPD03": "Periodo trabajo usuario no encontrado.",
+        "ERR_BAD_RESPONSE": "Servicio no disponible",
+        "REQ06": "Tienes otras solicitudes para esa fecha, verifica e intenta de nuevo",
+        "REQ03": "Tanto startDate como endDate son obligatorios para este tipo de solicitud.",
+        "REQ07": "La fecha de inicio es obligatoria para este tipo de solicitud."
+      },
+      "closeSnackbar": "Cerrar"
+    }
+  }
+}
