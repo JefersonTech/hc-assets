@@ -244,9 +244,9 @@
           "omission_checkin": "Omisión de registro de entrada",
           "extra_departure_hours": "Horas de salida extra",
           "omission_checkout": "Omisión de salida",
-          "missed_shift" : "Ausencia de turno",
-          "prompt_exit":"Solicitud de salida anticipada",
-          "checkout_omission":"Omisión de registro de salida"
+          "missed_shift": "Ausencia de turno",
+          "prompt_exit": "Solicitud de salida anticipada",
+          "checkout_omission": "Omisión de registro de salida"
         },
         "inabilityRequest": {
           "folio": "Folio de Incapacidad",
@@ -288,9 +288,9 @@
           "formHour": "HH:mm"
         }
       },
-      "filter":{
+      "filter": {
         "dateFrom": "Desde",
-        "dateTo":"Hasta"
+        "dateTo": "Hasta"
       }
     },
     "changeOfDay": {
@@ -374,6 +374,7 @@
       },
       "textAreatMaxLength": "Cantidad máxima de caracteres: {{count}}",
       "textAreatMinLength": "Cantidad minima de caracteres: {{count}}",
+      "textAreatLength": "Cantidad requerida de caracteres: {{count}}",
       "solicitudStatus": "(1)[Pendiente];(2)[Rechazada];(3)[Aprobada]",
       "searchPlaceholder": "Buscar",
       "headerReturn": "Regresar",
@@ -414,10 +415,10 @@
           "amounts": "(0)[Cant: {{current}}/{{count}}];(1)[Cant: {{current}}/{{count}}]; (2-inf)[Cant: {{current}}/{{count}}]",
           "attachedTitle": "LISTADO DE ADJUNTOS",
           "maxSize": "Max: {{size}} mb",
-          "uploaded":"Evidencias cargadas con éxito!",
-          "uploading":"Subiendo evidencias",
-          "cameraPermission":"Necesitamos su permiso para mostrar la cámara",
-          "grantPermission":"conceder permiso"
+          "uploaded": "Evidencias cargadas con éxito!",
+          "uploading": "Subiendo evidencias",
+          "cameraPermission": "Necesitamos su permiso para mostrar la cámara",
+          "grantPermission": "conceder permiso"
         },
         "errModal": {
           "title": "Errores encontrados",
@@ -483,17 +484,17 @@
           "name": "Tipo de incapacidad"
         }
       },
-      "errors":{
-        "CHK02":"El registro ya existe para el período de trabajo.",
-        "CHK03":"La comprobación ya existe para el período de trabajo.",
-        "WPD02":"El período de trabajo ha finalizado.",
-        "WPD05":"El período de trabajo no ha comenzado.",
-        "WPD01":"Período de trabajo no válido para el día actual.",
-        "WPD03":"Periodo trabajo usuario no encontrado.",
-        "ERR_BAD_RESPONSE":"Servicio no disponible",
-        "REQ06":"Tienes otras solicitudes para esa fecha, verifica e intenta de nuevo",
-        "REQ03":"Tanto startDate como endDate son obligatorios para este tipo de solicitud.",
-        "REQ07":"La fecha de inicio es obligatoria para este tipo de solicitud."
+      "errors": {
+        "CHK02": "El registro ya existe para el período de trabajo.",
+        "CHK03": "La comprobación ya existe para el período de trabajo.",
+        "WPD02": "El período de trabajo ha finalizado.",
+        "WPD05": "El período de trabajo no ha comenzado.",
+        "WPD01": "Período de trabajo no válido para el día actual.",
+        "WPD03": "Periodo trabajo usuario no encontrado.",
+        "ERR_BAD_RESPONSE": "Servicio no disponible",
+        "REQ06": "Tienes otras solicitudes para esa fecha, verifica e intenta de nuevo",
+        "REQ03": "Tanto startDate como endDate son obligatorios para este tipo de solicitud.",
+        "REQ07": "La fecha de inicio es obligatoria para este tipo de solicitud."
       },
       "closeSnackbar": "Cerrar"
     }
