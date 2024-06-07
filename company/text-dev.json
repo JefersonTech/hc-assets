@@ -496,7 +496,8 @@
         "REQ03": "Tanto startDate como endDate son obligatorios para este tipo de solicitud.",
         "REQ07": "La fecha de inicio es obligatoria para este tipo de solicitud."
       },
-      "closeSnackbar": "Cerrar"
+      "closeSnackbar": "Cerrar",
+      "updatedProfilePicture":"Foto de perfil actualizada"
     }
   }
 }
