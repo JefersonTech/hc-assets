@@ -209,7 +209,7 @@
       },
       "creationRequest": {
         "selectRequest": {
-          "title": "Cómo podemos ayudarte?",
+          "title": "¿Cómo podemos ayudarte?",
           "textCardPermitRequest": "Solicitud Permiso",
           "textCardInability": "Incapacidad",
           "textCardJustificationOfAbsence": "Justificación de falta",
@@ -498,7 +498,7 @@
         "CHK04": "No puede continuar con su inscripción. Ya se ha aprobado una solicitud anterior de vacaciones, permiso u otros."
       },
       "closeSnackbar": "Cerrar",
-      "updatedProfilePicture":"Foto de perfil actualizada"
+      "updatedProfilePicture": "Foto de perfil actualizada"
     }
   }
 }
