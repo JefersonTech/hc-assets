@@ -494,7 +494,8 @@
         "ERR_BAD_RESPONSE": "Servicio no disponible",
         "REQ06": "Tienes otras solicitudes para esa fecha, verifica e intenta de nuevo",
         "REQ03": "Tanto startDate como endDate son obligatorios para este tipo de solicitud.",
-        "REQ07": "La fecha de inicio es obligatoria para este tipo de solicitud."
+        "REQ07": "La fecha de inicio es obligatoria para este tipo de solicitud.",
+        "CHK04": "No puede continuar con su inscripción. Ya se ha aprobado una solicitud anterior de vacaciones, permiso u otros."
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture":"Foto de perfil actualizada"
