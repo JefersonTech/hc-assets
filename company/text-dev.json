@@ -279,6 +279,7 @@
         "textValidateTextArea": "Debe haber minimo 3 caracteres en este campo",
         "notTextInInput": "no debe empezar ni terminar con un espacio",
         "textRequiredValidate": "Este campo es requerido",
+        "requiredField": "El {{field}} es requerido",
         "textRequest": "Solicitud ",
         "titleCardIncidentials": "(4)[PENDIENTE];(2)[RECHAZADA];(3)[APROBADA]",
         "goToRecuestDetails": {
