@@ -503,9 +503,9 @@
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
-      "requiredField": "El {{field}} es requerido",
-      "requiredField_male": "El {{field}} es requerido",
-      "requiredField_female": "La {{field}} es requerido"
+      "requiredField": "{{field}} es requerido",
+      "requiredField_male": "{{field}} es requerido",
+      "requiredField_female": "{{field}} es requerida"
     }
   }
 }
