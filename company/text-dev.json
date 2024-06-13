@@ -505,7 +505,8 @@
       "updatedProfilePicture": "Foto de perfil actualizada",
       "requiredField": "{{field}} es requerido",
       "requiredField_male": "{{field}} es requerido",
-      "requiredField_female": "{{field}} es requerida"
+      "requiredField_female": "{{field}} es requerida",
+      "welcome": "just <clickHere> to do the things"
     }
   }
 }
