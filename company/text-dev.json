@@ -224,7 +224,7 @@
           "labelInputMotive": "Seleccione el motivo",
           "labelInputDate": "Seleccione la fecha",
           "labelInputHour": "Indique la hora",
-          "descriptionTextInput": "Describa la justificación del caso *",
+          "descriptionTextInput": "Describa la justificación del caso",
           "btnSubmit": "Enviar",
           "vacationRequest": "Solicitud de vacaciones",
           "vacation": "Solicitud de vacaciones",
@@ -503,7 +503,9 @@
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
-      "requiredField": "El {{field}} es requerido"
+      "requiredField": "El {{field}} es requerido",
+      "requiredField_male": "El {{field}} es requerido",
+      "requiredField_female": "La {{field}} es requerido"
     }
   }
 }
