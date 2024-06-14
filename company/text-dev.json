@@ -39,6 +39,7 @@
         "btnFinalizar": "Finalizar",
         "descriptiOntime": "Empezaste con el pie derecho!",
         "descriptiOnLateEntry": "llegaste un poco tarde!",
+        "descripti_delay": "{{name}}, <strong>llegaste un poco tarde!</strong>",
         "descriptiOnLateEntries": "este es tu retraso # ",
         "descriptiOnHoliday": "Hoy es festivo! ",
         "descriptiOnVacation": "Disfruta tus vacaciones!",
@@ -509,7 +510,7 @@
       "welcome": "just <clickHere> to do the things",
       "userMessagesUnread": {
         "nameTitle": "This is your name",
-        "userMessagesUnread_one": "Hello <1>{{name}}</1>, you have {{count}} unread message. <5>Go to message</5>.",
+        "userMessagesUnread_one": "Hello <component>{{name}}</component>, you have {{count}} unread message. <5>Go to message</5>.",
         "userMessagesUnread_other": "Hello <1>{{name}}</1>, you have {{count}} unread messages.  <5>Go to messages</5>."
       }
     }
