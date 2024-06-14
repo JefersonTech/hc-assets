@@ -76,9 +76,8 @@
         "confirmButton": "Salir"
       },
       "extraDepartureHours": {
-        "username": "{{-username}},",
-        "description": "Bienvenido de vuelta!",
-        "continueJourney": "¿Deseas continuar con tu jornada?",
+        "title": "{{name}},\n<strong>Tu jornada aun no ha terminado.</strong>",
+        "description": "¿Deseas continuar con tu jornada?",
         "confirmButton": "Continuar"
       }
     },
