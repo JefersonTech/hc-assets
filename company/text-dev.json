@@ -70,9 +70,8 @@
         "confirmButton": "Finalizar"
       },
       "exitEarly": {
-        "username": "{{-username}},",
-        "description": "Tu jornada aun no ha terminado.",
-        "addJustification": "Deseas justificar tu salida?",
+        "title": "{{name}},\n<strong>Tu jornada aun no ha terminado.</strong>",
+        "description": "¿Deseas justificar tu salida?",
         "btnJustify": "Justificar",
         "confirmButton": "Salir"
       },
