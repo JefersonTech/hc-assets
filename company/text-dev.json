@@ -38,6 +38,7 @@
         "btnJustify": "Justificar",
         "btnFinalizar": "Finalizar",
         "entry": "{{name}},\n<strong>Empezaste con el pie derecho!</strong>",
+        "extra_entry_hours": "{{name}},\n<strong>Empezaste con el pie derecho!</strong>",
         "descriptiOnLateEntry": "llegaste un poco tarde!",
         "description_delay": "{{name}},\n<strong>Llegaste un poco tarde!</strong>",
         "descriptiOnLateEntries": "este es tu retraso # ",
