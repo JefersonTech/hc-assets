@@ -37,8 +37,10 @@
         "btnUnderstand": "Entendido",
         "btnJustify": "Justificar",
         "btnFinalizar": "Finalizar",
-        "descriptiOntime": "Empezaste con el pie derecho!",
+        "entry": "{{name}},\n<strong>Empezaste con el pie derecho!</strong>",
+        "extra_entry_hours": "{{name}},\n<strong>Empezaste con el pie derecho!</strong>",
         "descriptiOnLateEntry": "llegaste un poco tarde!",
+        "description_delay": "{{name}},\n<strong>Llegaste un poco tarde!</strong>",
         "descriptiOnLateEntries": "este es tu retraso # ",
         "descriptiOnHoliday": "Hoy es festivo! ",
         "descriptiOnVacation": "Disfruta tus vacaciones!",
@@ -46,7 +48,7 @@
         "descriptiOnLaunchTime": "Ya es tu hora de comida!",
         "descriptiOnReturnLaunchTime": "!Regresaste justo a tiempo!",
         "descriptiOnNotDetectLaunchTime": "!No hemos detectado que hayas salido a comer!",
-        "descriptiOnCompleteDay": "Has finalizado tu jornada!",
+        "departure_on_time": "{{name}},\n<strong>Has finalizado tu jornada!</strong>",
         "thisMounth": " este mes",
         "subDescriptiOnLateEntry": "Recuerda que tres retrasos consecutivos pueden representar penalizaciones en tu remuneración directa.",
         "subDescriptiOntime": "Vamos a comenzar una jornada de trabajo con mucha energía!",
@@ -69,16 +71,14 @@
         "confirmButton": "Finalizar"
       },
       "exitEarly": {
-        "username": "{{-username}},",
-        "description": "Tu jornada aun no ha terminado.",
-        "addJustification": "Deseas justificar tu salida?",
+        "title": "{{name}},\n<strong>Tu jornada aun no ha terminado.</strong>",
+        "description": "¿Deseas justificar tu salida?",
         "btnJustify": "Justificar",
         "confirmButton": "Salir"
       },
       "extraDepartureHours": {
-        "username": "{{-username}},",
-        "description": "Bienvenido de vuelta!",
-        "continueJourney": "¿Deseas continuar con tu jornada?",
+        "title": "{{name}},\n<strong>Tu jornada aun no ha terminado.</strong>",
+        "description": "¿Deseas continuar con tu jornada?",
         "confirmButton": "Continuar"
       }
     },
@@ -224,7 +224,7 @@
           "labelInputMotive": "Seleccione el motivo",
           "labelInputDate": "Seleccione la fecha",
           "labelInputHour": "Indique la hora",
-          "descriptionTextInput": "Describa la justificación del caso *",
+          "descriptionTextInput": "Describa la justificación del caso",
           "btnSubmit": "Enviar",
           "vacationRequest": "Solicitud de vacaciones",
           "vacation": "Solicitud de vacaciones",
@@ -503,6 +503,15 @@
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
+      "requiredField": "{{field}} es requerido",
+      "requiredField_male": "{{field}} es requerido",
+      "requiredField_female": "{{field}} es requerida",
+      "welcome": "just <clickHere> to do the things",
+      "userMessagesUnread": {
+        "nameTitle": "This is your name",
+        "userMessagesUnread_one": "Hello <component>{{name}}</component>, you have {{count}} unread message. <5>Go to message</5>.",
+        "userMessagesUnread_other": "Hello <1>{{name}}</1>, you have {{count}} unread messages.  <5>Go to messages</5>."
+      },
       "notAvailableShort": "N/A"
     }
   }
