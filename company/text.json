@@ -502,7 +502,8 @@
         "USR06": "El número de días de vacaciones solicitados supera los días disponibles."
       },
       "closeSnackbar": "Cerrar",
-      "updatedProfilePicture": "Foto de perfil actualizada"
+      "updatedProfilePicture": "Foto de perfil actualizada",
+      "notAvailableShort": "N/A"
     }
   }
 }
