@@ -55,7 +55,7 @@
         },
         "settingPassword": {
           "title": "Actualizar Contraseña",
-          "placeHolderPassword": "Ingrese contraseña",
+          "placeHolderPassword": "Ingrese la contraseña",
           "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
           "password": "Nueva contraseña",
           "updatePassword": "Reestablecer contraseña",
@@ -134,7 +134,7 @@
           "updatePasswordSuccessfully": "Tu contraseña se actualizó exitosamente",
           "wrongCredentials": "El usuario y la contraseña no coinciden",
           "passwordDontMatch": "La contraseña no coincide",
-          "secondTextDescription": "Debes actualizar tu contraseña para continuar",
+          "secondTextDescription": "Debes actualizar tu contraseña para continuar.\n\nLa contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
           "titleModalPasswordUpdate": "Contraseña actualizada",
           "descriptionModalPasswordUpdate": "Su contraseña se ha cambiado exitosamente",
           "btnModalPasswordUpdate": "ENTENDIDO",
