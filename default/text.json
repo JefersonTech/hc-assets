@@ -186,7 +186,8 @@
           "theImeiIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
           "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
           "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
-          "unknownError": "Ha ocurrido un error inesperado "
+          "unknownError": "Ha ocurrido un error inesperado ",
+          "invalidCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo"
         }
       },
       "general": {
