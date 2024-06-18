@@ -206,7 +206,8 @@
             "approved": "Solicitud aprobada"
           }
         },
-        "remaining_days": "Dias disponibles"
+        "remaining_days": "Dias disponibles",
+        "request_date": "Fecha de la solicitud"
       },
       "creationRequest": {
         "selectRequest": {
