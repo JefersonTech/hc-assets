@@ -416,7 +416,7 @@
           "amounts": "(0)[Cant: {{current}}/{{count}}];(1)[Cant: {{current}}/{{count}}]; (2-inf)[Cant: {{current}}/{{count}}]",
           "attachedTitle": "LISTADO DE ADJUNTOS",
           "maxSize": "Max: {{size}} mb",
-          "uploaded": "Evidencias cargadas con éxito!",
+          "uploaded": "¡Evidencias cargadas con éxito!",
           "uploading": "Subiendo evidencias",
           "cameraPermission": "Necesitamos su permiso para mostrar la cámara",
           "grantPermission": "conceder permiso"
