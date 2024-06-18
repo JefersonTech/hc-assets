@@ -205,7 +205,8 @@
             "rejected": "Solicitud rechazada",
             "approved": "Solicitud aprobada"
           }
-        }
+        },
+        "remaining_days": "Dias disponibles"
       },
       "creationRequest": {
         "selectRequest": {
