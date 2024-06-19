@@ -27,7 +27,8 @@
         "textIncident": "Incidencia",
         "btnJustify": "Justificar",
         "untilDate": "Hasta",
-        "dateTextTitle": "FECHA"
+        "dateTextTitle": "FECHA",
+        "entry": "Entrada"
       },
       "anyRecordForToday": "No has registrado tu entrada hoy"
     },
