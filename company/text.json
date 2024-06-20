@@ -27,7 +27,8 @@
         "textIncident": "Incidencia",
         "btnJustify": "Justificar",
         "untilDate": "Hasta",
-        "dateTextTitle": "FECHA"
+        "dateTextTitle": "FECHA",
+        "entry": "Entrada"
       },
       "anyRecordForToday": "No has registrado tu entrada hoy"
     },
@@ -205,7 +206,9 @@
             "rejected": "Solicitud rechazada",
             "approved": "Solicitud aprobada"
           }
-        }
+        },
+        "remaining_days": "Dias disponibles",
+        "request_date": "Fecha de la solicitud"
       },
       "creationRequest": {
         "selectRequest": {
@@ -319,8 +322,8 @@
       }
     },
     "general": {
-      "date": "d/MM/y hh:mmaaa",
-      "shortDate": "d/MM/y",
+      "date": "dd/MM/yyyy hh:mmaaa",
+      "shortDate": "dd/MM/yyyy",
       "normalDate": "d 'de' MMMM",
       "shortHour": "hh:mmaaa",
       "hourNoneIndicators": "KK:mm",
@@ -416,7 +419,7 @@
           "amounts": "(0)[Cant: {{current}}/{{count}}];(1)[Cant: {{current}}/{{count}}]; (2-inf)[Cant: {{current}}/{{count}}]",
           "attachedTitle": "LISTADO DE ADJUNTOS",
           "maxSize": "Max: {{size}} mb",
-          "uploaded": "Evidencias cargadas con éxito!",
+          "uploaded": "¡Evidencias cargadas con éxito!",
           "uploading": "Subiendo evidencias",
           "cameraPermission": "Necesitamos su permiso para mostrar la cámara",
           "grantPermission": "conceder permiso"
