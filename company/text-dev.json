@@ -502,7 +502,10 @@
         "CHK04": "No puede continuar con su inscripción. Ya se ha aprobado una solicitud anterior de vacaciones, permiso u otros.",
         "REQ05": "La fecha de inicio debe ser mayor o igual que la fecha actual.",
         "REQ04": "La fecha final debe ser posterior a la fecha de inicio.",
-        "USR06": "El número de días de vacaciones solicitados supera los días disponibles."
+        "USR06": "El número de días de vacaciones solicitados supera los días disponibles.",
+        "USR09": "El estado de horas extra solicitado ya está en uso.",
+        "USR08": "La fecha de inicio de la solicitud de incapacidad es inferior a la fecha de solicitud admisible.",
+        "USR07": "La fecha de inicio de la solicitud de vacaciones es inferior a la fecha de solicitud permitida."
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
