@@ -505,7 +505,11 @@
         "USR06": "El número de días de vacaciones solicitados supera los días disponibles.",
         "USR09": "El estado de horas extra solicitado ya está en uso.",
         "USR08": "La fecha de inicio de la solicitud de incapacidad es inferior a la fecha de solicitud admisible.",
-        "USR07": "La fecha de inicio de la solicitud de vacaciones es inferior a la fecha de solicitud permitida."
+        "USR07": "La fecha de inicio de la solicitud de vacaciones es inferior a la fecha de solicitud permitida.",
+        "WPD07": "Formato de hora no válido.",
+        "WPD08": "La hora de inicio es mayor que la hora de finalización.",
+        "WPD09": "Día de la semana no válido.",
+        "WPD10": "Tipo de período de trabajo no válido."
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
