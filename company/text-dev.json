@@ -509,7 +509,8 @@
         "WPD07": "Formato de hora no válido.",
         "WPD08": "La hora de inicio es mayor que la hora de finalización.",
         "WPD09": "Día de la semana no válido.",
-        "WPD10": "Tipo de período de trabajo no válido."
+        "WPD10": "Tipo de período de trabajo no válido.",
+        "WPD11": "La fecha de inicio y la fecha final son obligatorias"
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
