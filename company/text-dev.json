@@ -125,7 +125,8 @@
         "sendRequestText": "Enviada ",
         "textFilter": "Filtrar por ",
         "textOrder": "Ordenar por ",
-        "btnNewRequest": "Nueva Solicitud"
+        "btnNewRequest": "Nueva Solicitud",
+         "search_delegate_user": "Buscar persona a delegar"
       },
       "awaitingMyRequests": {
         "title": "Mis Solicitudes",
@@ -318,7 +319,8 @@
           "title": "Jornada Actualizada",
           "description": "El cambio de jornada fue realizado con éxito",
           "textBtn": "ENTENDIDO"
-        }
+        },
+        "update_turn": "Actualizar Turno"
       }
     },
     "general": {
@@ -419,7 +421,7 @@
           "amounts": "(0)[Cant: {{current}}/{{count}}];(1)[Cant: {{current}}/{{count}}]; (2-inf)[Cant: {{current}}/{{count}}]",
           "attachedTitle": "LISTADO DE ADJUNTOS",
           "maxSize": "Max: {{size}} mb",
-          "uploaded": "¡Evidencias cargadas con éxito!",
+          "uploaded": "(0)[{{count}} ¡Evidencias cargadas con éxito!];(1)[{{count}} ¡Evidencia cargada con éxito!];(2-inf)[{{count}} ¡Evidencias cargadas con éxito!]",
           "uploading": "Subiendo evidencias",
           "cameraPermission": "Necesitamos su permiso para mostrar la cámara",
           "grantPermission": "conceder permiso"
@@ -524,6 +526,26 @@
         "userMessagesUnread_other": "Hello <1>{{name}}</1>, you have {{count}} unread messages.  <5>Go to messages</5>."
       },
       "notAvailableShort": "N/A"
+    },
+    "work_periods": {
+      "schedule_date_item": "{{data_from}} - {{-date_to}} / {{-type}}",
+      "discard_confirmation": {
+        "title": "¿Seguro quieres descartar este turno?",
+        "text": "",
+        "confirm": "Sí, confirmar",
+        "cancel": "No, regresar"
+      },
+      "set_turn_title": "Turno de trabajo",
+      "set_turn_week_days": "Seleccione los días laborables de esta jornada",
+      "set_turn_add_turn": "Indique los bloques horarios de esta jornada",
+      "set_turn_turn_range": "Guardar",
+      "set_turn_invalid_turn_date": "El turno no es valido.",
+      "set_turn_at_least_one_day_is_required": "Se requiere al menos un día para agregar un turno",
+      "turns_title": "Turnos de trabajo",
+      "turns_is_temporal": "Es temporal",
+      "turns_submit": "Guardar",
+      "turns_created": "Turnos de trabajo creados exitosamente",
+      "turns_workingtime": "Laboral"
     }
   }
 }
