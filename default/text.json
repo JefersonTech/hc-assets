@@ -199,7 +199,8 @@
     },
     "general": {
       "headerReturn": "Regresar",
-      "requiredField": "El {{field}} es requerido"
+      "requiredField": "El {{field}} es requerido",
+      "unknownError": "Ha ocurrido un error inesperado "
     }
   }
 }
