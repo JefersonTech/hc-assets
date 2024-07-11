@@ -126,7 +126,7 @@
         "textFilter": "Filtrar por ",
         "textOrder": "Ordenar por ",
         "btnNewRequest": "Nueva Solicitud",
-         "search_delegate_user": "Buscar persona a delegar"
+        "search_delegate_user": "Buscar persona a delegar"
       },
       "awaitingMyRequests": {
         "title": "Mis Solicitudes",
@@ -519,7 +519,8 @@
       "requiredField": "{{field}} es requerido",
       "requiredField_male": "{{field}} es requerido",
       "requiredField_female": "{{field}} es requerida",
-      "notAvailableShort": "N/A"
+      "notAvailableShort": "N/A",
+      "unknownError": "Ha ocurrido un error inesperado "
     },
     "work_periods": {
       "schedule_date_item": "{{data_from}} - {{-date_to}} / {{-type}}",
