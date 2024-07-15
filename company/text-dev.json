@@ -251,7 +251,8 @@
           "missed_shift": "Ausencia de turno",
           "prompt_exit": "Solicitud de salida anticipada",
           "checkout_omission": "Omisión de registro de salida",
-          "date_from": "Inicio de vacaciones"
+          "date_from": "Inicio de vacaciones",
+          "date_end": "Término de periodo vacacional"
         },
         "inabilityRequest": {
           "folio": "Folio de Incapacidad",
