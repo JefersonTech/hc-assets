@@ -254,7 +254,7 @@
         },
         "inabilityRequest": {
           "folio": "Folio de Incapacidad",
-          "dateFrom": "Desde",
+          "dateFrom": "Fecha inicial de incapacidad",
           "numberOfDays": "Número de días",
           "insuranceBranch": "Ramo del seguro",
           "typeInability": "Tipo de Incapacidad",
