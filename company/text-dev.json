@@ -416,10 +416,10 @@
           "videosFromGallery": "video de galería"
         },
         "general": {
-          "title": "LISTADO DE ADJUNTOS",
+          "title": "LISTA DE ADJUNTOS",
           "anyValidFileToAttach": "No se han encontrado archivos válidos para adjuntar",
           "amounts": "(0)[Cant: {{current}}/{{count}}];(1)[Cant: {{current}}/{{count}}]; (2-inf)[Cant: {{current}}/{{count}}]",
-          "attachedTitle": "LISTADO DE ADJUNTOS",
+          "attachedTitle": "LISTA DE ADJUNTOS",
           "maxSize": "Max: {{size}} mb",
           "uploaded": "(0)[{{count}} ¡Evidencias cargadas con éxito!];(1)[{{count}} ¡Evidencia cargada con éxito!];(2-inf)[{{count}} ¡Evidencias cargadas con éxito!]",
           "uploading": "Subiendo evidencias",
@@ -520,7 +520,8 @@
       "requiredField_male": "{{field}} es requerido",
       "requiredField_female": "{{field}} es requerida",
       "notAvailableShort": "N/A",
-      "unknownError": "Ha ocurrido un error inesperado "
+      "unknownError": "Ha ocurrido un error inesperado ",
+      "profile_picture_description": "Foto de perfil"
     },
     "work_periods": {
       "schedule_date_item": "{{data_from}} - {{-date_to}} / {{-type}}",
