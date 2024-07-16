@@ -260,7 +260,8 @@
           "numberOfDays": "Número de días",
           "insuranceBranch": "Ramo del seguro",
           "typeInability": "Tipo de Incapacidad",
-          "dateIssued": "Fecha de expedición"
+          "dateIssued": "Fecha de expedición",
+          "folio_field_format": "Folio de incapacidad debe iniciar con 2 letras y 6 numeros"
         },
         "delayedForm": {
           "title": "Ingreso con retardo",
