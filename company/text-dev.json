@@ -524,7 +524,13 @@
       "requiredField_female": "{{field}} es requerida",
       "notAvailableShort": "N/A",
       "unknownError": "Ha ocurrido un error inesperado ",
-      "profile_picture_description": "Foto de perfil"
+      "profile_picture_description": "Foto de perfil",
+      "request_types": {
+        "checkout_omission": "Omisión de registro de salida",
+        "delay": "Retardo",
+        "prompt_exit": "Solicitud de salida anticipada",
+        "missed_shift": "Ausencia de turno"
+      }
     },
     "work_periods": {
       "schedule_date_item": "{{data_from}} - {{-date_to}} / {{-type}}",
