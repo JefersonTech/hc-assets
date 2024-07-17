@@ -529,7 +529,8 @@
         "checkout_omission": "Omisión de registro de salida",
         "delay": "Retardo",
         "prompt_exit": "Solicitud de salida anticipada",
-        "missed_shift": "Ausencia de turno"
+        "missed_shift": "Ausencia de turno",
+        "entry_on_time": "Entrada"
       }
     },
     "work_periods": {
