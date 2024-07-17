@@ -28,7 +28,10 @@
         "btnJustify": "Justificar",
         "untilDate": "Hasta",
         "dateTextTitle": "FECHA",
-        "entry": "Entrada"
+        "entry": "Entrada",
+        "on_vacation": "Vacaciones",
+        "on_inability": "Incapacidad",
+        "on_request": "Solicitud de permiso"
       },
       "anyRecordForToday": "No has registrado tu entrada hoy"
     },
