@@ -297,7 +297,10 @@
           "descriptionModalDetailsPartTwo": "ha sido aprobada",
           "btnText": "VER DETALLE",
           "formHour": "HH:mm"
-        }
+        },
+        "inability_date_from": "Fecha inicial de incapacidad",
+        "vacation_date_from": "Inicio de vacaciones",
+        "vacation_date_end": "Término de periodo vacacional"
       },
       "filter": {
         "dateFrom": "Desde",
