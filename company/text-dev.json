@@ -32,7 +32,7 @@
         "on_vacation": "Vacaciones",
         "on_inability": "Incapacidad",
         "on_request": "Solicitud de permiso",
-        "on_vacation_range": "Desde: {{-date_from}} Hasta: {{-date_to}}"
+        "on_vacation_range": "Desde: {{-date_from}} - Hasta: {{-date_to}}"
       },
       "anyRecordForToday": "No has registrado tu entrada hoy"
     },
