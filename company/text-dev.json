@@ -426,10 +426,10 @@
           "videosFromGallery": "video de galería"
         },
         "general": {
-          "title": "LISTA DE ADJUNTOS",
+          "title": "Lista de Adjuntos",
           "anyValidFileToAttach": "No se han encontrado archivos válidos para adjuntar",
           "amounts": "(0)[Cant: {{current}}/{{count}}];(1)[Cant: {{current}}/{{count}}]; (2-inf)[Cant: {{current}}/{{count}}]",
-          "attachedTitle": "LISTA DE ADJUNTOS",
+          "attachedTitle": "Lista de Adjuntos",
           "maxSize": "Max: {{size}} mb",
           "uploaded": "(0)[{{count}} ¡Evidencias cargadas con éxito!];(1)[{{count}} ¡Evidencia cargada con éxito!];(2-inf)[{{count}} ¡Evidencias cargadas con éxito!]",
           "uploading": "Subiendo evidencias",
