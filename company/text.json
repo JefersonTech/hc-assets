@@ -264,7 +264,6 @@
           "numberOfDays": "Número de días",
           "insuranceBranch": "Ramo del seguro",
           "typeInability": "Tipo de Incapacidad",
-          "dateIssued": "Fecha de expedición",
           "folio_field_format": "Folio de incapacidad debe iniciar con 2 letras y 6 numeros"
         },
         "delayedForm": {
@@ -301,7 +300,10 @@
         },
         "inability_date_from": "Fecha inicial de incapacidad",
         "vacation_date_from": "Inicio de vacaciones",
-        "vacation_date_end": "Término de periodo vacacional"
+        "vacation_date_end": "Término de periodo vacacional",
+        "clear_form": "Limpiar la solicitud",
+        "input_request_status": "Estatus de las solicitudes",
+        "reset_filter": "Limpiar filtros"
       },
       "filter": {
         "dateFrom": "Desde",
@@ -529,12 +531,6 @@
       "requiredField": "{{field}} es requerido",
       "requiredField_male": "{{field}} es requerido",
       "requiredField_female": "{{field}} es requerida",
-      "welcome": "just <clickHere> to do the things",
-      "userMessagesUnread": {
-        "nameTitle": "This is your name",
-        "userMessagesUnread_one": "Hello <component>{{name}}</component>, you have {{count}} unread message. <5>Go to message</5>.",
-        "userMessagesUnread_other": "Hello <1>{{name}}</1>, you have {{count}} unread messages.  <5>Go to messages</5>."
-      },
       "notAvailableShort": "N/A",
       "unknownError": "Ha ocurrido un error inesperado ",
       "profile_picture_description": "Foto de perfil",

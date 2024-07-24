@@ -264,7 +264,6 @@
           "numberOfDays": "Número de días",
           "insuranceBranch": "Ramo del seguro",
           "typeInability": "Tipo de Incapacidad",
-          "dateIssued": "Fecha de expedición",
           "folio_field_format": "Folio de incapacidad debe iniciar con 2 letras y 6 numeros"
         },
         "delayedForm": {
@@ -301,7 +300,10 @@
         },
         "inability_date_from": "Fecha inicial de incapacidad",
         "vacation_date_from": "Inicio de vacaciones",
-        "vacation_date_end": "Término de periodo vacacional"
+        "vacation_date_end": "Término de periodo vacacional",
+        "clear_form": "Limpiar la solicitud",
+        "input_request_status": "Estatus de las solicitudes",
+        "reset_filter": "Limpiar filtros"
       },
       "filter": {
         "dateFrom": "Desde",
