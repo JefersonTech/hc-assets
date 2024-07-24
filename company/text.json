@@ -212,7 +212,7 @@
             "approved": "Solicitud aprobada"
           }
         },
-        "remaining_days": "Dias disponibles",
+        "remaining_days": "Días disponibles",
         "request_date": "Fecha de la solicitud"
       },
       "creationRequest": {
@@ -236,7 +236,7 @@
           "btnSubmit": "Enviar",
           "vacationRequest": "Solicitud de vacaciones",
           "vacation": "Solicitud de vacaciones",
-          "remainingDays": "(0)[Dias disponibles: {{count}}];(1)[Dias disponibles: {{count}}];(2-inf)[Dias disponibles: {{count}}]",
+          "remainingDays": "(0)[Días disponibles: {{count}}];(1)[Días disponibles: {{count}}];(2-inf)[Días disponibles: {{count}}]",
           "permission_request": "Solicitud de permiso",
           "inability": "Solicitud de incapacidad",
           "lack": "Justificación de falta",
