@@ -303,7 +303,8 @@
         "vacation_date_end": "Término de periodo vacacional",
         "clear_form": "Limpiar la solicitud",
         "input_request_status": "Estatus de las solicitudes",
-        "reset_filter": "Limpiar filtros"
+        "reset_filter": "Limpiar filtros",
+        "request_with_paid_leave:": "Permiso con goce de sueldo"
       },
       "filter": {
         "dateFrom": "Desde",
