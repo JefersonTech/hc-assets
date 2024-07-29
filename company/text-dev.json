@@ -137,6 +137,7 @@
         "sendRequestText": "Enviada "
       },
       "approbationRequest": {
+        "approve_request": "Aprobación de Solicitud",
         "btnAprobationText": "Confirmar Aprobación",
         "labelTextAreaInputAddComments": "Agregar comentarios",
         "textSuccessfullAction": "La solicitud fue aprobada con éxito",
