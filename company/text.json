@@ -137,6 +137,7 @@
         "sendRequestText": "Enviada "
       },
       "approbationRequest": {
+        "approve_request": "Aprobación de Solicitud",
         "btnAprobationText": "Confirmar Aprobación",
         "labelTextAreaInputAddComments": "Agregar comentarios",
         "textSuccessfullAction": "La solicitud fue aprobada con éxito",
@@ -218,7 +219,7 @@
       "creationRequest": {
         "selectRequest": {
           "title": "¿Cómo podemos ayudarte?",
-          "textCardPermitRequest": "Solicitud Permiso",
+          "textCardPermitRequest": "Solicitud de Permiso",
           "textCardInability": "Incapacidad",
           "textCardJustificationOfAbsence": "Justificación de falta",
           "textCardEarlyDeparture": "Salida Anticipada",
@@ -256,7 +257,7 @@
           "prompt_exit": "Solicitud de salida anticipada",
           "checkout_omission": "Omisión de registro de salida",
           "date_from": "Inicio de vacaciones",
-          "date_end": "Término de periodo vacacional"
+          "exceeds_allowable_days": "El número de días de vacaciones solicitados supera los días disponibles."
         },
         "inabilityRequest": {
           "folio": "Folio de Incapacidad",
@@ -303,7 +304,8 @@
         "vacation_date_end": "Término de periodo vacacional",
         "clear_form": "Limpiar la solicitud",
         "input_request_status": "Estatus de las solicitudes",
-        "reset_filter": "Limpiar filtros"
+        "reset_filter": "Limpiar filtros",
+        "request_with_paid_leave": "Permiso con goce de sueldo"
       },
       "filter": {
         "dateFrom": "Desde",
