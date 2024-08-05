@@ -99,7 +99,7 @@
     },
     "searchCollaborators": {
       "title": "Buscar colaboradores",
-      "labelIdUser": "ID MacroPay o Nombre del Usuario",
+      "labelIdUser": "ID Macropay o Nombre del usuario",
       "labelIdBranch": "ID Sucursal o Nombre de la Sucursal",
       "labelDepartment": "Departamento",
       "labelPosition": "Puesto",
@@ -114,7 +114,7 @@
       "btnFilters": "Aplicar Filtros",
       "modalFilters": {
         "title": "Filtrar por",
-        "labelIdUser": "ID MacroPay o Nombre del Usuario",
+        "labelIdUser": "ID Macropay o Nombre del usuario",
         "labelIdBranch": "ID Sucursal o Nombre de la Sucursal",
         "labelDepartment": "Departamento",
         "labelPosition": "Puesto",
