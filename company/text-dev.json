@@ -305,7 +305,8 @@
         "clear_form": "Limpiar la solicitud",
         "input_request_status": "Estatus de las solicitudes",
         "reset_filter": "Limpiar filtros",
-        "request_with_paid_leave": "Permiso con goce de sueldo"
+        "request_with_paid_leave": "Permiso con goce de sueldo",
+        "type_of_request": "Tipo de solicitud"
       },
       "filter": {
         "dateFrom": "Desde",
