@@ -493,16 +493,16 @@
       "noEstablishedWorkday": "No hay jornada establecida",
       "userNoAssignment": "No tienes asignaciones",
       "parameters": {
-        "work_turns_type": {
+        "workTurnsType": {
           "name": "Tipo de turno"
         },
-        "insurance_branch": {
+        "insuranceBranch": {
           "name": "Ramo del seguro"
         },
-        "type_occupational_risk": {
+        "typeOccupationalRisk": {
           "name": "Tipo de riesgo"
         },
-        "type_inability": {
+        "typeInability": {
           "name": "Tipo de incapacidad"
         }
       },
