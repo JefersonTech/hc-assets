@@ -529,7 +529,8 @@
         "WPD08": "La hora de inicio es mayor que la hora de finalización.",
         "WPD09": "Día de la semana no válido.",
         "WPD10": "Tipo de período de trabajo no válido.",
-        "WPD11": "La fecha de inicio y la fecha final son obligatorias"
+        "WPD11": "La fecha de inicio y la fecha final son obligatorias",
+        "REQ09": "El número de días solicitado no es válido."
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
