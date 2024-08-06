@@ -275,7 +275,8 @@
           "descriptionTextInput": "Describa la justificación del caso *",
           "btnSubmit": "ACEPTAR"
         },
-        "submitJustificationBtn": "Enviar Justificación"
+        "submitJustificationBtn": "Enviar Justificación",
+        "minDays": "Debe seleccionar al menos un día"
       },
       "justify": {
         "confirm": {
