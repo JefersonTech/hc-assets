@@ -99,7 +99,7 @@
     },
     "searchCollaborators": {
       "title": "Buscar colaboradores",
-      "labelIdUser": "ID MacroPay o Nombre del Usuario",
+      "labelIdUser": "ID Macropay o Nombre del usuario",
       "labelIdBranch": "ID Sucursal o Nombre de la Sucursal",
       "labelDepartment": "Departamento",
       "labelPosition": "Puesto",
@@ -114,7 +114,7 @@
       "btnFilters": "Aplicar Filtros",
       "modalFilters": {
         "title": "Filtrar por",
-        "labelIdUser": "ID MacroPay o Nombre del Usuario",
+        "labelIdUser": "ID Macropay o Nombre del usuario",
         "labelIdBranch": "ID Sucursal o Nombre de la Sucursal",
         "labelDepartment": "Departamento",
         "labelPosition": "Puesto",
@@ -219,7 +219,7 @@
       "creationRequest": {
         "selectRequest": {
           "title": "¿Cómo podemos ayudarte?",
-          "textCardPermitRequest": "Solicitud de Permiso",
+          "textCardPermitRequest": "Solicitud de permiso",
           "textCardInability": "Incapacidad",
           "textCardJustificationOfAbsence": "Justificación de falta",
           "textCardEarlyDeparture": "Salida Anticipada",
@@ -234,6 +234,7 @@
           "labelInputDate": "Seleccione la fecha",
           "labelInputHour": "Indique la hora",
           "descriptionTextInput": "Describa la justificación del caso",
+          "description_inability": "Descripción del riesgo",
           "btnSubmit": "Enviar",
           "vacationRequest": "Solicitud de vacaciones",
           "vacation": "Solicitud de vacaciones",
@@ -274,7 +275,8 @@
           "descriptionTextInput": "Describa la justificación del caso *",
           "btnSubmit": "ACEPTAR"
         },
-        "submitJustificationBtn": "Enviar Justificación"
+        "submitJustificationBtn": "Enviar Justificación",
+        "minDays": "Debe seleccionar al menos un día"
       },
       "justify": {
         "confirm": {
@@ -305,7 +307,8 @@
         "clear_form": "Limpiar la solicitud",
         "input_request_status": "Estatus de las solicitudes",
         "reset_filter": "Limpiar filtros",
-        "request_with_paid_leave": "Permiso con goce de sueldo"
+        "request_with_paid_leave": "Permiso con goce de sueldo",
+        "type_of_request": "Tipo de solicitud"
       },
       "filter": {
         "dateFrom": "Desde",
@@ -491,16 +494,16 @@
       "noEstablishedWorkday": "No hay jornada establecida",
       "userNoAssignment": "No tienes asignaciones",
       "parameters": {
-        "work_turns_type": {
+        "workTurnsType": {
           "name": "Tipo de turno"
         },
-        "insurance_branch": {
+        "insuranceBranch": {
           "name": "Ramo del seguro"
         },
-        "type_occupational_risk": {
+        "typeOccupationalRisk": {
           "name": "Tipo de riesgo"
         },
-        "type_inability": {
+        "typeInability": {
           "name": "Tipo de incapacidad"
         }
       },
@@ -526,7 +529,8 @@
         "WPD08": "La hora de inicio es mayor que la hora de finalización.",
         "WPD09": "Día de la semana no válido.",
         "WPD10": "Tipo de período de trabajo no válido.",
-        "WPD11": "La fecha de inicio y la fecha final son obligatorias"
+        "WPD11": "La fecha de inicio y la fecha final son obligatorias",
+        "REQ09": "El número de días solicitado no es válido."
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
