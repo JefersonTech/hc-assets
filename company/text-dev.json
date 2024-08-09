@@ -337,7 +337,8 @@
           "description": "El cambio de jornada fue realizado con éxito",
           "textBtn": "ENTENDIDO"
         },
-        "update_turn": "Actualizar Turno"
+        "update_turn": "Actualizar Turno",
+        "dayTemporalDescription": "Temporal: {{-date}} al {{-date}}"
       }
     },
     "general": {
