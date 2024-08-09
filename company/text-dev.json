@@ -338,7 +338,7 @@
           "textBtn": "ENTENDIDO"
         },
         "update_turn": "Actualizar Turno",
-        "dayTemporalDescription": "Temporal: {{-date}} al {{-date}}"
+        "dayTemporalDescription": "Temporal: {{-dateFrom}} al {{-dateTo}}"
       }
     },
     "general": {
