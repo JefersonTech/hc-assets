@@ -530,7 +530,9 @@
         "WPD09": "Día de la semana no válido.",
         "WPD10": "Tipo de período de trabajo no válido.",
         "WPD11": "La fecha de inicio y la fecha final son obligatorias",
-        "REQ09": "El número de días solicitado no es válido."
+        "REQ09": "El número de días solicitado no es válido.",
+        "C01WRKP10": "Fechas no válidas, ya existe una asignación temporal para ese periodo",
+        "MAE01": "No pudo comunicarse con la api maestra"
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
