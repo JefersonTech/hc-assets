@@ -571,7 +571,7 @@
       "turns_created": "Turnos de trabajo creados exitosamente",
       "turns_workingtime": "Laboral",
       "conflictsIdentified": "Conflictos detectados",
-      "conflictsIdentifiedDescription": "Se han detectado 1 conflictos, por favor confirme la selección de los registros a los que desea aplicar los cambios",
+      "conflictsIdentifiedDescription": "Se ha detectado un conflicto, por favor confirme la nueva modificacion de turnos de trabajo",
       "conflictsIdentifiedConfirm": "Confirmar y aplicar"
     }
   }
