@@ -549,6 +549,10 @@
         "prompt_exit": "Solicitud de salida anticipada",
         "missed_shift": "Ausencia de turno",
         "entry_on_time": "Entrada"
+      },
+      "requestDescription": {
+        "permission_request": "justificación del caso",
+        "inability": "descripción del riesgo"
       }
     },
     "work_periods": {
