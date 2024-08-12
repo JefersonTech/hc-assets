@@ -551,7 +551,7 @@
         "entry_on_time": "Entrada"
       },
       "requestDescription": {
-        "permission_request": "justificación del caso",
+        "permissionRequest": "justificación del caso",
         "inability": "descripción del riesgo"
       }
     },
