@@ -569,7 +569,10 @@
       "turns_is_temporal": "Es temporal",
       "turns_submit": "Guardar",
       "turns_created": "Turnos de trabajo creados exitosamente",
-      "turns_workingtime": "Laboral"
+      "turns_workingtime": "Laboral",
+      "conflictsIdentified": "Conflictos detectados",
+      "conflictsIdentifiedDescription": "Se han detectado 1 conflictos, por favor confirme la selección de los registros a los que desea aplicar los cambios",
+      "conflictsIdentifiedConfirm": "Confirmar y aplicar"
     }
   }
 }
