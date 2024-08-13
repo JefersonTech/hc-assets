@@ -198,7 +198,8 @@
           "descriptionModal": "La solicitud fue delegada con éxito",
           "textBtnModal": "ENTENDIDO"
         },
-        "searchBar": "Buscar persona a delegar"
+        "searchBar": "Buscar persona a delegar",
+        "confirm": "Delegar solicitud"
       },
       "details": {
         "textBtnDelegate": "Delegar",
