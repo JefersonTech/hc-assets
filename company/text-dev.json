@@ -199,7 +199,10 @@
           "textBtnModal": "ENTENDIDO"
         },
         "searchBar": "Buscar persona a delegar",
-        "confirm": "Delegar solicitud"
+        "confirm": "Delegar solicitud",
+        "confirmTitle": "¿Está seguro que desea delegar esta solicitud? Al hacerlo, este usuario podrá realizar acciones que modifiquen la misma.",
+        "confirmAccept": "Confirmar",
+        "confirmCancel": "Cancelar"
       },
       "details": {
         "textBtnDelegate": "Delegar",
