@@ -129,8 +129,7 @@
         "sendRequestText": "Enviada ",
         "textFilter": "Filtrar por ",
         "textOrder": "Ordenar por ",
-        "btnNewRequest": "Nueva Solicitud",
-        "search_delegate_user": "Buscar persona a delegar"
+        "btnNewRequest": "Nueva Solicitud"
       },
       "awaitingMyRequests": {
         "title": "Mis Solicitudes",
@@ -198,7 +197,8 @@
           "titleModal": "Solicitud delegada",
           "descriptionModal": "La solicitud fue delegada con éxito",
           "textBtnModal": "ENTENDIDO"
-        }
+        },
+        "searchBar": "Buscar persona a delegar"
       },
       "details": {
         "textBtnDelegate": "Delegar",
