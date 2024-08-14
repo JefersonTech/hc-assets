@@ -200,9 +200,10 @@
         },
         "searchBar": "Buscar persona a delegar",
         "confirm": "Delegar solicitud",
-        "confirmTitle": "¿Está seguro que desea delegar esta solicitud? Al hacerlo, este usuario podrá realizar acciones que modifiquen la misma.",
-        "confirmAccept": "Confirmar",
-        "confirmCancel": "Cancelar"
+        "confirmTitle": "¿Está seguro que desea delegar esta solicitud?",
+        "confirmDescriptionM": "Al hacerlo, este usuario podrá realizar acciones que modifiquen la misma.",
+        "confirmAccept": "CONFIRMAR",
+        "confirmCancel": "CANCELAR"
       },
       "details": {
         "textBtnDelegate": "Delegar",
