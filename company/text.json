@@ -337,7 +337,8 @@
           "description": "El cambio de jornada fue realizado con éxito",
           "textBtn": "ENTENDIDO"
         },
-        "update_turn": "Actualizar Turno"
+        "update_turn": "Actualizar Turno",
+        "dayTemporalDescription": "Temporal: {{-dateFrom}} al {{-dateTo}}"
       }
     },
     "general": {
@@ -530,7 +531,9 @@
         "WPD09": "Día de la semana no válido.",
         "WPD10": "Tipo de período de trabajo no válido.",
         "WPD11": "La fecha de inicio y la fecha final son obligatorias",
-        "REQ09": "El número de días solicitado no es válido."
+        "REQ09": "El número de días solicitado no es válido.",
+        "C01WRKP10": "Fechas no válidas, ya existe una asignación temporal para ese periodo",
+        "MAE01": "No pudo comunicarse con la api maestra"
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
@@ -546,6 +549,11 @@
         "prompt_exit": "Solicitud de salida anticipada",
         "missed_shift": "Ausencia de turno",
         "entry_on_time": "Entrada"
+      },
+      "requestDescription": {
+        "permissionRequest": "justificación del caso",
+        "inability": "descripción del riesgo",
+        "missedShift": "justificación del caso"
       }
     },
     "work_periods": {
@@ -566,7 +574,10 @@
       "turns_is_temporal": "Es temporal",
       "turns_submit": "Guardar",
       "turns_created": "Turnos de trabajo creados exitosamente",
-      "turns_workingtime": "Laboral"
+      "turns_workingtime": "Laboral",
+      "conflictsIdentified": "Conflictos detectados",
+      "conflictsIdentifiedDescription": "Se ha detectado un conflicto, por favor confirme la nueva modificacion de turnos de trabajo",
+      "conflictsIdentifiedConfirm": "Confirmar y aplicar"
     }
   }
 }
