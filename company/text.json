@@ -533,7 +533,10 @@
         "WPD11": "La fecha de inicio y la fecha final son obligatorias",
         "REQ09": "El número de días solicitado no es válido.",
         "C01WRKP10": "Fechas no válidas, ya existe una asignación temporal para ese periodo",
-        "MAE01": "No pudo comunicarse con la api maestra"
+        "MAE01": "No pudo comunicarse con la api maestra",
+        "C01SOLP05": "El perfil no tiene vacaciones activas",
+        "REQ08": "El usuario no está autorizado a realizar esta acción.",
+        "C01SOLP08": "Fechas no válidas, la fecha de inicio no puede ser inferior a la fecha de contratación"
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
