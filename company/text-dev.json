@@ -561,7 +561,8 @@
       "requestDescription": {
         "permissionRequest": "justificación del caso",
         "inability": "descripción del riesgo",
-        "missedShift": "justificación del caso"
+        "missedShift": "justificación del caso",
+        "delay": "justificación del caso"
       }
     },
     "work_periods": {
