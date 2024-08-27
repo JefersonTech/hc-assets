@@ -541,7 +541,9 @@
         "MAE01": "No pudo comunicarse con la api maestra",
         "C01SOLP05": "El perfil no tiene vacaciones activas",
         "REQ08": "El usuario no está autorizado a realizar esta acción.",
-        "C01SOLP08": "Fechas no válidas, la fecha de inicio no puede ser inferior a la fecha de contratación"
+        "C01SOLP08": "Fechas no válidas, la fecha de inicio no puede ser inferior a la fecha de contratación",
+        "C01SOLP04": "Ya existe una solicitud en este periodo",
+        "C01SOLP06": "El número de días de vacaciones solicitados es superior al número de días de vacaciones restantes."
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
