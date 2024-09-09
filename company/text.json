@@ -1,5 +1,165 @@
 {
   "en-US": {
+    "auth": {
+      "signIn": {
+        "title": "Inicio de Sesión",
+        "username": "Nombre de usuario ",
+        "password": "Ingrese Contraseña",
+        "emptyEmail": "El Email o Id es requerido",
+        "emptyPassword": "La contraseña es requerida",
+        "signIn": "Iniciar sesión",
+        "problemsToSign": "Recuperar contraseña",
+        "passwordPlaceholder": "Ingresa una contraseña",
+        "userValitedFailure": "No hemos podido validar tu usuario",
+        "wrongCredentials": "El usuario y la contraseña no coinciden",
+        "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
+        "wrongId": "El ID no cumple con las caracteristicas  necesarias",
+        "wrongPassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
+        "btnHelp": "¿Necesitas ayuda?",
+        "textBtnLogin": "Iniciar Sesión",
+        "placeHolderPassword": "*******",
+        "placeHolderUser": "Ingrese correo o ID MacroPay",
+        "TheimeiAssignedToAnotherUser": "El imei ya esta asignado a otro usuario"
+      },
+      "signUp": {
+        "signUp": {
+          "title": "Inicio de Sesión",
+          "username": "Nombre de usuario ",
+          "password": "Ingrese Contraseña",
+          "emptyEmail": "El Email o ID es requerido.",
+          "emptyPassword": "La contraseña es requerida.",
+          "signIn": "Iniciar sesión",
+          "problemsToSign": "Recuperar contraseña",
+          "passwordPlaceholder": "Ingresa una contraseña",
+          "userValitedFailure": "No hemos podido validar tu usuario",
+          "wrongCredentials": "El usuario y la contraseña no coinciden",
+          "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
+          "wrongId": "El ID no cumple con las caracteristicas  necesarias",
+          "wrongPassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
+          "btnHelp": "¿Necesitas ayuda?",
+          "textBtnLogin": "Iniciar sesión",
+          "placeHolderPassword": "*******",
+          "placeHolderUser": "Ingrese correo o ID MacroPay"
+        },
+        "settingPassword": {
+          "title": "Actualizar Contraseña",
+          "placeHolderPassword": "Ingrese la contraseña",
+          "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
+          "password": "Nueva contraseña",
+          "updatePassword": "Reestablecer contraseña",
+          "titleSuccesFulConfigurationText": "Configuración Exitosa",
+          "textSuccesFulConfigurationText": "¡Genial! Estás listo para acceder a la plataforma.",
+          "textBtnStartApp": "Comencemos",
+          "textFailedRegisterAccount": "Este equipo, ya está asociado a la cuenta de otro usuario, contacta al administrador.",
+          "titleRegisterAccount": "Registrando Cuenta",
+          "textRegisterAccount": "Espera unos segundos, estamos asociando este equipo a tu cuenta de usuario.",
+          "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
+          "passwordDontMatch": "La contraseña no coincide",
+          "requiredPasswordConfirm": "Confirma tu nueva contraseña",
+          "textBtnFailedRegisterAccount": "Volver al Inicio",
+          "requiredPassword": "Introduce tu nueva contraseña"
+        },
+        "general": {
+          "unknownError": "Ha ocurrido un error inesperado ",
+          "theUserCannotRegisterMore": "Los usuarios no pueden registrar Imei más de 3 veces."
+        }
+      },
+      "recovery": {
+        "selectOptionsRecovery": {
+          "title": "¿Necesitas ayuda para iniciar sesión?",
+          "btnTextRecoveryUser": "RECUPERAR USUARIO",
+          "btnUnderstand": "ENTENDIDO",
+          "btnTextRecoveryPassword": "RECUPERAR CONTRASEÑA",
+          "needHelpLoggingIn": "¿Necesitas ayuda para iniciar sesión?",
+          "selectTheRecoveryOption": "",
+          "textSuccessfulModal": "Se ha enviado un Correo y SMS al usuario registrado en este dispositivo"
+        },
+        "validateAccount": {
+          "title": "Validación de Cuenta",
+          "description": "Ingresa el código de verificación que enviamos al celular asociado a tu cuenta",
+          "wrongCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo.",
+          "goBack": "Regresar",
+          "resendCode": "Reenviar el código de verificación",
+          "verificationCode": "Código de verificación *",
+          "newPassword": "Nueva Contraseña*",
+          "confirmPassword": "Repetir Contraseña*",
+          "newPasswordPlaceholder": "Ingrese nueva contraseña",
+          "confirmPasswordPlaceholder": "Repetir Contraseña",
+          "updatePassword": "  Contraseña",
+          "dontMissMatchPasswords": "¡Oops! Las contraseñas no coinciden.",
+          "updatePasswordSuccessfully": "Tu contraseña ha sido actualizada exitosamente.",
+          "mustHaveAtLeast": "Debe tener mínimo",
+          "characters": "caracteres",
+          "digits": "Dígitos",
+          "passwordDontMatch": "La contraseña no coincide",
+          "requiredCode": "Introduce el código de verificación",
+          "requiredPassword": "Introduce tu nueva contraseña",
+          "requiredPasswordConfirm": "Confirma tu nueva contraseña",
+          "codeSendSuccessful": "Hemos enviado un código a tu número de teléfono",
+          "btnSnackResendCode": "Cerrar",
+          "verifyAccount": "Verificar Cuenta"
+        },
+        "updatePassword": {
+          "title": "Actualizar Contraseña",
+          "titleFailedRegisterAccount": "NO SE HA PODIDO COMPLETAR TU REGISTRO",
+          "description": "Para continuar, actualiza tu contraseña",
+          "emptyPassword": "La contraseña es requerida",
+          "confirmPassword": "Repetir Contraseña",
+          "updatePassword": "Actualizar Contraseña",
+          "dontMissMatchPasswords": "¡Oops! Las contraseñas no coinciden",
+          "updatePasswordSuccessfully": "Tu contraseña se actualizó exitosamente",
+          "wrongCredentials": "El usuario y la contraseña no coinciden",
+          "passwordDontMatch": "La contraseña no coincide",
+          "secondTextDescription": "Debes actualizar tu contraseña para continuar.\n\nLa contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)",
+          "titleModalPasswordUpdate": "Contraseña actualizada",
+          "descriptionModalPasswordUpdate": "Su contraseña se ha cambiado exitosamente",
+          "btnModalPasswordUpdate": "ENTENDIDO",
+          "placeHolderPassword": "Repita la contraseña",
+          "newPassword": "Nueva Contraseña *",
+          "newPasswordPlaceholder": "Ingresa contraseña",
+          "confirmPasswordPlaceholder": "Repetir Contraseña",
+          "btnGoback": "Regresar",
+          "textUpdatePassword": "La contraseña debe contener al menos 8 caracteres sin espacios (Números, letras mayúsculas, minúsculas y caracteres especiales #?!@$%^&*-)"
+        },
+        "verifyUserOrId": {
+          "title": "¡Queremos verificar que eres tú!",
+          "emailOrImei": "Email o ID MacroPay",
+          "placeHolderEmailOrImei": "Ingrese su Email o ID MacroPay",
+          "btnVerifyEmailOrImei": "Verificar Cuenta",
+          "emptyEmail": "El Email o ID es requerido",
+          "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
+          "wrongId": "El ID no cumple con las caracteristicas  necesarias"
+        },
+        "general": {
+          "specialCharacterNotAllowed": "La contraseña debe contener al menos 8 caracteres (caracteres especiales, números, mayúsculas y minúsculas)",
+          "strongPassword": "La contraseña debe contener de 8 a 10 caracteres alfanuméricos y al menos una mayúscula",
+          "inactiveUser": "En este momento no tiene permitido acceder. Contacte con un administrador",
+          "loginNotAllowedTitle": "Información",
+          "loginNotAllowedMessage": "En este momento no tiene permitido iniciar sesión en la aplicación.",
+          "loginNotAllowedAction": "OK",
+          "wronPassword": "El usuario y la contraseña no coinciden",
+          "wronEmail": "El usuario y la contraseña no coinciden",
+          "wronIdUser": "El ID no cumple con las caracteristicas  necesarias",
+          "wrongCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo",
+          "BtnCancel": "Cancelar",
+          "btnGoback": "Regresar",
+          "sendVerificationCodeSuccessfully": "El código de verificación se ha enviado con éxito",
+          "unKnowError": "Ha sucedido un error inesperado",
+          "btnConfirmCancelProcess": "Confirmar",
+          "btnContinueWithTheProcess": "Regresar",
+          "btnSnackResendCode": "Cerrar",
+          "titleModalConfirmCancelProcess": "¿Estás seguro que quieres regresar?",
+          "descriptionModalConfirmCancelProcess": "Al confirmar se cancelara el proceso de recuperación de contraseña.",
+          "unknownError": "Ha ocurrido un error inesperado "
+        }
+      },
+      "general": {
+        "requiredImei": "Se requiere IMEI",
+        "imeiRegisterReached": "Un usuario no puede registrar un IMEI más de tres veces, no se puede iniciar sesión. Contacta al administrador.",
+        "wrongEmail": "Debe ingresar el correo en la siguiente estructura: Ej: usuario@dominio.xx",
+        "wrongId": "El ID no cumple con las caracteristicas  necesarias"
+      }
+    },
     "registers": {
       "registers": {
         "titleCardIncidentials": "(0)[No hay solicitudes pendientes];(1)[Solicitud pendiente de revisión];(2-inf)[Solicitudes pendientes de revisión]",
@@ -129,8 +289,7 @@
         "sendRequestText": "Enviada ",
         "textFilter": "Filtrar por ",
         "textOrder": "Ordenar por ",
-        "btnNewRequest": "Nueva Solicitud",
-        "search_delegate_user": "Buscar persona a delegar"
+        "btnNewRequest": "Nueva Solicitud"
       },
       "awaitingMyRequests": {
         "title": "Mis Solicitudes",
@@ -198,7 +357,13 @@
           "titleModal": "Solicitud delegada",
           "descriptionModal": "La solicitud fue delegada con éxito",
           "textBtnModal": "ENTENDIDO"
-        }
+        },
+        "searchBar": "Buscar persona a delegar",
+        "confirm": "Delegar solicitud",
+        "confirmTitle": "¿Está seguro que desea delegar esta solicitud?",
+        "confirmDescription": "Al hacerlo, este usuario podrá realizar acciones que modifiquen la misma.",
+        "confirmAccept": "CONFIRMAR",
+        "confirmCancel": "CANCELAR"
       },
       "details": {
         "textBtnDelegate": "Delegar",
@@ -258,7 +423,9 @@
           "prompt_exit": "Solicitud de salida anticipada",
           "checkout_omission": "Omisión de registro de salida",
           "date_from": "Inicio de vacaciones",
-          "exceeds_allowable_days": "El número de días de vacaciones solicitados supera los días disponibles."
+          "exceeds_allowable_days": "El número de días de vacaciones solicitados supera los días disponibles.",
+          "holiday": "Solicitud de festivo trabajado",
+          "worked_rest": "Solicitud de descanso trabajado"
         },
         "inabilityRequest": {
           "folio": "Folio de Incapacidad",
@@ -539,7 +706,28 @@
         "C01SOLP08": "Fechas no válidas, la fecha de inicio no puede ser inferior a la fecha de contratación",
         "C01SOLP04": "Ya existe una solicitud en este periodo",
         "C01SOLP06": "El número de días de vacaciones solicitados es superior al número de días de vacaciones restantes.",
-        "C01SOLP10": "Ya se ha aprobado una solicitud para este periodo."
+        "C01SOLP10": "Ya se ha aprobado una solicitud para este periodo.",
+        "C01SOLP11": "La fecha de solicitud no es válida para la aprobación",
+        "C01WDHD05": "La solicitud de día festivo trabajado no se encuentra en un estatus válido",
+        "REQ13": "La solicitud ya existe para el día",
+        "C01WDOF05": "La solicitud de día de descanso trabajado no se encuentra en un status válido",
+        "REQ12": "La solicitud ya existe para el día",
+        "C01USER01": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "C01USER02": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "C01USER03": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
+        "C01USER04": "Usuario suspendido, no se puede iniciar sesión. Contacta al administrador.",
+        "N01GNR02": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "N01GNR01": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "N01GNR04": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "C01USRP01": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "C01USRP02": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "C01": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "C01USRP11": "No hemos encontrado ninguna cuenta asociada a estos datos.",
+        "C01USRP09": "El imei aún no está disponible para su reasignación",
+        "C03": "Se requiere el imei",
+        "C01USRP03": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
+        "C01USRP05": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo",
+        "C01USRP10": "El imei aún no está disponible para su reasignación"
       },
       "closeSnackbar": "Cerrar",
       "updatedProfilePicture": "Foto de perfil actualizada",
@@ -554,13 +742,15 @@
         "delay": "Retardo",
         "prompt_exit": "Solicitud de salida anticipada",
         "missed_shift": "Ausencia de turno",
-        "entry_on_time": "Entrada"
+        "entry_on_time": "Entrada",
+        "holiday": "Vacaciones"
       },
       "requestDescription": {
         "permissionRequest": "justificación del caso",
         "inability": "descripción del riesgo",
         "missedShift": "justificación del caso",
-        "delay": "justificación del caso"
+        "delay": "justificación del caso",
+        "holiday": "descripción de las vacaciones"
       }
     },
     "work_periods": {
